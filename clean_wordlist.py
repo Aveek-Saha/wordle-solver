@@ -1,16 +1,14 @@
 import csv
-from turtle import pos
-with open ('wordlist_all.txt', 'r', encoding='utf8') as f:
+import os
+
+with open (os.path.join('datasets', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
     # wordlist = [[row[0], row[2]] for row in csv.reader(f,delimiter=' ')]
     wordlist = [row[0] for row in csv.reader(f,delimiter=' ')]
     # print (wordlist)
 
-with open ('possible_answers.txt', 'r', encoding='utf8') as f:
-    possible = [row for row in csv.reader(f,delimiter=',')][0]
+with open (os.path.join('datasets', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
+    valid = [row for row in csv.reader(f,delimiter=',')][0]
 
-    print(len(possible))
+    print(len(valid))
 
-for word in possible:
-    if word not in wordlist:
-        print(word)
-        break
+print(len(list(set(wordlist).intersection(set(valid)))))
