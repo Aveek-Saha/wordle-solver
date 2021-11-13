@@ -16,7 +16,8 @@ def check_guess(word, guess):
         if word[i] == guess[i]:
             board[i] = 2
             indices.append(i)
-            word_copy.pop(i)
+            word_copy.remove(word[i])
+        
 
     for i, letter in enumerate(guess):
         if i not in indices and letter in word_copy:
@@ -25,7 +26,8 @@ def check_guess(word, guess):
 
     return board
 
-
+def generate_guess(previous_board):
+    return random.choice(words)
     
 
 with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
@@ -40,11 +42,15 @@ outcomes = {
 }
 
 
-start = [0, 0, 0, 0, 0]
+board = [0, 0, 0, 0, 0]
 print(word)
-print_board(start, outcomes)
 
-guess = "crane"
+for turn in range(7):
 
-print(guess)
-print_board(check_guess(word, guess), outcomes)
+    print_board(board, outcomes)
+
+    guess = generate_guess(board)
+    print(guess)
+
+
+    board = check_guess(word, guess)
