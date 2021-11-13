@@ -43,14 +43,13 @@ outcomes = {
 
 
 board = [0, 0, 0, 0, 0]
-print(word)
+print("Answer: ", word)
 
-for turn in range(7):
-
-    print_board(board, outcomes)
+for turn in range(6):
 
     guess = generate_guess(board)
     print(guess)
 
 
     board = check_guess(word, guess)
+    print_board(board, outcomes)
