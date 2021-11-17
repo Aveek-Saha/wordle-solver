@@ -1,5 +1,6 @@
 import json
 import csv
+import math
 import os
 import re
 
@@ -31,6 +32,17 @@ def filter_words(board, guess, wordlist):
 
     return wordlist
 
+def get_entropy(word, wordlist):
+    entropy = 0
+    total_words = len(list(wordlist.keys()))
+    for comb in combs:
+        poss = len(filter_words(list(comb), word, wordlist))
+
+        prob = poss/total_words
+        if prob != 0:
+            entropy += prob * math.log(1/prob, 2)
+
+    return entropy
 
 with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
     data = json.load(file)
@@ -38,4 +50,6 @@ with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
     for word in data:
         wordlist[word] = word
 
-print(filter_words([0, 0, 2, 2, 1], "creek", wordlist))
+# print(filter_words([0, 0, 2, 2, 1], "creek", wordlist))
+
+print(get_entropy("weary", wordlist))
