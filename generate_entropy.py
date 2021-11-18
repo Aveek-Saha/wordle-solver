@@ -6,8 +6,9 @@ import re
 
 from itertools import product
 
-combs = product([0, 1, 2], repeat=5)
+from tqdm import tqdm
 
+combs = list(product([0, 1, 2], repeat=5))
 
 def count_occurrences(string, pattern):
     return len([m.start() for m in re.finditer(pattern, string)])
@@ -37,7 +38,6 @@ def get_entropy(word, wordlist):
     total_words = len(list(wordlist.keys()))
     for comb in combs:
         poss = len(filter_words(list(comb), word, wordlist))
-
         prob = poss/total_words
         if prob != 0:
             entropy += prob * math.log(1/prob, 2)
@@ -52,4 +52,14 @@ with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
 
 # print(filter_words([0, 0, 2, 2, 1], "creek", wordlist))
 
-print(get_entropy("weary", wordlist))
+# print(get_entropy("first", wordlist))
+
+first_guess = {}
+for word in tqdm(wordlist):
+    entropy = get_entropy(word, wordlist)
+    first_guess[word] = entropy * data[word]
+
+sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
+
+with open(os.path.join('datasets', 'first_guess_scores_2.json'), "w") as outfile:
+    json.dump(sorted_first_guess, outfile, indent=4)
