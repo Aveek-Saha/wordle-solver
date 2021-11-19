@@ -26,30 +26,30 @@ def check_guess(word, guess):
 
     return board
 
-def generate_guess(previous_board):
-    return random.choice(words)
+# def generate_guess(previous_board):
+#     return random.choice(words)
     
 
-with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
-    words = [row for row in csv.reader(f, delimiter=',')][0]
+# with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
+#     words = [row for row in csv.reader(f, delimiter=',')][0]
 
-word = random.choice(words)
+# word = random.choice(words)
 
-outcomes = {
-    2: "🟩",
-    1: "🟨",
-    0: "⬛"
-}
-
-
-board = [0, 0, 0, 0, 0]
-print("Answer: ", word)
-
-for turn in range(6):
-
-    guess = generate_guess(board)
-    print(guess)
+# outcomes = {
+#     2: "🟩",
+#     1: "🟨",
+#     0: "⬛"
+# }
 
 
-    board = check_guess(word, guess)
-    print_board(board, outcomes)
+# board = [0, 0, 0, 0, 0]
+# print("Answer: ", word)
+
+# for turn in range(6):
+
+#     guess = generate_guess(board)
+#     print(guess)
+
+
+#     board = check_guess(word, guess)
+#     print_board(board, outcomes)

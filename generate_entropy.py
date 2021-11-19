@@ -8,8 +8,6 @@ from itertools import product
 
 from tqdm import tqdm
 
-combs = list(product([0, 1, 2], repeat=5))
-
 def count_occurrences(string, pattern):
     return len([m.start() for m in re.finditer(pattern, string)])
 
@@ -33,7 +31,7 @@ def filter_words(board, guess, wordlist):
 
     return wordlist
 
-def get_entropy(word, wordlist):
+def get_entropy(word, wordlist, combs):
     entropy = 0
     total_words = len(list(wordlist.keys()))
     for comb in combs:
@@ -44,22 +42,20 @@ def get_entropy(word, wordlist):
 
     return entropy
 
-with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
-    data = json.load(file)
-    wordlist = {}
-    for word in data:
-        wordlist[word] = word
+# combs = list(product([0, 1, 2], repeat=5))
 
-# print(filter_words([0, 0, 2, 2, 1], "creek", wordlist))
+# with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
+#     data = json.load(file)
+#     wordlist = {}
+#     for word in data:
+#         wordlist[word] = word
 
-# print(get_entropy("first", wordlist))
+# first_guess = {}
+# for word in tqdm(wordlist):
+#     entropy = get_entropy(word, wordlist)
+#     first_guess[word] = entropy * data[word]
 
-first_guess = {}
-for word in tqdm(wordlist):
-    entropy = get_entropy(word, wordlist)
-    first_guess[word] = entropy * data[word]
+# sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
 
-sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
-
-with open(os.path.join('datasets', 'first_guess_scores_2.json'), "w") as outfile:
-    json.dump(sorted_first_guess, outfile, indent=4)
+# with open(os.path.join('datasets', 'first_guess_scores_2.json'), "w") as outfile:
+#     json.dump(sorted_first_guess, outfile, indent=4)
