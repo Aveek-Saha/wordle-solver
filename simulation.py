@@ -2,22 +2,24 @@ import random
 import os
 import csv
 from itertools import product
+from pytest import fail
 from tqdm import tqdm
 from operator import itemgetter
 
 from generate_entropy import *
 from wordle import *
 
+
 def generate_guess(previous_board, previous_guess, wordlist, turn):
     if turn == 0:
         return guess, wordlist
-    
+
     if turn == 1:
         board_name = "".join([str(int) for int in list(previous_board)])
         guess_list = second_guess_scores[board_name]
         filtered_words = {guess["word"]: guess["word"] for guess in guess_list}
         return max(guess_list, key=itemgetter('score'))["word"], filtered_words
-    
+
     else:
         filtered_words = filter_words(previous_board, previous_guess, wordlist)
         next_guess = {}
@@ -25,8 +27,10 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
             entropy = get_entropy(word, filtered_words, combs)
             next_guess[word] = entropy * data[word]
         filtered_words = {word: word for word in filtered_words}
-        sorted_next_guess = list(dict(sorted(next_guess.items(), key=lambda item: item[1], reverse=True)).keys())[0]
+        sorted_next_guess = list(dict(
+            sorted(next_guess.items(), key=lambda item: item[1], reverse=True)).keys())[0]
         return sorted_next_guess, filtered_words
+
 
 with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
@@ -73,31 +77,58 @@ combs = list(product([0, 1, 2], repeat=5))
 
 score_total = 0
 failed_games = 0
-# total_games = len(words)
-total_games = 10
+total_games = len(words)
+# total_games = 10
 record = {}
-record["games"] = []
-for word in tqdm(words[:10]):
+record["games"] = {}
+index = 0
+for word in tqdm(words):
+    index += 1
     board = [0, 0, 0, 0, 0]
     guess = list(first_guess_list.keys())[0]
     score = 1
     filtered_wordlist = wordlist
     game = {}
-    # game["answer"] = 
+    game["answer"] = word
+    game["guesses"] = []
+    game["share"] = "Wordle " + str(index) + " {}/6\n\n"
+    boards = ""
 
     for turn in range(6):
         previous_guess = guess
-        guess, filtered_wordlist = generate_guess(board, previous_guess, filtered_wordlist, turn)
+        guess, filtered_wordlist = generate_guess(
+            board, previous_guess, filtered_wordlist, turn)
         board = check_guess(word, guess)
+        game["guesses"].append(guess)
+        boards += print_board(board, outcomes)+"\n"
+
         if board == [2, 2, 2, 2, 2]:
             break
         score += 1
         if turn == 5:
             score = 0
-    
+
     if score == 0:
         failed_games += 1
+        game["share"] = game["share"].format("X")
+        game["score"] = "X"
+    else:
+        game["share"] = game["share"].format(score)
+        game["score"] = score
+
+    game["share"] +=  boards
+    record["games"][index] = game
     score_total += score
 
-print("Average Score in successful games: ", score_total/(total_games-failed_games))
+record["stats"] = {
+    "total": total_games,
+    "failed": failed_games,
+    "average": score_total/(total_games-failed_games)
+}
+
+with open(os.path.join('datasets', 'simulation_results.json'), "w", encoding='utf8') as outfile:
+    json.dump(record, outfile, indent=4, ensure_ascii=False)
+
+print("Average Score in successful games: ",
+      score_total/(total_games-failed_games))
 print("Number of failed games: ", failed_games)

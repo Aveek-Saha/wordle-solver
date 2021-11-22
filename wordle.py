@@ -3,9 +3,10 @@ import os
 import random
 
 def print_board(board_array, outcomes):
+    guess_board = ""
     for sq in board_array:
-        print(outcomes[sq], end = "")
-    print()
+        guess_board += outcomes[sq]
+    return guess_board
 
 def check_guess(word, guess):
     board = [0, 0, 0, 0, 0]
