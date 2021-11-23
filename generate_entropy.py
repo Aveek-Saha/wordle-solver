@@ -44,7 +44,7 @@ def get_entropy(word, wordlist, combs):
 
 # combs = list(product([0, 1, 2], repeat=5))
 
-# with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
+# with open(os.path.join('datasets', 'valid_word_scores_norm.json'), "r") as file:
 #     data = json.load(file)
 #     wordlist = {}
 #     for word in data:
@@ -52,13 +52,16 @@ def get_entropy(word, wordlist, combs):
 
 # first_guess = {}
 # for word in tqdm(wordlist):
-#     entropy = get_entropy(word, wordlist)
+#     entropy = get_entropy(word, wordlist, combs)
 #     first_guess[word] = entropy * data[word]
 
 # sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
 
-# with open(os.path.join('datasets', 'first_guess_scores_2.json'), "w") as outfile:
+# with open(os.path.join('datasets', 'first_guess_scores_norm.json'), "w") as outfile:
 #     json.dump(sorted_first_guess, outfile, indent=4)
+
+# with open(os.path.join('datasets', 'first_guess_scores_norm.json'), "r") as file:
+#     first_guess_list = json.load(file)
 
 # first_guess = list(first_guess_list.keys())[0]
 # second_guess = {}
@@ -73,5 +76,5 @@ def get_entropy(word, wordlist, combs):
 #                 "score": entropy * data[word]
 #             })
 
-# with open(os.path.join('datasets', 'second_guess_scores.json'), "w") as outfile:
+# with open(os.path.join('datasets', 'second_guess_scores_norm.json'), "w") as outfile:
 #     json.dump(second_guess, outfile, indent=4)
