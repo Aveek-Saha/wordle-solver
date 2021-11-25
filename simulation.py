@@ -32,7 +32,7 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
         return sorted_next_guess, filtered_words
 
 
-with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
+with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
 
 with open(os.path.join('datasets', 'valid_word_scores_norm.json'), "r") as file:

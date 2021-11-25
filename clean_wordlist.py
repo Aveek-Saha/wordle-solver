@@ -15,7 +15,7 @@ def inv_tfidf(word_freq, doc_freq):
 
     return tfidf
 
-with open(os.path.join('datasets', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
+with open(os.path.join('datasets', 'words', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
     # wordlist = [[row[0], row[2]] for row in csv.reader(f,delimiter=' ')]
     wordlist = {}
     for row in csv.reader(f, delimiter=' '):
@@ -23,7 +23,7 @@ with open(os.path.join('datasets', 'wordlist_all.txt'), 'r', encoding='utf8') as
 
     # print (wordlist)
 
-with open(os.path.join('datasets', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
+with open(os.path.join('datasets', 'words', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
     valid = [row for row in csv.reader(f, delimiter=',')][0]
 
     print(len(valid))

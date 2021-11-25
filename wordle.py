@@ -31,7 +31,7 @@ def check_guess(word, guess):
 #     return random.choice(words)
     
 
-# with open(os.path.join('datasets', 'possible_answers.txt'), 'r', encoding='utf8') as f:
+# with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
 #     words = [row for row in csv.reader(f, delimiter=',')][0]
 
 # word = random.choice(words)
