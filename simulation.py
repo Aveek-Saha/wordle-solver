@@ -35,16 +35,16 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
 with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
 
-with open(os.path.join('datasets', 'valid_word_scores_norm.json'), "r") as file:
+with open(os.path.join('datasets', 'valid_word_scores.json'), "r") as file:
     data = json.load(file)
 
-with open(os.path.join('datasets', 'first_guess_scores_norm.json'), "r") as file:
+with open(os.path.join('datasets', 'first_guess_scores_final.json'), "r") as file:
     first_guess_list = json.load(file)
     wordlist = {}
     for word in first_guess_list:
         wordlist[word] = word
 
-with open(os.path.join('datasets', 'second_guess_scores_norm.json'), "r") as file:
+with open(os.path.join('datasets', 'second_guess_scores.json'), "r") as file:
     second_guess_scores = json.load(file)
 
 # word = random.choice(words)
@@ -94,7 +94,7 @@ for word in tqdm(words):
     game["share"] = "Wordle " + str(index) + " {}/6\n\n"
     boards = ""
 
-    for turn in range(6):
+    for turn in range(20):
         previous_guess = guess
         guess, filtered_wordlist = generate_guess(
             board, previous_guess, filtered_wordlist, turn)
@@ -105,8 +105,8 @@ for word in tqdm(words):
         if board == [2, 2, 2, 2, 2]:
             break
         score += 1
-        if turn == 5:
-            score = 0
+        # if turn == 5:
+        #     score = 0
 
     if score == 0:
         failed_games += 1
@@ -126,7 +126,7 @@ record["stats"] = {
     "average": score_total/(total_games-failed_games)
 }
 
-with open(os.path.join('datasets', 'simulation_results_norm.json'), "w", encoding='utf8') as outfile:
+with open(os.path.join('datasets', 'simulation_results_extended.json'), "w", encoding='utf8') as outfile:
     json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ",

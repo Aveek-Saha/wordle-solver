@@ -5,7 +5,7 @@ from collections import Counter
 
 import pandas as pd
 
-with open(os.path.join('datasets', 'simulation_results.json'), "r") as file:
+with open(os.path.join('datasets', 'simulation_results_extended.json'), "r") as file:
     simulation_results = json.load(file)
 
 results = simulation_results["games"]
