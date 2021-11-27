@@ -9,7 +9,7 @@ TOTAL_ARTICLES = 6000000
 def inv_tfidf(word_freq, doc_freq):
     tf = word_freq/TOTAL_WORDS
 
-    idf = math.log(TOTAL_ARTICLES/(doc_freq + 1))
+    idf = math.log((TOTAL_ARTICLES+1)/(doc_freq + 1))
 
     tfidf = tf * idf
 
@@ -36,14 +36,14 @@ for word in valid:
     else:
         possible_words[word] = inv_tfidf(1, 1)
 
-a = list(possible_words.values())
-amin, amax = min(a), max(a)
-for word in possible_words:
-    possible_words[word] = ((possible_words[word]-amin) / (amax-amin)) + 1
+# a = list(possible_words.values())
+# amin, amax = min(a), max(a)
+# for word in possible_words:
+#     possible_words[word] = ((possible_words[word]-amin) / (amax-amin)) + 1
 
 sorted_possible_words = dict(sorted(possible_words.items(), key=lambda item: item[1], reverse=True))
 
-with open(os.path.join('datasets', 'valid_word_scores_norm.json'), "w") as outfile:
+with open(os.path.join('datasets', 'norm', 'valid_word_scores_norm_tfidf.json'), "w") as outfile:
     json.dump(sorted_possible_words, outfile, indent=4)
 
 
