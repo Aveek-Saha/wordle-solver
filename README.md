@@ -11,7 +11,27 @@ A solver for the official wordle game.
 The bot was tested on all 2309 wordles and these are the results.
 
 ## Regular
-A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries.
+A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
+
+| Score | # of games |
+|:-----:|:----------:|
+|   1   |      1     |
+|   2   |     96     |
+|   3   |     526    |
+|   4   |     864    |
+|   5   |     561    |
+|   6   |     189    |
+|   X   |     72     |
 
 ## Extended
 Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution.
+
+| Score | # of games |
+|:-----:|:----------:|
+|   1   |      1     |
+|   2   |     96     |
+|   3   |     526    |
+|   4   |     864    |
+|   5   |     561    |
+|   6   |     189    |
+|   X   |     72     |
