@@ -35,16 +35,16 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
 with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
 
-with open(os.path.join('datasets', 'norm', 'valid_word_scores_norm_tfidf.json'), "r") as file:
+with open(os.path.join('datasets', 'freq', 'valid_word_scores_tf.json'), "r") as file:
     data = json.load(file)
 
-with open(os.path.join('datasets', 'norm', 'first_guess_scores_norm_tfidf.json'), "r") as file:
+with open(os.path.join('datasets', 'freq', 'first_guess_scores_tf.json'), "r") as file:
     first_guess_list = json.load(file)
     wordlist = {}
     for word in first_guess_list:
         wordlist[word] = word
 
-with open(os.path.join('datasets', 'norm', 'second_guess_scores_norm_tfidf.json'), "r") as file:
+with open(os.path.join('datasets', 'freq', 'second_guess_scores_tf.json'), "r") as file:
     second_guess_scores = json.load(file)
 
 # word = random.choice(words)
@@ -126,7 +126,7 @@ record["stats"] = {
     "average": score_total/(total_games-failed_games)
 }
 
-with open(os.path.join('datasets', 'norm', 'simulation_results_norm_tfidf.json'), "w", encoding='utf8') as outfile:
+with open(os.path.join('datasets', 'freq', 'simulation_results_tf.json'), "w", encoding='utf8') as outfile:
     json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ",
