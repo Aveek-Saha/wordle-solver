@@ -38,14 +38,14 @@ for word in valid:
     else:
         possible_words[word] = inv_tfidf(1, 1)
 
-# a = list(possible_words.values())
-# amin, amax = min(a), max(a)
-# for word in possible_words:
-#     possible_words[word] = ((possible_words[word]-amin) / (amax-amin)) + 1
+a = list(possible_words.values())
+amin, amax = min(a), max(a)
+for word in possible_words:
+    possible_words[word] = ((possible_words[word]-amin) / (amax-amin))
 
 sorted_possible_words = dict(sorted(possible_words.items(), key=lambda item: item[1], reverse=True))
 
-with open(os.path.join('datasets', 'freq', 'valid_word_scores_tf.json'), "w") as outfile:
+with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "w") as outfile:
     json.dump(sorted_possible_words, outfile, indent=4)
 
 

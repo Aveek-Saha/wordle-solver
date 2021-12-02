@@ -31,9 +31,8 @@ def filter_words(board, guess, wordlist):
 
     return wordlist
 
-def get_entropy(word, wordlist, combs):
+def get_entropy(word, wordlist, combs, total_words):
     entropy = 0
-    total_words = len(list(wordlist.keys()))
     for comb in combs:
         poss = len(filter_words(list(comb), word, wordlist))
         prob = poss/total_words
@@ -42,13 +41,18 @@ def get_entropy(word, wordlist, combs):
 
     return entropy
 
+def calculate_score(entropy, freq):
+    return (0.5 * entropy) + (0.5* freq)
+
 # combs = list(product([0, 1, 2], repeat=5))
 
-# with open(os.path.join('datasets', 'freq', 'valid_word_scores_tf.json'), "r") as file:
+# with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
 #     data = json.load(file)
 #     wordlist = {}
 #     for word in data:
 #         wordlist[word] = word
+
+# TOTAL_WORDS = len(list(wordlist.keys()))
 
 # entropy_list = {}
 # for word in tqdm(wordlist):
@@ -60,16 +64,24 @@ def get_entropy(word, wordlist, combs):
 # with open(os.path.join('datasets', 'valid_words_entropy.json'), "w") as outfile:
 #     json.dump(sorted_entropy, outfile, indent=4)
 
+# with open(os.path.join('datasets', 'valid_words_entropy.json'), "r") as file:
+#     sorted_entropy = json.load(file)
+
+# a = list(sorted_entropy.values())
+# amin, amax = min(a), max(a)
+# for word in sorted_entropy:
+#     sorted_entropy[word] = ((sorted_entropy[word]-amin) / (amax-amin))
+
 # first_guess = {}
 # for word in tqdm(wordlist):
-#     first_guess[word] = entropy_list[word] * data[word]
+#     first_guess[word] = calculate_score(sorted_entropy[word], data[word])
 
 # sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
 
-# with open(os.path.join('datasets', 'freq', 'first_guess_scores_tf.json'), "w") as outfile:
+# with open(os.path.join('datasets', 'scaled', 'first_guess_scores_scaled_tf.json'), "w") as outfile:
 #     json.dump(sorted_first_guess, outfile, indent=4)
 
-# with open(os.path.join('datasets', 'freq', 'first_guess_scores_tf.json'), "r") as file:
+# with open(os.path.join('datasets', 'scaled', 'first_guess_scores_scaled_tf.json'), "r") as file:
 #     first_guess_list = json.load(file)
 
 # first_guess = list(first_guess_list.keys())[0]
@@ -82,8 +94,8 @@ def get_entropy(word, wordlist, combs):
 #         entropy = get_entropy(word, second_word_list, combs)
 #         second_guess[comb_name].append({
 #                 "word": word,
-#                 "score": entropy * data[word]
+#                 "score": calculate_score(entropy, data[word])
 #             })
 
-# with open(os.path.join('datasets', 'freq', 'second_guess_scores_tf.json'), "w") as outfile:
+# with open(os.path.join('datasets', 'scaled', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
 #     json.dump(second_guess, outfile, indent=4)

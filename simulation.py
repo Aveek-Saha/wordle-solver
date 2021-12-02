@@ -24,8 +24,8 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
         filtered_words = filter_words(previous_board, previous_guess, wordlist)
         next_guess = {}
         for word in filtered_words:
-            entropy = get_entropy(word, filtered_words, combs)
-            next_guess[word] = entropy * data[word]
+            entropy = get_entropy(word, filtered_words, combs, TOTAL_WORDS)
+            next_guess[word] = calculate_score(entropy, data[word])
         filtered_words = {word: word for word in filtered_words}
         sorted_next_guess = list(dict(
             sorted(next_guess.items(), key=lambda item: item[1], reverse=True)).keys())[0]
@@ -35,16 +35,16 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
 with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
 
-with open(os.path.join('datasets', 'freq', 'valid_word_scores_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
     data = json.load(file)
 
-with open(os.path.join('datasets', 'freq', 'first_guess_scores_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'scaled', 'first_guess_scores_scaled_tf.json'), "r") as file:
     first_guess_list = json.load(file)
     wordlist = {}
     for word in first_guess_list:
         wordlist[word] = word
 
-with open(os.path.join('datasets', 'freq', 'second_guess_scores_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'scaled', 'second_guess_scores_scaled_tf.json'), "r") as file:
     second_guess_scores = json.load(file)
 
 # word = random.choice(words)
@@ -59,6 +59,7 @@ outcomes = {
 # board = [0, 0, 0, 0, 0]
 # print("Answer: ", word)
 combs = list(product([0, 1, 2], repeat=5))
+TOTAL_WORDS = len(list(wordlist.keys()))
 
 # guess = list(first_guess_list.keys())[0]
 
@@ -126,7 +127,7 @@ record["stats"] = {
     "average": score_total/(total_games-failed_games)
 }
 
-with open(os.path.join('datasets', 'freq', 'simulation_results_tf.json'), "w", encoding='utf8') as outfile:
+with open(os.path.join('datasets', 'scaled', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
     json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ",
