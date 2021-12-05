@@ -140,19 +140,20 @@ second_guess = {}
 for comb in tqdm(comb_map):
     comb_number = comb_map[comb]
     indices = np.where(first_guess_combs == comb_number)
-    # print(indices[0])
-    second_guess[comb] = []
+    # print(comb, np.array(words)[indices])
+    score_list = []
     if indices[0].size != 0:
         for i, row in enumerate(match_matrix[indices]):
             word_matches = row[indices]
+            # print(comb, indices[0][i], row[indices])
             freq_map = dict(collections.Counter(word_matches))
             entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
-            second_guess[comb].append({
-                "word": words[i],
-                "index": i,
+            score_list.append({
+                "word": words[indices[0][i]],
+                "index": int(indices[0][i]),
                 "score": calculate_score(entropy, data[word])
             })
-        # second_guess[comb] = sorted(score_list, key=lambda d: d['score'])[0]
+        second_guess[comb] = sorted(score_list, key=lambda d: d['score'])[0]
 
 
 # first_guess = list(first_guess_list.keys())[0]
