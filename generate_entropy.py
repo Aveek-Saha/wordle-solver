@@ -58,20 +58,20 @@ def get_entropy_from_map(freq_map, total_words):
 def calculate_score(entropy, freq):
     return (0.75 * entropy) + (0.25* freq)
 
-combs = list(product([0, 1, 2], repeat=5))
+# combs = list(product([0, 1, 2], repeat=5))
 
-with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
-    data = json.load(file)
-    wordlist = {}
-    for word in data:
-        wordlist[word] = word
+# with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
+#     data = json.load(file)
+#     wordlist = {}
+#     for word in data:
+#         wordlist[word] = word
 
-TOTAL_WORDS = len(list(wordlist.keys()))
+# TOTAL_WORDS = len(list(wordlist.keys()))
 
-comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
-words = [word for word in wordlist]
-words.sort()
-words_comb_map = {"wordlist": words, "combs": comb_map}
+# comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
+# words = [word for word in wordlist]
+# words.sort()
+# words_comb_map = {"wordlist": words, "combs": comb_map}
 
 # with open(os.path.join('datasets', 'board_combs.json'), "w") as outfile:
 #     json.dump(words_comb_map, outfile, indent=4)
@@ -95,7 +95,7 @@ words_comb_map = {"wordlist": words, "combs": comb_map}
 # with open(os.path.join('datasets', 'valid_words_filter.csv'), "r") as file:
 #     wordlist_map = list(csv.reader(file))
 
-match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+# match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
 
 # print(filter_words([0, 0, 0, 1, 0], 'state', wordlist).keys())
 # print(get_entropy("mahwa", wordlist, combs, TOTAL_WORDS))
@@ -129,31 +129,30 @@ match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
 # with open(os.path.join('datasets', 'matrix', 'first_guess_scores_scaled_tf.json'), "w") as outfile:
 #     json.dump(sorted_first_guess, outfile, indent=4)
 
-with open(os.path.join('datasets', 'matrix', 'first_guess_scores_scaled_tf.json'), "r") as file:
-    first_guess_list = json.load(file)
+# with open(os.path.join('datasets', 'matrix', 'first_guess_scores_scaled_tf.json'), "r") as file:
+#     first_guess_list = json.load(file)
 
-first_guess = list(first_guess_list.keys())[0]
-first_guess_index = words.index(first_guess)
-first_guess_combs = match_matrix[first_guess_index]
-second_guess = {}
+# first_guess = list(first_guess_list.keys())[0]
+# first_guess_index = words.index(first_guess)
+# first_guess_combs = match_matrix[first_guess_index]
+# second_guess = {}
 
-for comb in tqdm(comb_map):
-    comb_number = comb_map[comb]
-    indices = np.where(first_guess_combs == comb_number)
-    # print(comb, np.array(words)[indices])
-    score_list = []
-    if indices[0].size != 0:
-        for i, row in enumerate(match_matrix[indices]):
-            word_matches = row[indices]
-            # print(comb, indices[0][i], row[indices])
-            freq_map = dict(collections.Counter(word_matches))
-            entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
-            score_list.append({
-                "word": words[indices[0][i]],
-                "index": int(indices[0][i]),
-                "score": calculate_score(entropy, data[word])
-            })
-        second_guess[comb] = sorted(score_list, key=lambda d: d['score'])[0]
+# for comb in tqdm(comb_map):
+#     comb_number = comb_map[comb]
+#     indices = np.where(first_guess_combs == comb_number)
+#     # print(comb, np.array(words)[indices])
+#     score_list = []
+#     if indices[0].size != 0:
+#         for i, row in enumerate(match_matrix[indices]):
+#             word_matches = row[indices]
+#             freq_map = dict(collections.Counter(word_matches))
+#             entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
+#             score_list.append({
+#                 "word": words[int(indices[0][i])],
+#                 "index": int(indices[0][i]),
+#                 "score": calculate_score(entropy, data[word])
+#             })
+#         second_guess[comb] = sorted(score_list, reverse=True, key=lambda d: d['score'])[0]
 
 
 # first_guess = list(first_guess_list.keys())[0]
@@ -169,5 +168,5 @@ for comb in tqdm(comb_map):
 #                 "score": calculate_score(entropy, data[word])
 #             })
 
-with open(os.path.join('datasets', 'matrix', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
-    json.dump(second_guess, outfile, indent=4)
+# with open(os.path.join('datasets', 'matrix', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
+#     json.dump(second_guess, outfile, indent=4)
