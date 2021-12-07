@@ -31,6 +31,38 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
             sorted(next_guess.items(), key=lambda item: item[1], reverse=True)).keys())[0]
         return sorted_next_guess, filtered_words
 
+def generate_guess_matrix(previous_board, previous_guess, turn, guesses):
+    if turn == 0:
+        return guess
+
+    if turn == 1:
+        board_name = "".join([str(int) for int in list(previous_board)])
+        guess_list = second_guess_scores[board_name]
+        return guess_list["word"]
+
+    else:
+        guess_index = words_ordered.index(previous_guess)
+        guess_combs = match_matrix[guess_index]
+        board_name = "".join([str(int) for int in list(previous_board)])
+        comb_number = comb_map[board_name]
+        indices = np.where(guess_combs == comb_number)
+        # print(board_name, np.array(words)[indices])
+        score_list = []
+        if indices[0].size != 0:
+            for i, row in enumerate(match_matrix[indices]):
+                word_matches = row[indices]
+                freq_map = dict(collections.Counter(word_matches))
+                entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
+                score_list.append({
+                    "word": words_ordered[int(indices[0][i])],
+                    "score": calculate_score(entropy, data[words_ordered[int(indices[0][i])]])
+                })
+            sorted_guess = sorted(score_list, reverse=True, key=lambda d: d['score'])
+            for i in range(len(score_list)):
+                final_guess = sorted_guess[i]['word']
+                if final_guess not in guesses:
+                    break
+            return final_guess
 
 with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encoding='utf8') as f:
     words = [row for row in csv.reader(f, delimiter=',')][0]
@@ -38,13 +70,13 @@ with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encodi
 with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
     data = json.load(file)
 
-with open(os.path.join('datasets', 'scaled', 'first_guess_scores_scaled_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'matrix', 'first_guess_scores_scaled_tf.json'), "r") as file:
     first_guess_list = json.load(file)
     wordlist = {}
     for word in first_guess_list:
         wordlist[word] = word
 
-with open(os.path.join('datasets', 'scaled', 'second_guess_scores_scaled_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'matrix', 'second_guess_scores_scaled_tf.json'), "r") as file:
     second_guess_scores = json.load(file)
 
 # word = random.choice(words)
@@ -60,6 +92,11 @@ outcomes = {
 # print("Answer: ", word)
 combs = list(product([0, 1, 2], repeat=5))
 TOTAL_WORDS = len(list(wordlist.keys()))
+
+comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
+match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+words_ordered = [word for word in wordlist]
+words_ordered.sort()
 
 # guess = list(first_guess_list.keys())[0]
 
@@ -95,10 +132,11 @@ for word in tqdm(words):
     game["share"] = "Wordle " + str(index) + " {}/6\n\n"
     boards = ""
 
-    for turn in range(20):
+    for turn in range(6):
         previous_guess = guess
-        guess, filtered_wordlist = generate_guess(
-            board, previous_guess, filtered_wordlist, turn)
+        guess = generate_guess_matrix(
+            board, previous_guess, turn, game["guesses"])
+        # print(word, board, guess)
         board = check_guess(word, guess)
         game["guesses"].append(guess)
         boards += print_board(board, outcomes)+"\n"
@@ -106,8 +144,8 @@ for word in tqdm(words):
         if board == [2, 2, 2, 2, 2]:
             break
         score += 1
-        # if turn == 5:
-        #     score = 0
+        if turn == 5:
+            score = 0
 
     if score == 0:
         failed_games += 1
@@ -127,7 +165,7 @@ record["stats"] = {
     "average": score_total/(total_games-failed_games)
 }
 
-with open(os.path.join('datasets', 'scaled', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
+with open(os.path.join('datasets', 'matrix', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
     json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ",

@@ -150,7 +150,7 @@ def calculate_score(entropy, freq):
 #             score_list.append({
 #                 "word": words[int(indices[0][i])],
 #                 "index": int(indices[0][i]),
-#                 "score": calculate_score(entropy, data[word])
+#                 "score": calculate_score(entropy, data[words[int(indices[0][i])]])
 #             })
 #         second_guess[comb] = sorted(score_list, reverse=True, key=lambda d: d['score'])[0]
 
