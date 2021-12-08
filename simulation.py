@@ -70,13 +70,13 @@ with open(os.path.join('datasets', 'words', 'possible_answers.txt'), 'r', encodi
 with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
     data = json.load(file)
 
-with open(os.path.join('datasets', 'matrix', 'first_guess_scores_scaled_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "r") as file:
     first_guess_list = json.load(file)
     wordlist = {}
     for word in first_guess_list:
         wordlist[word] = word
 
-with open(os.path.join('datasets', 'matrix', 'second_guess_scores_scaled_tf.json'), "r") as file:
+with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.json'), "r") as file:
     second_guess_scores = json.load(file)
 
 # word = random.choice(words)
@@ -134,9 +134,8 @@ for word in tqdm(words):
 
     for turn in range(6):
         previous_guess = guess
-        guess = generate_guess_matrix(
-            board, previous_guess, turn, game["guesses"])
-        # print(word, board, guess)
+        guess, filtered_wordlist = generate_guess(
+            board, previous_guess, filtered_wordlist, turn)
         board = check_guess(word, guess)
         game["guesses"].append(guess)
         boards += print_board(board, outcomes)+"\n"
@@ -165,7 +164,7 @@ record["stats"] = {
     "average": score_total/(total_games-failed_games)
 }
 
-with open(os.path.join('datasets', 'matrix', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
+with open(os.path.join('datasets', 'filtered', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
     json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ",
