@@ -59,6 +59,109 @@ def get_entropy_from_map(freq_map, total_words):
 def calculate_score(entropy, freq):
     return (0.7 * entropy) + (0.3* freq)
 
+
+def generate_entropy_list(wordlist, combs):
+    entropy_list = {}
+    TOTAL_WORDS = len(list(wordlist.keys()))
+    for word in tqdm(wordlist):
+        entropy = get_entropy(word, wordlist, combs, TOTAL_WORDS)
+        entropy_list[word] = entropy
+
+    sorted_entropy = dict(sorted(entropy_list.items(), key=lambda item: item[1], reverse=True))
+
+    with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "w") as outfile:
+        json.dump(sorted_entropy, outfile, indent=4)
+
+def generate_first_guess_entropy(wordlist, data):
+    words = [word for word in wordlist]
+    words.sort()
+    with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "r") as file:
+        sorted_entropy = json.load(file)
+
+    a = list(sorted_entropy.values())
+    amin, amax = min(a), max(a)
+    for word in sorted_entropy:
+        sorted_entropy[word] = ((sorted_entropy[word]-amin) / (amax-amin))
+
+    first_guess = {}
+    for word in tqdm(words):
+        first_guess[word] = calculate_score(sorted_entropy[word], data[word])
+
+    sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
+
+    with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "w") as outfile:
+        json.dump(sorted_first_guess, outfile, indent=4)
+
+def generate_second_guess_entropy(wordlist, data, first_guess, combs):
+    TOTAL_WORDS = len(list(wordlist.keys()))
+    second_guess = {}
+    for comb in tqdm(combs):
+        comb_name = "".join([str(int) for int in list(comb)])
+        second_guess[comb_name] = []
+        second_word_list = filter_words(list(comb), first_guess, wordlist)
+        for word in tqdm(second_word_list):
+            entropy = get_entropy(word, second_word_list, combs, TOTAL_WORDS)
+            second_guess[comb_name].append({
+                    "word": word,
+                    "score": calculate_score(entropy, data[word])
+                })
+
+    with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
+        json.dump(second_guess, outfile, indent=4)
+
+def generate_matrix(words, comb_map):
+    match_matrix = np.zeros((len(words), len(words)), dtype=np.uint8)
+    for i, guess in enumerate(tqdm(words)):
+        for j, word in enumerate(words):
+            match_matrix[i][j] = comb_map["".join([str(int) for int in list(check_guess(word, guess))])]
+
+    np.save(os.path.join('datasets', 'match_matrix.npy'), match_matrix)
+
+def generate_entropy_matrix(words):
+    TOTAL_WORDS = len(words)
+    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+    entropy_list = {}
+    for i, word in enumerate(tqdm(words)):
+        freq_map = dict(collections.Counter(match_matrix[i]))
+        entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
+        entropy_list[word] = entropy
+    
+    sorted_entropy = dict(sorted(entropy_list.items(), key=lambda item: item[1], reverse=True))
+
+    with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "w") as outfile:
+        json.dump(sorted_entropy, outfile, indent=4)
+
+def generate_first_guess_entropy_matrix(words, comb_map, data):
+    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+    TOTAL_WORDS = len(words)
+    with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "r") as file:
+        first_guess_list = json.load(file)
+
+    first_guess = list(first_guess_list.keys())[0]
+    first_guess_index = words.index(first_guess)
+    first_guess_combs = match_matrix[first_guess_index]
+    second_guess = {}
+
+    for comb in tqdm(comb_map):
+        comb_number = comb_map[comb]
+        indices = np.where(first_guess_combs == comb_number)
+        # print(comb, np.array(words)[indices])
+        score_list = []
+        if indices[0].size != 0:
+            for i, row in enumerate(match_matrix[indices]):
+                word_matches = row[indices]
+                freq_map = dict(collections.Counter(word_matches))
+                entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
+                score_list.append({
+                    "word": words[int(indices[0][i])],
+                    "index": int(indices[0][i]),
+                    "score": calculate_score(entropy, data[words[int(indices[0][i])]])
+                })
+            second_guess[comb] = sorted(score_list, reverse=True, key=lambda d: d['score'])[0]
+
+    with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
+        json.dump(second_guess, outfile, indent=4)
+
 # combs = list(product([0, 1, 2], repeat=5))
 
 # with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "r") as file:
@@ -77,102 +180,5 @@ def calculate_score(entropy, freq):
 # with open(os.path.join('datasets', 'board_combs.json'), "w") as outfile:
 #     json.dump(words_comb_map, outfile, indent=4)
 
-# match_matrix = np.zeros((len(words), len(words)), dtype=np.uint8)
-# for i, guess in enumerate(tqdm(words)):
-#     for j, word in enumerate(words):
-#         match_matrix[i][j] = comb_map["".join([str(int) for int in list(check_guess(word, guess))])]
-
-# np.save(os.path.join('datasets', 'match_matrix.npy'), match_matrix)
-
-# with open(os.path.join('datasets', 'valid_words_filter.csv'), "w", newline='') as outfile:
-#     wr = csv.writer(outfile)
-#     for guess in tqdm(words):
-#         guess_boards = []
-#         for word in wordlist:
-#             guess_boards.append(comb_map["".join([str(int) for int in list(check_guess(word, guess))])])
-
-#         wr.writerow(guess_boards)
-
-# with open(os.path.join('datasets', 'valid_words_filter.csv'), "r") as file:
-#     wordlist_map = list(csv.reader(file))
-
-# match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
-
 # print(filter_words([0, 0, 0, 1, 0], 'state', wordlist).keys())
 # print(get_entropy("mahwa", wordlist, combs, TOTAL_WORDS))
-
-# entropy_list = {}
-# for i, word in enumerate(tqdm(words)):
-#     # entropy = get_entropy(word, wordlist, combs)
-#     freq_map = dict(collections.Counter(match_matrix[i]))
-#     entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
-#     entropy_list[word] = entropy
-
-# entropy_list = {}
-# for word in tqdm(wordlist):
-#     entropy = get_entropy(word, wordlist, combs, TOTAL_WORDS)
-#     entropy_list[word] = entropy
-
-# sorted_entropy = dict(sorted(entropy_list.items(), key=lambda item: item[1], reverse=True))
-
-# with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "w") as outfile:
-#     json.dump(sorted_entropy, outfile, indent=4)
-
-# with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "r") as file:
-#     sorted_entropy = json.load(file)
-
-# a = list(sorted_entropy.values())
-# amin, amax = min(a), max(a)
-# for word in sorted_entropy:
-#     sorted_entropy[word] = ((sorted_entropy[word]-amin) / (amax-amin))
-
-# first_guess = {}
-# for word in tqdm(words):
-#     first_guess[word] = calculate_score(sorted_entropy[word], data[word])
-
-# sorted_first_guess = dict(sorted(first_guess.items(), key=lambda item: item[1], reverse=True))
-
-# with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "w") as outfile:
-#     json.dump(sorted_first_guess, outfile, indent=4)
-
-# with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "r") as file:
-#     first_guess_list = json.load(file)
-
-# first_guess = list(first_guess_list.keys())[0]
-# first_guess_index = words.index(first_guess)
-# first_guess_combs = match_matrix[first_guess_index]
-# second_guess = {}
-
-# for comb in tqdm(comb_map):
-#     comb_number = comb_map[comb]
-#     indices = np.where(first_guess_combs == comb_number)
-#     # print(comb, np.array(words)[indices])
-#     score_list = []
-#     if indices[0].size != 0:
-#         for i, row in enumerate(match_matrix[indices]):
-#             word_matches = row[indices]
-#             freq_map = dict(collections.Counter(word_matches))
-#             entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
-#             score_list.append({
-#                 "word": words[int(indices[0][i])],
-#                 "index": int(indices[0][i]),
-#                 "score": calculate_score(entropy, data[words[int(indices[0][i])]])
-#             })
-#         second_guess[comb] = sorted(score_list, reverse=True, key=lambda d: d['score'])[0]
-
-
-# first_guess = list(first_guess_list.keys())[0]
-# second_guess = {}
-# for comb in tqdm(combs):
-#     comb_name = "".join([str(int) for int in list(comb)])
-#     second_guess[comb_name] = []
-#     second_word_list = filter_words(list(comb), first_guess, wordlist)
-#     for word in tqdm(second_word_list):
-#         entropy = get_entropy(word, second_word_list, combs, TOTAL_WORDS)
-#         second_guess[comb_name].append({
-#                 "word": word,
-#                 "score": calculate_score(entropy, data[word])
-#             })
-
-# with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
-#     json.dump(second_guess, outfile, indent=4)

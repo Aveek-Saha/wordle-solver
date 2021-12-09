@@ -16,37 +16,38 @@ def inv_tfidf(word_freq, doc_freq):
 
     return tf
 
-with open(os.path.join('datasets', 'words', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
-    # wordlist = [[row[0], row[2]] for row in csv.reader(f,delimiter=' ')]
-    wordlist = {}
-    for row in csv.reader(f, delimiter=' '):
-        wordlist[row[0]] = [int(row[2]), int(row[3])]
-        TOTAL_WORDS += int(row[2])
+def clean_wordlist():
+    with open(os.path.join('datasets', 'words', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
+        # wordlist = [[row[0], row[2]] for row in csv.reader(f,delimiter=' ')]
+        wordlist = {}
+        for row in csv.reader(f, delimiter=' '):
+            wordlist[row[0]] = [int(row[2]), int(row[3])]
+            TOTAL_WORDS += int(row[2])
 
-    # print (wordlist)
+        # print (wordlist)
 
-with open(os.path.join('datasets', 'words', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
-    valid = [row for row in csv.reader(f, delimiter=',')][0]
+    with open(os.path.join('datasets', 'words', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
+        valid = [row for row in csv.reader(f, delimiter=',')][0]
 
-    print(len(valid))
+        print(len(valid))
 
-possible_words = {}
-for word in valid:
-    if word in wordlist:
-        possible_words[word] = inv_tfidf(wordlist[word][0], wordlist[word][1])
+    possible_words = {}
+    for word in valid:
+        if word in wordlist:
+            possible_words[word] = inv_tfidf(wordlist[word][0], wordlist[word][1])
 
-    else:
-        possible_words[word] = inv_tfidf(1, 1)
+        else:
+            possible_words[word] = inv_tfidf(1, 1)
 
-a = list(possible_words.values())
-amin, amax = min(a), max(a)
-for word in possible_words:
-    possible_words[word] = ((possible_words[word]-amin) / (amax-amin))
+    a = list(possible_words.values())
+    amin, amax = min(a), max(a)
+    for word in possible_words:
+        possible_words[word] = ((possible_words[word]-amin) / (amax-amin))
 
-sorted_possible_words = dict(sorted(possible_words.items(), key=lambda item: item[1], reverse=True))
+    sorted_possible_words = dict(sorted(possible_words.items(), key=lambda item: item[1], reverse=True))
 
-with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "w") as outfile:
-    json.dump(sorted_possible_words, outfile, indent=4)
+    with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "w") as outfile:
+        json.dump(sorted_possible_words, outfile, indent=4)
 
 
 

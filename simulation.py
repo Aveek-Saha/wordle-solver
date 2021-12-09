@@ -10,7 +10,7 @@ from generate_entropy import *
 from wordle import *
 
 
-def generate_guess(previous_board, previous_guess, wordlist, turn):
+def generate_guess(previous_board, previous_guess, wordlist, turn, total_words, combs, guess):
     if turn == 0:
         return guess, wordlist
 
@@ -24,14 +24,14 @@ def generate_guess(previous_board, previous_guess, wordlist, turn):
         filtered_words = filter_words(previous_board, previous_guess, wordlist)
         next_guess = {}
         for word in filtered_words:
-            entropy = get_entropy(word, filtered_words, combs, TOTAL_WORDS)
+            entropy = get_entropy(word, filtered_words, combs, total_words)
             next_guess[word] = calculate_score(entropy, data[word])
         filtered_words = {word: word for word in filtered_words}
         sorted_next_guess = list(dict(
             sorted(next_guess.items(), key=lambda item: item[1], reverse=True)).keys())[0]
         return sorted_next_guess, filtered_words
 
-def generate_guess_matrix(previous_board, previous_guess, turn, guesses):
+def generate_guess_matrix(previous_board, previous_guess, turn, guesses, words_ordered, match_matrix, comb_map, total_words, guess):
     if turn == 0:
         return guess
 
@@ -52,7 +52,7 @@ def generate_guess_matrix(previous_board, previous_guess, turn, guesses):
             for i, row in enumerate(match_matrix[indices]):
                 word_matches = row[indices]
                 freq_map = dict(collections.Counter(word_matches))
-                entropy = get_entropy_from_map(freq_map, TOTAL_WORDS)
+                entropy = get_entropy_from_map(freq_map, total_words)
                 score_list.append({
                     "word": words_ordered[int(indices[0][i])],
                     "score": calculate_score(entropy, data[words_ordered[int(indices[0][i])]])
@@ -81,22 +81,8 @@ with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.js
 
 # word = random.choice(words)
 
-outcomes = {
-    2: "🟩",
-    1: "🟨",
-    0: "⬛"
-}
-
-
 # board = [0, 0, 0, 0, 0]
 # print("Answer: ", word)
-combs = list(product([0, 1, 2], repeat=5))
-TOTAL_WORDS = len(list(wordlist.keys()))
-
-comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
-match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
-words_ordered = [word for word in wordlist]
-words_ordered.sort()
 
 # guess = list(first_guess_list.keys())[0]
 
@@ -113,60 +99,75 @@ words_ordered.sort()
 #         print("Completed in ", turn + 1,"/ 6")
 #         break
 
-score_total = 0
-failed_games = 0
-total_games = len(words)
-# total_games = 10
-record = {}
-record["games"] = {}
-index = 0
-for word in tqdm(words):
-    index += 1
-    board = [0, 0, 0, 0, 0]
-    guess = list(first_guess_list.keys())[0]
-    score = 1
-    filtered_wordlist = wordlist
-    game = {}
-    game["answer"] = word
-    game["guesses"] = []
-    game["share"] = "Wordle " + str(index) + " {}/6\n\n"
-    boards = ""
 
-    for turn in range(6):
-        previous_guess = guess
-        guess, filtered_wordlist = generate_guess(
-            board, previous_guess, filtered_wordlist, turn)
-        board = check_guess(word, guess)
-        game["guesses"].append(guess)
-        boards += print_board(board, outcomes)+"\n"
+def run_simulation():
+    outcomes = {
+        2: "🟩",
+        1: "🟨",
+        0: "⬛"
+    }
+    combs = list(product([0, 1, 2], repeat=5))
+    TOTAL_WORDS = len(list(wordlist.keys()))
 
-        if board == [2, 2, 2, 2, 2]:
-            break
-        score += 1
-        if turn == 5:
-            score = 0
+    comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
+    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+    words_ordered = [word for word in wordlist]
+    words_ordered.sort()
 
-    if score == 0:
-        failed_games += 1
-        game["share"] = game["share"].format("X")
-        game["score"] = "X"
-    else:
-        game["share"] = game["share"].format(score)
-        game["score"] = score
+    score_total = 0
+    failed_games = 0
+    total_games = len(words)
+    # total_games = 10
+    record = {}
+    record["games"] = {}
+    index = 0
+    for word in tqdm(words):
+        index += 1
+        board = [0, 0, 0, 0, 0]
+        guess = list(first_guess_list.keys())[0]
+        score = 1
+        filtered_wordlist = wordlist
+        game = {}
+        game["answer"] = word
+        game["guesses"] = []
+        game["share"] = "Wordle " + str(index) + " {}/6\n\n"
+        boards = ""
 
-    game["share"] +=  boards
-    record["games"][index] = game
-    score_total += score
+        for turn in range(6):
+            previous_guess = guess
+            guess, filtered_wordlist = generate_guess(
+                board, previous_guess, filtered_wordlist, turn)
+            board = check_guess(word, guess)
+            game["guesses"].append(guess)
+            boards += print_board(board, outcomes)+"\n"
 
-record["stats"] = {
-    "total": total_games,
-    "failed": failed_games,
-    "average": score_total/(total_games-failed_games)
-}
+            if board == [2, 2, 2, 2, 2]:
+                break
+            score += 1
+            if turn == 5:
+                score = 0
 
-with open(os.path.join('datasets', 'filtered', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
-    json.dump(record, outfile, indent=4, ensure_ascii=False)
+        if score == 0:
+            failed_games += 1
+            game["share"] = game["share"].format("X")
+            game["score"] = "X"
+        else:
+            game["share"] = game["share"].format(score)
+            game["score"] = score
 
-print("Average Score in successful games: ",
-      score_total/(total_games-failed_games))
-print("Number of failed games: ", failed_games)
+        game["share"] +=  boards
+        record["games"][index] = game
+        score_total += score
+
+    record["stats"] = {
+        "total": total_games,
+        "failed": failed_games,
+        "average": score_total/(total_games-failed_games)
+    }
+
+    with open(os.path.join('datasets', 'filtered', 'simulation_results_scaled_tf.json'), "w", encoding='utf8') as outfile:
+        json.dump(record, outfile, indent=4, ensure_ascii=False)
+
+    print("Average Score in successful games: ",
+        score_total/(total_games-failed_games))
+    print("Number of failed games: ", failed_games)
