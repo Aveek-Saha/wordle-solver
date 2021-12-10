@@ -1,14 +1,9 @@
-import csv
-import json
 import math
-import os
 
-# TOTAL_WORDS = 3000000
-TOTAL_WORDS = 0
-TOTAL_ARTICLES = 6000000
+from tqdm import tqdm
 
-def inv_tfidf(word_freq, doc_freq):
-    tf = word_freq/TOTAL_WORDS
+def inv_tfidf(word_freq, doc_freq, total_words):
+    tf = word_freq/total_words
 
     # idf = math.log((TOTAL_ARTICLES+1)/(doc_freq + 1))
 
@@ -16,28 +11,14 @@ def inv_tfidf(word_freq, doc_freq):
 
     return tf
 
-def clean_wordlist():
-    with open(os.path.join('datasets', 'words', 'wordlist_all.txt'), 'r', encoding='utf8') as f:
-        # wordlist = [[row[0], row[2]] for row in csv.reader(f,delimiter=' ')]
-        wordlist = {}
-        for row in csv.reader(f, delimiter=' '):
-            wordlist[row[0]] = [int(row[2]), int(row[3])]
-            TOTAL_WORDS += int(row[2])
-
-        # print (wordlist)
-
-    with open(os.path.join('datasets', 'words', 'valid_guesses.txt'), 'r', encoding='utf8') as f:
-        valid = [row for row in csv.reader(f, delimiter=',')][0]
-
-        print(len(valid))
-
+def clean_wordlist(wordlist, valid, total_words):
     possible_words = {}
-    for word in valid:
+    for word in tqdm(valid):
         if word in wordlist:
-            possible_words[word] = inv_tfidf(wordlist[word][0], wordlist[word][1])
+            possible_words[word] = inv_tfidf(wordlist[word][0], wordlist[word][1], total_words)
 
         else:
-            possible_words[word] = inv_tfidf(1, 1)
+            possible_words[word] = inv_tfidf(1, 1, total_words)
 
     a = list(possible_words.values())
     amin, amax = min(a), max(a)
@@ -46,11 +27,5 @@ def clean_wordlist():
 
     sorted_possible_words = dict(sorted(possible_words.items(), key=lambda item: item[1], reverse=True))
 
-    with open(os.path.join('datasets', 'scaled', 'valid_word_scores_scaled_tf.json'), "w") as outfile:
-        json.dump(sorted_possible_words, outfile, indent=4)
+    return sorted_possible_words
 
-
-
-# print(inv_tfidf(1, 1))
-# print(inv_tfidf(6296, 5009))
-# print(inv_tfidf(1220752, 890394))

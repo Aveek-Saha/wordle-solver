@@ -110,7 +110,7 @@ def run_simulation():
     TOTAL_WORDS = len(list(wordlist.keys()))
 
     comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
-    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+    # match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
     words_ordered = [word for word in wordlist]
     words_ordered.sort()
 

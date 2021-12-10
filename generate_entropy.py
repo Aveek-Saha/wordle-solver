@@ -72,11 +72,10 @@ def generate_entropy_list(wordlist, combs):
     with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "w") as outfile:
         json.dump(sorted_entropy, outfile, indent=4)
 
-def generate_first_guess_entropy(wordlist, data):
+def generate_first_guess_entropy(wordlist, data, sorted_entropy):
     words = [word for word in wordlist]
     words.sort()
-    with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "r") as file:
-        sorted_entropy = json.load(file)
+    
 
     a = list(sorted_entropy.values())
     amin, amax = min(a), max(a)
@@ -117,9 +116,8 @@ def generate_matrix(words, comb_map):
 
     np.save(os.path.join('datasets', 'match_matrix.npy'), match_matrix)
 
-def generate_entropy_matrix(words):
+def generate_entropy_matrix(words, match_matrix):
     TOTAL_WORDS = len(words)
-    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
     entropy_list = {}
     for i, word in enumerate(tqdm(words)):
         freq_map = dict(collections.Counter(match_matrix[i]))
@@ -131,11 +129,8 @@ def generate_entropy_matrix(words):
     with open(os.path.join('datasets', 'filtered', 'valid_words_entropy_map.json'), "w") as outfile:
         json.dump(sorted_entropy, outfile, indent=4)
 
-def generate_first_guess_entropy_matrix(words, comb_map, data):
-    match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
+def generate_first_guess_entropy_matrix(words, comb_map, data, match_matrix, first_guess_list):
     TOTAL_WORDS = len(words)
-    with open(os.path.join('datasets', 'filtered', 'first_guess_scores_scaled_tf.json'), "r") as file:
-        first_guess_list = json.load(file)
 
     first_guess = list(first_guess_list.keys())[0]
     first_guess_index = words.index(first_guess)
