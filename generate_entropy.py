@@ -93,15 +93,14 @@ def generate_second_guess_score(wordlist, data, first_guess, combs, total_words)
         comb_name = "".join([str(int) for int in list(comb)])
         second_guess[comb_name] = []
         second_word_list = filter_words(list(comb), first_guess, wordlist)
-        for word in tqdm(second_word_list):
+        for word in second_word_list:
             entropy = get_entropy(word, second_word_list, combs, total_words)
             second_guess[comb_name].append({
                     "word": word,
                     "score": calculate_score(entropy, data[word])
                 })
 
-    with open(os.path.join('datasets', 'filtered', 'second_guess_scores_scaled_tf.json'), "w") as outfile:
-        json.dump(second_guess, outfile, indent=4)
+    return second_guess
 
 def generate_matrix(words, comb_map):
     match_matrix = np.zeros((len(words), len(words)), dtype=np.uint8)
