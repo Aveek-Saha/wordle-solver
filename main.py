@@ -11,17 +11,17 @@ from simulation import *
 DATASET_DIR = 'datasets'
 WORDS_DIR = 'words'
 
-EXPERIMENT_DIR = 'filtered'
+EXPERIMENT_DIR = 'ratio'
 
 WORDLIST_ALL = os.path.join(DATASET_DIR, WORDS_DIR, 'wordlist_all.txt')
 VALID_WORDS = os.path.join(DATASET_DIR, WORDS_DIR, 'valid_guesses.txt')
 ANSWERS = os.path.join(DATASET_DIR, WORDS_DIR, 'possible_answers.txt')
 GUESS_MATRIX = os.path.join(DATASET_DIR, 'match_matrix.npy')
-VALID_WORDS_SCORE = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_word_scores_scaled_tfidf.json')
+VALID_WORDS_SCORE = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_word_scores_scaled_tf.json')
 VALID_WORDS_ENTROPY = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_words_entropy_map.json')
-FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tfidf.json')
-SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tfidf.json')
-RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tfidf.json')
+FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tf.json')
+SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf.json')
+RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 
 # TOTAL_WORDS = 3000000
 TOTAL_WORDS = 0
