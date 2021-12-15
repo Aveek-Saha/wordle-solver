@@ -57,7 +57,8 @@ def get_entropy_from_map(freq_map, total_words):
     return entropy
 
 def calculate_score(entropy, freq):
-    return (0.7 * entropy) + (0.3 * freq)
+    return entropy * freq
+    # return (0.7 * entropy) + (0.3 * freq)
 
 
 def generate_entropy_list(wordlist, combs, total_words):
