@@ -4,9 +4,9 @@ from tqdm import tqdm
 
 def inv_tfidf(word_freq, doc_freq, total_words, total_articles):
     tf = word_freq/total_words
-    # idf = math.log((total_articles+1)/(doc_freq + 1))
-    # tfidf = tf * idf
-    return tf
+    idf = math.log((total_articles+1)/(doc_freq + 1))
+    tfidf = tf * idf
+    return tfidf
 
 def clean_wordlist(wordlist, valid, total_words, total_articles):
     possible_words = {}
