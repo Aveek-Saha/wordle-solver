@@ -16,12 +16,12 @@ A regular test run means the result was considered a failure if the bot could no
 | Score | # of games |
 |:-----:|:----------:|
 |   1   |      1     |
-|   2   |     96     |
-|   3   |     526    |
-|   4   |     864    |
-|   5   |     561    |
-|   6   |     189    |
-|   X   |     72     |
+|   2   |     91     |
+|   3   |     553    |
+|   4   |     904    |
+|   5   |     527    |
+|   6   |     163    |
+|   X   |     70     |
 
 ## Extended
 Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution.
