@@ -29,9 +29,11 @@ Just to see how the bot performed, it was allowed to continue playing beyond 6 t
 | Score | # of games |
 |:-----:|:----------:|
 |   1   |      1     |
-|   2   |     96     |
-|   3   |     526    |
-|   4   |     864    |
-|   5   |     561    |
-|   6   |     189    |
-|   X   |     72     |
+|   2   |     91     |
+|   3   |     553    |
+|   4   |     904    |
+|   5   |     527    |
+|   6   |     163    |
+|   7   |     55     |
+|   8   |     16     |
+|   9   |      3     |
