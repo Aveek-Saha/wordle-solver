@@ -111,7 +111,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
         game["share"] = "Wordle " + str(index) + " {}/6\n\n"
         boards = ""
 
-        for turn in range(6):
+        for turn in range(30):
             previous_guess = guess
             guess, filtered_wordlist = generate_guess(
                 board, previous_guess, filtered_wordlist, turn, total_words, combs, guess, second_guess_scores, data)
@@ -122,7 +122,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
             if board == [2, 2, 2, 2, 2]:
                 break
             score += 1
-            if turn == 5:
+            if turn == 30:
                 score = 0
 
         if score == 0:
