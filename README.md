@@ -24,7 +24,7 @@ A regular test run means the result was considered a failure if the bot could no
 |   X   |     70     |
 
 ## Extended
-Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution.
+Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution. Overall the solver never takes more than 9 attempts to solve a wordle.
 
 | Score | # of games |
 |:-----:|:----------:|

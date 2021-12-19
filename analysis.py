@@ -5,7 +5,7 @@ from collections import Counter
 
 import pandas as pd
 
-with open(os.path.join('datasets', 'filtered', 'simulation_results_scaled_tf_extended.json'), "r") as file:
+with open(os.path.join('datasets', 'filtered', 'simulation_results_scaled_tf.json'), "r") as file:
     simulation_results = json.load(file)
 
 results = simulation_results["games"]
@@ -17,7 +17,7 @@ for result in results:
 count = Counter(scores)
 df = pd.DataFrame.from_dict(count, orient='index').sort_index(axis = 0)
 print(df)
-df.plot(kind='bar')
+df.plot(xlabel='Scores', ylabel='Number of games', title='Score distribution', kind='bar')
 plt.show()
 
 # print(df)
