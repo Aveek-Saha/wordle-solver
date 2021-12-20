@@ -13,6 +13,8 @@ The bot was tested on all 2309 wordles and these are the results.
 ## Regular
 A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
 
+<img align="right" src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="30%"></img>
+
 | Score | # of games |
 |:-----:|:----------:|
 |   1   |      1     |
@@ -23,11 +25,12 @@ A regular test run means the result was considered a failure if the bot could no
 |   6   |     163    |
 |   X   |     70     |
 
-<img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="30%"></img>
 
 
 ## Extended
 Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution. Overall the solver never takes more than 9 attempts to solve a wordle.
+
+<img  align="right" src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis_unlimited.png" width="30%"></img>
 
 | Score | # of games |
 |:-----:|:----------:|
@@ -40,6 +43,4 @@ Just to see how the bot performed, it was allowed to continue playing beyond 6 t
 |   7   |     55     |
 |   8   |     16     |
 |   9   |      3     |
-
-<img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis_unlimited.png" width="30%"></img>
 
