@@ -13,9 +13,7 @@ The bot was tested on all 2309 wordles and these are the results.
 ## Regular
 A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
 
-<!-- <img align="left" src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="50%"></img> -->
-
-| Score | # of games |
+<!-- | Score | # of games |
 |:-----:|:----------:|
 |   1   |      1     |
 |   2   |     91     |
@@ -23,7 +21,7 @@ A regular test run means the result was considered a failure if the bot could no
 |   4   |     904    |
 |   5   |     527    |
 |   6   |     163    |
-|   X   |     70     |
+|   X   |     70     | -->
 
 <table>
     <thead>
@@ -50,6 +48,18 @@ A regular test run means the result was considered a failure if the bot could no
         <tr>
             <td>4</td>
             <td>904</td>
+        </tr>
+        <tr>
+            <td>5</td>
+            <td>527</td>
+        </tr>
+        <tr>
+            <td>6</td>
+            <td>163</td>
+        </tr>
+        <tr>
+            <td>X</td>
+            <td>70</td>
         </tr>
     </tbody>
 </table>
