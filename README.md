@@ -28,16 +28,16 @@ A regular test run means the result was considered a failure if the bot could no
 <table>
     <thead>
         <tr>
-            <th>Graph</th>
             <th>Score</th>
             <th># of games</th>
+            <th>Graph</th>
         </tr>
     </thead>
     <tbody>
         <tr>
+            <td>1</td>
+            <td>1</td>
             <td rowspan=4><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="100%"></img></td>
-            <td>1</td>
-            <td>1</td>
         </tr>
         <tr>
             <td>2</td>
