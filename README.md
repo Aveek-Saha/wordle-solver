@@ -35,7 +35,7 @@ A regular test run means the result was considered a failure if the bot could no
         <tr>
             <td>1</td>
             <td>1</td>
-            <td rowspan=4><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="100%"></img></td>
+            <td rowspan=7><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="50%"></img></td>
         </tr>
         <tr>
             <td>2</td>
