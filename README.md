@@ -28,7 +28,7 @@ A regular test run means the result was considered a failure if the bot could no
         <tr>
             <td>1</td>
             <td>1</td>
-            <td rowspan=7 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="70%"></img></td>
+            <td rowspan=7 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="60%"></img></td>
         </tr>
         <tr>
             <td>2</td>
@@ -73,7 +73,7 @@ Just to see how the bot performed, it was allowed to continue playing beyond 6 t
         <tr>
             <td>1</td>
             <td>1</td>
-            <td rowspan=9 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="80%"></img></td>
+            <td rowspan=9 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="70%"></img></td>
         </tr>
         <tr>
             <td>2</td>
