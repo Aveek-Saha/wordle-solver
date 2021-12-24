@@ -24,11 +24,11 @@ A regular test run means the result was considered a failure if the bot could no
             <th>Graph</th>
         </tr>
     </thead>
-    <tbody>
+    <tbody style="object-fit: contain">
         <tr>
             <td>1</td>
             <td>1</td>
-            <td rowspan=7 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" style="display:block;" width="100%" height="100%" ></img></td>
+            <td rowspan=7 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="60%"></img></td>
         </tr>
         <tr>
             <td>2</td>
