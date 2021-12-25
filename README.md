@@ -8,6 +8,27 @@ A solver for the official wordle game.
 -   The bot uses the list of all valid words + the list of answers from the official wordle website, a total of about 13k words.
 -   The list of possible answers is not given any special treatment and is mixed with the list of valid words.
 
+# Today's Wordle
+
+Wordle 260 6/6
+
+⬛🟨🟨⬛⬛
+🟨⬛⬛🟨⬛
+⬛🟩🟩⬛🟩
+⬛🟩🟩⬛🟩
+⬛🟩🟩🟩🟩
+🟩🟩🟩🟩🟩
+
+<details>
+<summary>Solution [Spoilers]</summary>
+first
+radio
+prize
+crime
+urine
+brine
+</details>
+
 # Stats
 
 The bot was tested on all 2309 wordles and these are the results.
