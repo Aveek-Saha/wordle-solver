@@ -12,21 +12,21 @@ A solver for the official wordle game.
 
 Wordle 260 6/6
 
-⬛🟨🟨⬛⬛
-🟨⬛⬛🟨⬛
-⬛🟩🟩⬛🟩
-⬛🟩🟩⬛🟩
-⬛🟩🟩🟩🟩
-🟩🟩🟩🟩🟩
+⬛🟨🟨⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
-first
-radio
-prize
-crime
-urine
-brine
+first <br>
+radio <br>
+prize <br>
+crime <br>
+urine <br>
+brine <br>
 </details>
 
 # Stats
