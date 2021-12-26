@@ -21,12 +21,14 @@ Wordle 260 6/6
 
 <details style="font-family:monospace">
 <summary>Solution [Spoilers]</summary>
-FIRST <br>
-RADIO <br>
-PRIZE <br>
-CRIME <br>
-URINE <br>
-BRINE <br>
+```
+FIRST
+RADIO
+PRIZE
+CRIME
+URINE
+BRINE
+```
 </details>
 
 # Stats
