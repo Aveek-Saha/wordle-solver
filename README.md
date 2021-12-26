@@ -21,14 +21,14 @@ Wordle 260 6/6
 
 <details style="font-family:monospace">
 <summary>Solution [Spoilers]</summary>
-```
+<pre>
 FIRST
 RADIO
 PRIZE
 CRIME
 URINE
 BRINE
-```
+<pre>
 </details>
 
 # Stats
