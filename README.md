@@ -19,16 +19,16 @@ Wordle 260 6/6
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
-<details style="font-family:monospace">
+<details>
 <summary>Solution [Spoilers]</summary>
-<code>
-FIRST <br>
-RADIO <br>
-PRIZE <br>
-CRIME <br>
-URINE <br>
-BRINE <br>
-</code>
+<pre>
+FIRST
+RADIO
+PRIZE
+CRIME
+URINE
+BRINE
+</pre>
 </details>
 
 # Stats
