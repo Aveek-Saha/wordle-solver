@@ -1,14 +1,8 @@
 # Wordle Solver
 
-A solver for the official wordle game.
+A solver for the official Wordle game.
 
-# Rules
-
--   The bot plays Wordle in hard mode, i.e. any information from a guess has to be used in the subsequent guesses.
--   The bot uses the list of all valid words + the list of answers from the official wordle website, a total of about 13k words.
--   The list of possible answers is not given any special treatment and is mixed with the list of valid words.
-
-# Today's Wordle
+## Today's Wordle
 
 Wordle 260 6/6
 
@@ -21,6 +15,8 @@ Wordle 260 6/6
 
 <details>
 <summary>Solution [Spoilers]</summary>
+
+Answer: `BRINE`
 <pre>
 FIRST
 RADIO
@@ -30,6 +26,12 @@ URINE
 BRINE
 </pre>
 </details>
+
+# Rules
+
+-   The bot plays Wordle in hard mode, i.e. any information from a guess has to be used in the subsequent guesses.
+-   The bot uses the list of all valid words + the list of answers from the official wordle website, a total of about 13k words.
+-   The list of possible answers is not given any special treatment and is mixed with the list of valid words.
 
 # Stats
 
