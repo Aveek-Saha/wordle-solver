@@ -1,6 +1,7 @@
 import re
 import os
 import json
+from datetime import datetime
 
 DATASET_DIR = 'datasets'
 EXPERIMENT_DIR = 'filtered'
@@ -12,16 +13,21 @@ EXPERIMENT_DIR = 'filtered'
 # match = re.search(r'</summary>(.*?)</pre>', text, re.DOTALL).group(1)
 # print(match)
 
-RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
+# RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 
-with open(RESULTS, "r", encoding='utf8') as file:
-    res = json.load(file)
+# with open(RESULTS, "r", encoding='utf8') as file:
+#     res = json.load(file)
 
-day = "261"
+# day = "261"
 
-current_answer = res["games"][day]
+# current_answer = res["games"][day]
 
-board = current_answer["share"].split("\n\n")
+# board = current_answer["share"].split("\n\n")
 
 # print(board[0] + "\n\n" + " <br>\n".join(board[1].split("\n")))
-print("Answer: `" + current_answer["answer"].upper() + "`\n<pre>\n" + "\n".join(current_answer["guesses"]).upper())
+# print("Answer: `" + current_answer["answer"].upper() + "`\n<pre>\n" + "\n".join(current_answer["guesses"]).upper())
+
+today = datetime.now()
+start = datetime(2021, 6, 19)
+delta = today - start
+print(delta.days)
