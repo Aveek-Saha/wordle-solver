@@ -4,27 +4,24 @@ A solver for the official Wordle game.
 
 ## Today's Wordle
 
-Wordle 260 6/6
+Wordle 262 4/6
 
-⬛🟨🟨⬛⬛ <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨⬛🟩⬛ <br>
+🟩⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
-Answer: `BRINE`
+Answer: `HOARD`
 <pre>
 FIRST
-RADIO
-PRIZE
-CRIME
-URINE
-BRINE
+WHERE
+HYDRO
+HOARD
 </pre>
+
 </details>
 
 # Rules

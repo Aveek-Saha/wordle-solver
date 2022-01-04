@@ -39,4 +39,5 @@ sub_board = re.sub(r'## Today\'s Wordle(.*?)<details>',
 sub_answer = re.sub(r'</summary>(.*?)</pre>', guesses,
                     sub_board, count=1, flags=re.DOTALL)
 
-print(sub_answer)
+with open('README.md', 'w', encoding='utf8') as f:
+    f.write(sub_answer)
