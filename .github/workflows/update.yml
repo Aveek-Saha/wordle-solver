@@ -1,4 +1,4 @@
-name: Update Icons
+name: Update Wordle
 
 on:
   workflow_dispatch:
