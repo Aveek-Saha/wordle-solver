@@ -23,7 +23,7 @@ jobs:
           git config --global user.name "Aveek Saha"
           git status
           git add --all
-          git commit -m "chore: Update Wordle solution"
+          git commit -m "Chore: Update Wordle solution"
       - name: Push
         uses: ad-m/github-push-action@master
         with:
