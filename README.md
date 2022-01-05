@@ -38,6 +38,8 @@ The bot was tested on all 2309 Wordle answer words and these are the results.
 
 A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
 
+**Average:** 4.051
+
 <table>
     <thead>
         <tr>
@@ -82,6 +84,8 @@ A regular test run means the result was considered a failure if the bot could no
 ## Extended
 
 Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution. Overall the solver never takes more than 9 attempts to solve a wordle.
+
+**Average:** 4.148
 
 <table>
     <thead>
