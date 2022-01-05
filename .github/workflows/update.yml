@@ -1,0 +1,30 @@
+name: Update Icons
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Run script
+        run: |
+          python update_readme.py
+      - name: Add
+        run: |
+          git config --global user.email "aveek.s98@gmail.com"
+          git config --global user.name "Aveek Saha"
+          git status
+          git add --all
+          git commit -m "chore: Update Wordle solution"
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
