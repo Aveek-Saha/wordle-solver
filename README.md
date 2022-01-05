@@ -1,6 +1,6 @@
 # Wordle Solver
 
-A solver for the official Wordle game.
+A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/index.html). The daily Wordle solved below by the bot is updated automatically every day at 00:00 UTC.
 
 ## Today's Wordle
 
@@ -32,7 +32,7 @@ HOARD
 
 # Stats
 
-The bot was tested on all 2309 wordles and these are the results.
+The bot was tested on all 2309 Wordle answer words and these are the results.
 
 ## Regular
 
