@@ -98,9 +98,8 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
     # total_games = 10
     record = {}
     record["games"] = {}
-    index = 0
-    for word in tqdm(words):
-        index += 1
+    
+    for index, word in enumerate(tqdm(words)):
         board = [0, 0, 0, 0, 0]
         guess = list(first_guess_list.keys())[0]
         score = 1
@@ -108,7 +107,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
         game = {}
         game["answer"] = word
         game["guesses"] = []
-        game["share"] = "Wordle " + str(index) + " {}/6\n\n"
+        game["share"] = "Wordle " + str(index) + " {}/6*\n\n"
         boards = ""
 
         for turn in range(6):
