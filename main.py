@@ -21,7 +21,7 @@ VALID_WORDS_SCORE = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_word_scores
 VALID_WORDS_ENTROPY = os.path.join(DATASET_DIR, 'valid_words_entropy_map.json')
 FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tf.json')
 SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf.json')
-RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
+RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 
 # TOTAL_WORDS = 3000000
 TOTAL_WORDS = 0
