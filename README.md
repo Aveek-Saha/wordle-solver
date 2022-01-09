@@ -4,21 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 263 3/6
+Wordle 263 4/6*
 
-⬛⬛⬛🟨🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
-Answer: `SWEET`
+Answer: `MONTH`
 <pre>
 FIRST
-SPENT
-SWEET
+DEATH
+YOUTH
+MONTH
 </pre>
+
 
 
 </details>
