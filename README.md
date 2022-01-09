@@ -62,23 +62,23 @@ A regular test run means the result was considered a failure if the bot could no
         </tr>
         <tr>
             <td >3</td>
-            <td>553</td>
+            <td>556</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>904</td>
+            <td>902</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>527</td>
+            <td>531</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>163</td>
+            <td>154</td>
         </tr>
         <tr>
             <td>X</td>
-            <td>70</td>
+            <td>74</td>
         </tr>
     </tbody>
 </table>
