@@ -18,6 +18,6 @@ count = Counter(scores)
 df = pd.DataFrame.from_dict(count, orient='index').sort_index(axis = 0)
 print(df)
 df.plot(xlabel='Scores', ylabel='Number of games', title='Score distribution', kind='bar')
-plt.show()
-
+# plt.show()
+plt.savefig(os.path.join('graphs', 'analysis.png'))
 # print(df)
