@@ -85,7 +85,7 @@ def generate_guess_matrix(previous_board, previous_guess, turn, guesses, words_o
 #         break
 
 
-def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_scores, total_words, combs, data):
+def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_scores, total_words, combs, data, extended=False):
 
     # comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
     # match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
@@ -98,6 +98,11 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
     # total_games = 10
     record = {}
     record["games"] = {}
+
+    if extended:
+        turns = 30
+    else:
+        turns = 6
     
     for index, word in enumerate(tqdm(words)):
         board = [0, 0, 0, 0, 0]
@@ -110,7 +115,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
         game["share"] = "Wordle " + str(index) + " {}/6*\n\n"
         boards = ""
 
-        for turn in range(6):
+        for turn in range(turns):
             previous_guess = guess
             guess, filtered_wordlist = generate_guess(
                 board, previous_guess, filtered_wordlist, turn, total_words, combs, guess, second_guess_scores, data)
@@ -121,7 +126,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
             if board == [2, 2, 2, 2, 2]:
                 break
             score += 1
-            if turn == 5:
+            if turn == turns-1:
                 score = 0
 
         if score == 0:
