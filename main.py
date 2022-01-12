@@ -22,6 +22,7 @@ VALID_WORDS_ENTROPY = os.path.join(DATASET_DIR, 'valid_words_entropy_map.json')
 FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tf.json')
 SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf.json')
 RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
+RESULTS_EXTENDED = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
 
 # TOTAL_WORDS = 3000000
 TOTAL_WORDS = 0
@@ -96,8 +97,8 @@ with open(ANSWERS, 'r', encoding='utf8') as f:
     answer_words = [row for row in csv.reader(f, delimiter=',')][0]
 
 print("Run Simulation")
-record = run_simulation(outcomes, wordlist, answer_words, sorted_first_guess, second_guess, TOTAL_WORDS, combs, data)
-with open(RESULTS, "w", encoding='utf8') as outfile:
+record = run_simulation(outcomes, wordlist, answer_words, sorted_first_guess, second_guess, TOTAL_WORDS, combs, data, True)
+with open(RESULTS_EXTENDED, "w", encoding='utf8') as outfile:
         json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ", record["stats"]['average'])
