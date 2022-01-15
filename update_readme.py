@@ -31,8 +31,11 @@ board = current_answer["share"].split("\n\n")
 
 share_board = "## Today's Wordle\n\n" + \
     board[0] + "\n\n" + " <br>\n".join(board[1].split("\n")) + "\n<details>"
-guesses = "</summary>\n\nAnswer: `" + current_answer["answer"].upper(
-) + "`\n<pre>\n" + "\n".join(current_answer["guesses"]).upper() + "\n</pre>\n"
+
+guess = [" ".join(guess) for guess in current_answer["guesses"]]
+
+guesses = "</summary>\n\n<br> \nAnswer: `" + current_answer["answer"].upper(
+) + "`\n<pre>\n" + "\n".join(guess).upper() + "\n</pre>"
 
 sub_board = re.sub(r'## Today\'s Wordle(.*?)<details>',
                    share_board, text, count=1, flags=re.DOTALL)

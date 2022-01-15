@@ -14,16 +14,14 @@ Wordle 263 4/6*
 <details>
 <summary>Solution [Spoilers]</summary>
 
+<br> 
 Answer: `MONTH`
 <pre>
-FIRST
-DEATH
-YOUTH
-MONTH
+F I R S T
+D E A T H
+Y O U T H
+M O N T H
 </pre>
-
-
-
 </details>
 
 # Rules
