@@ -34,7 +34,7 @@ share_board = "## Today's Wordle\n\n" + \
 
 guess = [" ".join(guess) for guess in current_answer["guesses"]]
 
-guesses = "</summary>\n\n<br> \nAnswer: `" + current_answer["answer"].upper(
+guesses = "</summary>\n\n<br> \n\nAnswer: `" + current_answer["answer"].upper(
 ) + "`\n<pre>\n" + "\n".join(guess).upper() + "\n</pre>"
 
 sub_board = re.sub(r'## Today\'s Wordle(.*?)<details>',

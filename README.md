@@ -16,6 +16,7 @@ Wordle 264 5/6*
 <summary>Solution [Spoilers]</summary>
 
 <br> 
+
 Answer: `LAPSE`
 <pre>
 F I R S T
