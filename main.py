@@ -11,9 +11,10 @@ from simulation import *
 DATASET_DIR = 'datasets'
 WORDS_DIR = 'words'
 
-EXPERIMENT_DIR = 'filtered'
+EXPERIMENT_DIR = 'newfreq'
 
 WORDLIST_ALL = os.path.join(DATASET_DIR, WORDS_DIR, 'wordlist_all.txt')
+WORDLIST_ALL_UNI = os.path.join(DATASET_DIR, WORDS_DIR, 'unigram_freq.csv')
 VALID_WORDS = os.path.join(DATASET_DIR, WORDS_DIR, 'valid_guesses.txt')
 ANSWERS = os.path.join(DATASET_DIR, WORDS_DIR, 'possible_answers.txt')
 GUESS_MATRIX = os.path.join(DATASET_DIR, 'match_matrix.npy')
@@ -36,11 +37,18 @@ outcomes = {
     0: "⬛"
 }
 
-with open(WORDLIST_ALL, 'r', encoding='utf8') as f:
+# with open(WORDLIST_ALL, 'r', encoding='utf8') as f:
+#         wordlist = {}
+#         for row in csv.reader(f, delimiter=' '):
+#             wordlist[row[0]] = [int(row[2]), int(row[3])]
+#             TOTAL_WORDS += int(row[2])
+
+with open(WORDLIST_ALL_UNI, 'r', encoding='utf8') as f:
         wordlist = {}
-        for row in csv.reader(f, delimiter=' '):
-            wordlist[row[0]] = [int(row[2]), int(row[3])]
-            TOTAL_WORDS += int(row[2])
+        for row in csv.reader(f, delimiter=','):
+            if len(row[0]) == 5:
+                wordlist[row[0]] = int(row[1])
+                TOTAL_WORDS += int(row[1])
 
 with open(VALID_WORDS, 'r', encoding='utf8') as f:
         valid = [row for row in csv.reader(f, delimiter=',')][0]
