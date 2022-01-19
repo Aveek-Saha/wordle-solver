@@ -37,7 +37,6 @@ def clean_wordlist_alt(wordlist, valid, total_words):
             possible_words[word] = term_freq(wordlist[word], total_words)
 
         else:
-            print(word)
             possible_words[word] = term_freq(1, total_words)
 
 
