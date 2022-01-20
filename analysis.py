@@ -6,7 +6,7 @@ from collections import Counter
 import pandas as pd
 
 DATASET_DIR = 'datasets'
-EXPERIMENT_DIR = 'filtered'
+EXPERIMENT_DIR = 'newfreq'
 
 RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 RESULTS_EXTENDED = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
@@ -24,6 +24,6 @@ count = Counter(scores)
 df = pd.DataFrame.from_dict(count, orient='index').sort_index(axis = 0)
 print(df)
 df.plot(xlabel='Scores', ylabel='Number of games', title='Score distribution', kind='bar')
-# plt.show()
-plt.savefig(os.path.join('graphs', 'analysis_unlimited.png'))
+plt.show()
+# plt.savefig(os.path.join('graphs', 'analysis_unlimited.png'))
 # print(df)
