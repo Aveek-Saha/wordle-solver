@@ -11,7 +11,7 @@ from simulation import *
 DATASET_DIR = 'datasets'
 WORDS_DIR = 'words'
 
-EXPERIMENT_DIR = 'newfreq'
+EXPERIMENT_DIR = 'combfreq'
 
 WORDLIST_ALL = os.path.join(DATASET_DIR, WORDS_DIR, 'wordlist_all.txt')
 WORDLIST_ALL_UNI = os.path.join(DATASET_DIR, WORDS_DIR, 'unigram_freq.csv')
@@ -37,17 +37,17 @@ outcomes = {
     0: "⬛"
 }
 
-# with open(WORDLIST_ALL, 'r', encoding='utf8') as f:
-#         wordlist = {}
-#         for row in csv.reader(f, delimiter=' '):
-#             wordlist[row[0]] = [int(row[2]), int(row[3])]
-#             TOTAL_WORDS += int(row[2])
+with open(WORDLIST_ALL, 'r', encoding='utf8') as f:
+        wordlist = {}
+        for row in csv.reader(f, delimiter=' '):
+            wordlist[row[0]] = [int(row[2]), int(row[3])]
+            TOTAL_WORDS += int(row[2])
 
 with open(WORDLIST_ALL_UNI, 'r', encoding='utf8') as f:
-        wordlist = {}
+        wordlist_uni = {}
         for row in csv.reader(f, delimiter=','):
             if len(row[0]) == 5:
-                wordlist[row[0]] = int(row[1])
+                wordlist_uni[row[0]] = int(row[1])
                 TOTAL_WORDS += int(row[1])
 
 with open(VALID_WORDS, 'r', encoding='utf8') as f:
@@ -63,7 +63,12 @@ with open(VALID_WORDS, 'r', encoding='utf8') as f:
 
 print("Calculate term frequency")
 # data = clean_wordlist(wordlist, valid, TOTAL_WORDS, TOTAL_ARTICLES)
-# data = clean_wordlist_alt(wordlist, valid, TOTAL_WORDS)
+# data_uni = clean_wordlist_alt(wordlist_uni, valid, TOTAL_WORDS)
+
+# for word in data:
+#     data[word] = (data[word] + data_uni[word])/2
+
+# data = dict(sorted(data.items(), key=lambda item: item[1], reverse=True))
 
 # with open(VALID_WORDS_SCORE, "w") as outfile:
 #         json.dump(data, outfile, indent=4)
@@ -93,22 +98,22 @@ print("Scale and sort first guess scores")
 with open(FIRST_GUESS_SCORES, "r") as file:
     sorted_first_guess = json.load(file)
 
-first_guess = list(sorted_first_guess.keys())[0]
+first_guess = list(sorted_first_guess.keys())[1]
 print("Calculate second guess scores for all combs")
-# second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
-# with open(SECOND_GUESS_SCORES, "w") as outfile:
-#         json.dump(second_guess, outfile, indent=4)
+second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
+with open(SECOND_GUESS_SCORES, "w") as outfile:
+        json.dump(second_guess, outfile, indent=4)
 
-with open(SECOND_GUESS_SCORES, "r") as file:
-    second_guess = json.load(file)
+# with open(SECOND_GUESS_SCORES, "r") as file:
+#     second_guess = json.load(file)
 
-with open(ANSWERS, 'r', encoding='utf8') as f:
-    answer_words = [row for row in csv.reader(f, delimiter=',')][0]
+# with open(ANSWERS, 'r', encoding='utf8') as f:
+#     answer_words = [row for row in csv.reader(f, delimiter=',')][0]
 
-print("Run Simulation")
-record = run_simulation(outcomes, wordlist, answer_words, sorted_first_guess, second_guess, TOTAL_WORDS, combs, data, False)
-with open(RESULTS_EXTENDED, "w", encoding='utf8') as outfile:
-        json.dump(record, outfile, indent=4, ensure_ascii=False)
+# print("Run Simulation")
+# record = run_simulation(outcomes, wordlist, answer_words, sorted_first_guess, second_guess, TOTAL_WORDS, combs, data, False)
+# with open(RESULTS_EXTENDED, "w", encoding='utf8') as outfile:
+#         json.dump(record, outfile, indent=4, ensure_ascii=False)
 
-print("Average Score in successful games: ", record["stats"]['average'])
-print("Number of failed games: ", record["stats"]['failed'])
+# print("Average Score in successful games: ", record["stats"]['average'])
+# print("Number of failed games: ", record["stats"]['failed'])
