@@ -141,7 +141,7 @@ def run_simulation(outcomes, wordlist, words, first_guess, second_guess_scores, 
         record["games"][index] = game
         score_total += score
 
-        tqdm.write(score_total/(index +1 -failed_games))
+        print(score_total/(index +1 -failed_games))
 
     record["stats"] = {
         "total": total_games,
