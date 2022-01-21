@@ -85,7 +85,7 @@ def generate_guess_matrix(previous_board, previous_guess, turn, guesses, words_o
 #         break
 
 
-def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_scores, total_words, combs, data, extended=False):
+def run_simulation(outcomes, wordlist, words, first_guess, second_guess_scores, total_words, combs, data, extended=False):
 
     # comb_map = {"".join([str(int) for int in list(comb)]): i for i, comb in enumerate(combs)}
     # match_matrix = np.load(os.path.join('datasets', 'match_matrix.npy'))
@@ -106,7 +106,7 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
     
     for index, word in enumerate(tqdm(words)):
         board = [0, 0, 0, 0, 0]
-        guess = list(first_guess_list.keys())[0]
+        guess = first_guess
         score = 1
         filtered_wordlist = wordlist
         game = {}
@@ -140,6 +140,8 @@ def run_simulation(outcomes, wordlist, words, first_guess_list, second_guess_sco
         game["share"] +=  boards
         record["games"][index] = game
         score_total += score
+
+        tqdm.write(score_total/(index +1 -failed_games))
 
     record["stats"] = {
         "total": total_games,
