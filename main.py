@@ -21,8 +21,8 @@ GUESS_MATRIX = os.path.join(DATASET_DIR, 'match_matrix.npy')
 VALID_WORDS_SCORE = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_word_scores_scaled_tf.json')
 VALID_WORDS_ENTROPY = os.path.join(DATASET_DIR, 'valid_words_entropy_map.json')
 FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tf.json')
-SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf.json')
-RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
+SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf_2.json')
+RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_2.json')
 RESULTS_EXTENDED = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
 
 # TOTAL_WORDS = 3000000
@@ -101,14 +101,14 @@ print("Scale and sort first guess scores")
 with open(FIRST_GUESS_SCORES, "r") as file:
     sorted_first_guess = json.load(file)
 
-first_guess = list(sorted_first_guess.keys())[1]
+first_guess = list(sorted_first_guess.keys())[0]
 print("Calculate second guess scores for all combs")
-# second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
-# with open(SECOND_GUESS_SCORES, "w") as outfile:
-#         json.dump(second_guess, outfile, indent=4)
+second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
+with open(SECOND_GUESS_SCORES, "w") as outfile:
+        json.dump(second_guess, outfile, indent=4)
 
-with open(SECOND_GUESS_SCORES, "r") as file:
-    second_guess = json.load(file)
+# with open(SECOND_GUESS_SCORES, "r") as file:
+#     second_guess = json.load(file)
 
 with open(ANSWERS, 'r', encoding='utf8') as f:
     answer_words = [row for row in csv.reader(f, delimiter=',')][0]

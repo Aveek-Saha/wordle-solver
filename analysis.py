@@ -6,12 +6,12 @@ from collections import Counter
 import pandas as pd
 
 DATASET_DIR = 'datasets'
-EXPERIMENT_DIR = 'newfreq'
+EXPERIMENT_DIR = 'combfreq'
 
 RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 RESULTS_EXTENDED = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
 
-with open(RESULTS_EXTENDED, "r") as file:
+with open(RESULTS, "r") as file:
     simulation_results = json.load(file)
 
 results = simulation_results["games"]
