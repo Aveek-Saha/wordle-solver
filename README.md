@@ -54,7 +54,7 @@ The bot was tested on all 2309 Wordle answer words and these are the results.
 
 A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
 
-**Average:** 4.043
+**Average:** 3.927
 
 <table>
     <thead>
@@ -67,32 +67,32 @@ A regular test run means the result was considered a failure if the bot could no
     <tbody style="object-fit: contain">
         <tr>
             <td>1</td>
-            <td>1</td>
+            <td>0</td>
             <td rowspan=7 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis.png" width="60%"></img></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>91</td>
+            <td>104</td>
         </tr>
         <tr>
             <td >3</td>
-            <td>556</td>
+            <td>674</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>902</td>
+            <td>894</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>531</td>
+            <td>437</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>154</td>
+            <td>140</td>
         </tr>
         <tr>
             <td>X</td>
-            <td>74</td>
+            <td>60</td>
         </tr>
     </tbody>
 </table>
