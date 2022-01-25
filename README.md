@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 265 4/6*
+Wordle 265 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨🟩 <br>
+🟨🟩⬛⬛⬛ <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -18,8 +17,7 @@ Wordle 265 4/6*
 
 Answer: `WATCH`
 <pre>
-F I R S T
-D E A T H
+T A R E S
 M A T C H
 W A T C H
 </pre>
