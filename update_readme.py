@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 DATASET_DIR = 'datasets'
-EXPERIMENT_DIR = 'filtered'
+EXPERIMENT_DIR = 'combfreq'
 
 today = datetime.now()
 start = datetime(2021, 6, 19)
