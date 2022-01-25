@@ -21,8 +21,8 @@ GUESS_MATRIX = os.path.join(DATASET_DIR, 'match_matrix.npy')
 VALID_WORDS_SCORE = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'valid_word_scores_scaled_tf.json')
 VALID_WORDS_ENTROPY = os.path.join(DATASET_DIR, 'valid_words_entropy_map.json')
 FIRST_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'first_guess_scores_scaled_tf.json')
-SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf_2.json')
-RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_2.json')
+SECOND_GUESS_SCORES = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'second_guess_scores_scaled_tf.json')
+RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
 RESULTS_EXTENDED = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf_extended.json')
 
 # TOTAL_WORDS = 3000000
@@ -103,19 +103,24 @@ with open(FIRST_GUESS_SCORES, "r") as file:
 
 first_guess = list(sorted_first_guess.keys())[0]
 print("Calculate second guess scores for all combs")
-second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
-with open(SECOND_GUESS_SCORES, "w") as outfile:
-        json.dump(second_guess, outfile, indent=4)
+# second_guess = generate_second_guess_score(wordlist, data, first_guess, combs, TOTAL_WORDS)
+# with open(SECOND_GUESS_SCORES, "w") as outfile:
+#         json.dump(second_guess, outfile, indent=4)
 
-# with open(SECOND_GUESS_SCORES, "r") as file:
-#     second_guess = json.load(file)
+with open(SECOND_GUESS_SCORES, "r") as file:
+    second_guess = json.load(file)
 
 with open(ANSWERS, 'r', encoding='utf8') as f:
     answer_words = [row for row in csv.reader(f, delimiter=',')][0]
 
 print("Run Simulation")
-record = run_simulation(outcomes, wordlist, answer_words, first_guess, second_guess, TOTAL_WORDS, combs, data, False)
-with open(RESULTS, "w", encoding='utf8') as outfile:
+extended = True
+if extended:
+    RESULTS_FILE = RESULTS_EXTENDED
+else:
+    RESULTS_FILE = RESULTS
+record = run_simulation(outcomes, wordlist, answer_words, first_guess, second_guess, TOTAL_WORDS, combs, data, extended)
+with open(RESULTS_FILE, "w", encoding='utf8') as outfile:
         json.dump(record, outfile, indent=4, ensure_ascii=False)
 
 print("Average Score in successful games: ", record["stats"]['average'])

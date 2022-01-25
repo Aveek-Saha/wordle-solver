@@ -101,7 +101,7 @@ A regular test run means the result was considered a failure if the bot could no
 
 Just to see how the bot performed, it was allowed to continue playing beyond 6 tries till it found a solution. Overall the solver never takes more than 9 attempts to solve a wordle.
 
-**Average:** 4.148
+**Average:** 4.013
 
 <table>
     <thead>
@@ -114,36 +114,36 @@ Just to see how the bot performed, it was allowed to continue playing beyond 6 t
     <tbody style="object-fit: contain">
         <tr>
             <td>1</td>
-            <td>1</td>
+            <td>0</td>
             <td rowspan=9 align="center"><img src="https://github.com/Aveek-Saha/wordle-solver/blob/master/graphs/analysis_unlimited.png" width="70%"></img></td>
         </tr>
         <tr>
             <td>2</td>
-            <td>91</td>
+            <td>104</td>
         </tr>
         <tr>
             <td >3</td>
-            <td>556</td>
+            <td>674</td>
         </tr>
         <tr>
             <td>4</td>
-            <td>902</td>
+            <td>894</td>
         </tr>
         <tr>
             <td>5</td>
-            <td>531</td>
+            <td>437</td>
         </tr>
         <tr>
             <td>6</td>
-            <td>154</td>
+            <td>140</td>
         </tr>
         <tr>
             <td>7</td>
-            <td>55</td>
+            <td>48</td>
         </tr>
         <tr>
             <td>8</td>
-            <td>16</td>
+            <td>9</td>
         </tr>
         <tr>
             <td>9</td>
