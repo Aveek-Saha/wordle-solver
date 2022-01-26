@@ -39,9 +39,9 @@ The metric to determine how common a word is comes from [Lexipedia](https://en.l
 
 The word frequencies are then normalized and we keep only the common words between the valid guess list for Wordle. If a word is present in the valid word list but not in the combined frequency dataset, we consider it's frequency to be 0.
 
-Then the entropy is calculated for each word and normalized. A final score is calculated weighing the entropy and frequency values. When we sort the list of the first guesses by score, the best first guess turns out to be `TARES`.
+Then the entropy is calculated for each word and normalized. To compute the total score for a word a weighted sum of the entropy and the frequency metric is taken. When we sort the list of the first guesses by score, the best first guess turns out to be `TARES`.
 
-Then for each possible outcome after the first guess, the score for the best second guess is computed. This saves a lot of time when solving the Wordles. For every guess after that the score is calculated on the fly, this doesn't take too long as the number of possible words is usually small. To compute the total score for a word a weighted sum of the entropy and the frequency metric is taken.
+Then for each possible outcome after the first guess, the score for the best second guess is computed. This saves a lot of time when solving the Wordles. For every guess after that the score is calculated on the fly, this doesn't take too long as the number of possible words is usually small.
 
 
 # Stats
