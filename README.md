@@ -35,13 +35,13 @@ The method used for this bot is inspired from a [video](https://www.youtube.com/
 
 A list of possible answers and valid guesses from the official website is used.
 
-The metric to determine how common a word is comes from [Lexipedia](https://en.lexipedia.org/), which provides word lists extracted from Wikipedia articles. Lexipedia gives us the frequency of the words in these wiki articles, it also lets you filter the length of the words you need, 5 in our case.
+The metric to determine how common a word is comes from [Lexipedia](https://en.lexipedia.org/), which provides word lists extracted from Wikipedia articles. Lexipedia gives us the frequency of the words in these wiki articles, it also lets you filter the length of the words you need, 5 in our case. An [English word frequency dataset](https://www.kaggle.com/rtatman/english-word-frequency) from Kaggle is also used in combination with the Lexipedia frequency
 
-The word frequencies are then normalized and we keep only the common words between the valid guess list for Wordle. If a word is present in the valid word list but not in the Lexipedia dataset, we consider it's frequency to be 0.
+The word frequencies are then normalized and we keep only the common words between the valid guess list for Wordle. If a word is present in the valid word list but not in the combined frequency dataset, we consider it's frequency to be 0.
 
-Then the entropy is calculated for each word and normalized. A final score is calculated weighing the entropy and frequency values. When we sort the list of the first guesses by score, the best first guess turns out to be `FIRST`, kind of poetic.
+Then the entropy is calculated for each word and normalized. A final score is calculated weighing the entropy and frequency values. When we sort the list of the first guesses by score, the best first guess turns out to be `TARES`.
 
-Then for each possible outcome after the first guess, the score for the best second guess is computed. This saves a lot of time when solving the Wordles. For every guess after that the score is calculated on the fly, this doesn't take too long as the number of possible words is usually small.
+Then for each possible outcome after the first guess, the score for the best second guess is computed. This saves a lot of time when solving the Wordles. For every guess after that the score is calculated on the fly, this doesn't take too long as the number of possible words is usually small. To compute the total score for a word a weighted sum of the entropy and the frequency metric is taken.
 
 
 # Stats
