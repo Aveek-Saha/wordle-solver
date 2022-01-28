@@ -1,6 +1,18 @@
+import os
+import json
+from datetime import datetime
+
 import tweepy
 import configparser
 
+DATASET_DIR = 'datasets'
+EXPERIMENT_DIR = 'combfreq'
+RESULTS = os.path.join(DATASET_DIR, EXPERIMENT_DIR, 'simulation_results_scaled_tf.json')
+
+today = datetime.now()
+start = datetime(2021, 6, 19)
+delta = today - start
+day = str(delta.days)
 
 config = configparser.ConfigParser()
 config.read('.env')
@@ -12,9 +24,20 @@ ACCESS_KEY = config['oauth']['ACCESS_KEY']
 ACCESS_SECRET = config['oauth']['ACCESS_SECRET']
 
 # OAuth process, using the keys and tokens
-auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
-auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
+# auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
+# auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 
-api = tweepy.API(auth)
+# api = tweepy.API(auth)
+
+with open(RESULTS, "r", encoding='utf8') as file:
+    results = json.load(file)
+
+games = results["games"]
+
+for game in games:
+    if int(game) >= int(day):
+        break
+    else:
+        print(games[game]["share"])
 
 api.update_status("Wordle 264 4/6*\n\n⬛🟩⬛🟨🟨\n⬛🟩⬛🟩🟩\n⬛🟩🟨🟩🟩\n🟩🟩🟩🟩🟩\n" )
