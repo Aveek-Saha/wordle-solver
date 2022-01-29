@@ -32,11 +32,5 @@ api = tweepy.API(auth)
 with open(RESULTS, "r", encoding='utf8') as file:
     results = json.load(file)
 
-games = results["games"]
-
-for game in games:
-    if int(game) >= int(day):
-        break
-    else:
-        # print(games[game]["share"])
-        api.update_status(games[game]["share"])
+current_answer = results["games"][day]["share"]
+api.update_status(current_answer)
