@@ -1,0 +1,27 @@
+name: Post Tweet
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Setup python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Install Tweepy
+        run: |
+          pip install tweepy
+      - name: Run script
+        env:
+            CONSUMER_KEY: ${{ secrets.CONSUMER_KEY }}
+            CONSUMER_SECRET: ${{ secrets.CONSUMER_SECRET }}
+            ACCESS_KEY: ${{ secrets.ACCESS_KEY }}
+            ACCESS_SECRET: ${{ secrets.ACCESS_SECRET }}
+        run: |
+          python update_tweet.py

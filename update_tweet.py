@@ -3,7 +3,7 @@ import json
 from datetime import datetime
 
 import tweepy
-import configparser
+# import configparser
 
 DATASET_DIR = 'datasets'
 EXPERIMENT_DIR = 'combfreq'
@@ -14,16 +14,19 @@ start = datetime(2021, 6, 19)
 delta = today - start
 day = str(delta.days)
 
-config = configparser.ConfigParser()
-config.read('.env')
+# config = configparser.ConfigParser()
+# config.read('.env')
 
-# Consumer keys and access tokens, used for OAuth
-CONSUMER_KEY = config['oauth']['CONSUMER_KEY']
-CONSUMER_SECRET = config['oauth']['CONSUMER_SECRET']
-ACCESS_KEY = config['oauth']['ACCESS_KEY']
-ACCESS_SECRET = config['oauth']['ACCESS_SECRET']
+# CONSUMER_KEY = config['oauth']['CONSUMER_KEY']
+# CONSUMER_SECRET = config['oauth']['CONSUMER_SECRET']
+# ACCESS_KEY = config['oauth']['ACCESS_KEY']
+# ACCESS_SECRET = config['oauth']['ACCESS_SECRET']
 
-# OAuth process, using the keys and tokens
+CONSUMER_KEY = os.environ['CONSUMER_KEY']
+CONSUMER_SECRET = os.environ['CONSUMER_SECRET']
+ACCESS_KEY = os.environ['ACCESS_KEY']
+ACCESS_SECRET = os.environ['ACCESS_SECRET']
+
 auth = tweepy.OAuthHandler(CONSUMER_KEY, CONSUMER_SECRET)
 auth.set_access_token(ACCESS_KEY, ACCESS_SECRET)
 
