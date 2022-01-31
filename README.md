@@ -1,6 +1,6 @@
 # Wordle Solver
 
-A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/index.html) in hard mode. The daily Wordle solved below by the bot is updated automatically every day at 00:00 UTC.
+A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/index.html) in hard mode. The daily Wordle solved below by the bot is updated and tweeted on [@SolverWordle](https://twitter.com/SolverWordle) automatically every day at 00:00 UTC.
 
 ## Today's Wordle
 
@@ -31,13 +31,11 @@ T O D A Y
 
 # Method used
 
-The method used for this bot is inspired from a [video](https://www.youtube.com/watch?v=v68zYyaEmEA) made by [3b1b](https://github.com/3b1b). The approach is similar, use entropy combined with a metric for how common a word is to rank guesses, but the implementation is different from what was shown in the video.
-
-A list of possible answers and valid guesses from the official website is used.
+The method used for this bot is inspired from a [video](https://www.youtube.com/watch?v=v68zYyaEmEA) made by [3b1b](https://github.com/3b1b). The approach is similar, use entropy combined with a metric for how common a word is to rank guesses, but the implementation is different from what was shown in the video. For starters, this bot plays exclusively on hard mode
 
 The metric to determine how common a word is comes from [Lexipedia](https://en.lexipedia.org/), which provides word lists extracted from Wikipedia articles. Lexipedia gives us the frequency of the words in these wiki articles, it also lets you filter the length of the words you need, 5 in our case. An [English word frequency dataset](https://www.kaggle.com/rtatman/english-word-frequency) from Kaggle is also used in combination with the Lexipedia frequency
 
-The word frequencies are then normalized and we keep only the common words between the valid guess list for Wordle. If a word is present in the valid word list but not in the combined frequency dataset, we consider it's frequency to be 0.
+A list of possible answers and valid guesses from the official website is used. The word frequencies are then normalized and we keep only the common words in the valid guess list for Wordle. If a word is present in the valid word list but not in the combined frequency dataset, we consider it's frequency to be 0.
 
 Then the entropy is calculated for each word and normalized. To compute the total score for a word a weighted sum of the entropy and the frequency metric is taken. When we sort the list of the first guesses by score, the best first guess turns out to be `TARES`.
 
@@ -53,6 +51,7 @@ The bot was tested on all 2309 Wordle answer words and these are the results.
 A regular test run means the result was considered a failure if the bot could not solve the puzzle in 6 or fewer tries. The average score excludes the failed puzzles.
 
 **Average:** 3.927
+
 **Failure rate:** 2.6%
 
 <table>
