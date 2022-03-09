@@ -4,23 +4,22 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 262 4/6
+Wordle 263 3/6
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨⬛🟩⬛ <br>
-🟩⬛🟨🟩🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
-Answer: `HOARD`
+Answer: `SWEET`
 <pre>
 FIRST
-WHERE
-HYDRO
-HOARD
+SPENT
+SWEET
 </pre>
+
 
 </details>
 
