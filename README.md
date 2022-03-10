@@ -4,23 +4,25 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 263 4/6*
+Wordle 264 5/6*
 
-⬛⬛⬛⬛🟨 <br>
+⬛⬛⬛🟩⬛ <br>
 ⬛⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+🟩⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
-Answer: `MONTH`
+Answer: `LAPSE`
 <pre>
 F I R S T
-D E A T H
-Y O U T H
-M O N T H
+H O U S E
+S E N S E
+L Y A S E
+L A P S E
 </pre>
 </details>
 
