@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 264 5/6*
+Wordle 265 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-🟩⬛🟨🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 264 5/6*
 
 <br> 
 
-Answer: `LAPSE`
+Answer: `WATCH`
 <pre>
 F I R S T
-H O U S E
-S E N S E
-L Y A S E
-L A P S E
+D E A T H
+M A T C H
+W A T C H
 </pre>
 </details>
 
