@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 266 3/6*
+Wordle 267 5/6*
 
-🟩🟨⬛⬛⬛ <br>
-🟩🟩⬛🟩⬛ <br>
+⬛⬛⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 266 3/6*
 
 <br> 
 
-Answer: `TODAY`
+Answer: `FOCUS`
 <pre>
 T A R E S
-T O T A L
-T O D A Y
+B O O K S
+S O N G S
+L O U I S
+F O C U S
 </pre>
 </details>
 
