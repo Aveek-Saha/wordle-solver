@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 268 4/6*
+Wordle 269 2/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟩🟨⬛🟩🟨 <br>
-🟩⬛🟩🟩🟩 <br>
+🟩🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 268 4/6*
 
 <br> 
 
-Answer: `SMELT`
+Answer: `TEASE`
 <pre>
 T A R E S
-S T Y L E
-S P E L T
-S M E L T
+T E A S E
 </pre>
 </details>
 
