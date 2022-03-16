@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 269 2/6*
+Wordle 270 5/6*
 
-🟩🟨⬛🟨🟨 <br>
+🟨🟩🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 269 2/6*
 
 <br> 
 
-Answer: `TEASE`
+Answer: `CATER`
 <pre>
 T A R E S
-T E A S E
+L A T E R
+W A T E R
+M A T E R
+C A T E R
 </pre>
 </details>
 
