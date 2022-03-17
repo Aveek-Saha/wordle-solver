@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 270 5/6*
+Wordle 271 4/6*
 
-🟨🟩🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 270 5/6*
 
 <br> 
 
-Answer: `CATER`
+Answer: `MOVIE`
 <pre>
 T A R E S
-L A T E R
-W A T E R
-M A T E R
-C A T E R
+B E I N G
+F I E L D
+M O V I E
 </pre>
 </details>
 
