@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 271 4/6*
+Wordle 272 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
+🟨🟩⬛🟨🟨 <br>
+⬛🟩🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 271 4/6*
 
 <br> 
 
-Answer: `MOVIE`
+Answer: `SAUTE`
 <pre>
 T A R E S
-B E I N G
-F I E L D
-M O V I E
+W A S T E
+S A U T E
 </pre>
 </details>
 
