@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 272 3/6*
+Wordle 273 4/6*
 
-🟨🟩⬛🟨🟨 <br>
-⬛🟩🟨🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 272 3/6*
 
 <br> 
 
-Answer: `SAUTE`
+Answer: `ALLOW`
 <pre>
 T A R E S
-W A S T E
-S A U T E
+A L B U M
+A L O N G
+A L L O W
 </pre>
 </details>
 
