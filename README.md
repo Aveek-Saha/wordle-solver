@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 274 4/6*
+Wordle 275 2/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟨 <br>
-⬛🟨🟨🟩🟨 <br>
+🟩⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 274 4/6*
 
 <br> 
 
-Answer: `RENEW`
+Answer: `THEIR`
 <pre>
 T A R E S
-U N D E R
-G R E E N
-R E N E W
+T H E I R
 </pre>
 </details>
 
