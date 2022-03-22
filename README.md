@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 275 2/6*
+Wordle 276 4/6*
 
-🟩⬛🟨🟨⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 275 2/6*
 
 <br> 
 
-Answer: `THEIR`
+Answer: `SLOSH`
 <pre>
 T A R E S
-T H E I R
+M U S I C
+S H O W N
+S L O S H
 </pre>
 </details>
 
