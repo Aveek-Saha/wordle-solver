@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 276 4/6*
+Wordle 277 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+⬛⬛🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 276 4/6*
 
 <br> 
 
-Answer: `SLOSH`
+Answer: `PURGE`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S L O S H
+F O R C E
+N E R V E
+B U R K E
+P U R G E
 </pre>
 </details>
 
