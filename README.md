@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 277 5/6*
+Wordle 278 4/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟩 <br>
-⬛⬛🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+🟨⬛⬛🟨🟨 <br>
+🟨🟨⬛⬛🟨 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 277 5/6*
 
 <br> 
 
-Answer: `PURGE`
+Answer: `CHEST`
 <pre>
 T A R E S
-F O R C E
-N E R V E
-B U R K E
-P U R G E
+S T Y L E
+G U E S T
+C H E S T
 </pre>
 </details>
 
