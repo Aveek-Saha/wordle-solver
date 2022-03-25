@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 278 4/6*
+Wordle 279 5/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟨🟨⬛⬛🟨 <br>
-⬛⬛🟩🟩🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+🟨⬛⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 278 4/6*
 
 <br> 
 
-Answer: `CHEST`
+Answer: `DEPOT`
 <pre>
 T A R E S
-S T Y L E
-G U E S T
-C H E S T
+W H I T E
+E V E N T
+D E B U T
+D E P O T
 </pre>
 </details>
 
