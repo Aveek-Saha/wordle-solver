@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 279 5/6*
+Wordle 280 5/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛⬛🟨🟨 <br>
-🟨⬛⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 279 5/6*
 
 <br> 
 
-Answer: `DEPOT`
+Answer: `EPOXY`
 <pre>
 T A R E S
-W H I T E
-E V E N T
-D E B U T
-D E P O T
+B E I N G
+C H E C K
+P L U M E
+E P O X Y
 </pre>
 </details>
 
