@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 281 5/6*
+Wordle 282 3/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟩 <br>
-⬛⬛⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 281 5/6*
 
 <br> 
 
-Answer: `NYMPH`
+Answer: `FOUND`
 <pre>
 T A R E S
 W H I C H
-D O U G H
-L Y M P H
-N Y M P H
+F O U N D
 </pre>
 </details>
 
