@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 283 3/6*
+Wordle 284 3/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 283 3/6*
 
 <br> 
 
-Answer: `SHALL`
+Answer: `HARRY`
 <pre>
 T A R E S
-S M A L L
-S H A L L
+M A R C H
+H A R R Y
 </pre>
 </details>
 
