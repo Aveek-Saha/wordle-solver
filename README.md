@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 284 3/6*
+Wordle 285 5/6*
 
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 284 3/6*
 
 <br> 
 
-Answer: `HARRY`
+Answer: `STOVE`
 <pre>
 T A R E S
-M A R C H
-H A R R Y
+S T Y L E
+S T O N E
+S T O K E
+S T O V E
 </pre>
 </details>
 
