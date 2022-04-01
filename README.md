@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 285 5/6*
+Wordle 286 4/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 285 5/6*
 
 <br> 
 
-Answer: `STOVE`
+Answer: `LOWLY`
 <pre>
 T A R E S
-S T Y L E
-S T O N E
-S T O K E
-S T O V E
+W H I C H
+K N O W N
+L O W L Y
 </pre>
 </details>
 
