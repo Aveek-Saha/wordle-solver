@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 286 4/6*
+Wordle 287 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨🟨🟨⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 286 4/6*
 
 <br> 
 
-Answer: `LOWLY`
+Answer: `SNOUT`
 <pre>
 T A R E S
-W H I C H
-K N O W N
-L O W L Y
+S O U T H
+S C O U T
+S N O U T
 </pre>
 </details>
 
