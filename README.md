@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 288 5/6*
+Wordle 289 5/6*
 
-🟩⬛🟨🟨⬛ <br>
-🟩⬛🟨⬛🟨 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 288 5/6*
 
 <br> 
 
-Answer: `TROPE`
+Answer: `FEWER`
 <pre>
 T A R E S
-T H E I R
-T R U C E
-T R O V E
-T R O P E
+U N D E R
+R I V E R
+P O W E R
+F E W E R
 </pre>
 </details>
 
