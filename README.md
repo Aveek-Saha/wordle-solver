@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 290 4/6*
+Wordle 291 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 290 4/6*
 
 <br> 
 
-Answer: `SHAWL`
+Answer: `NATAL`
 <pre>
 T A R E S
-S M A L L
-S N A I L
-S H A W L
+M A T C H
+F A T A L
+N A T A L
 </pre>
 </details>
 
