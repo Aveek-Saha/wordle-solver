@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 291 4/6*
+Wordle 292 4/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 291 4/6*
 
 <br> 
 
-Answer: `NATAL`
+Answer: `COMMA`
 <pre>
 T A R E S
-M A T C H
-F A T A L
-N A T A L
+A L B U M
+W O M A N
+C O M M A
 </pre>
 </details>
 
