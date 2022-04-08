@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 292 4/6*
+Wordle 293 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛🟨 <br>
-⬛🟩🟩🟨⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 292 4/6*
 
 <br> 
 
-Answer: `COMMA`
+Answer: `FORAY`
 <pre>
 T A R E S
-A L B U M
-W O M A N
-C O M M A
+R U R A L
+M O R A Y
+F O R A Y
 </pre>
 </details>
 
