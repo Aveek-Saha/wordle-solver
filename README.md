@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 293 4/6*
+Wordle 294 4/6*
 
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 293 4/6*
 
 <br> 
 
-Answer: `FORAY`
+Answer: `SCARE`
 <pre>
 T A R E S
-R U R A L
-M O R A Y
-F O R A Y
+S H A R E
+S P A R E
+S C A R E
 </pre>
 </details>
 
