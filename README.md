@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 294 4/6*
+Wordle 295 3/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+🟨🟨🟨⬛🟨 <br>
+🟩🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 294 4/6*
 
 <br> 
 
-Answer: `SCARE`
+Answer: `STAIR`
 <pre>
 T A R E S
-S H A R E
-S P A R E
-S C A R E
+S T A R T
+S T A I R
 </pre>
 </details>
 
