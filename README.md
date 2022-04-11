@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 295 3/6*
+Wordle 296 3/6*
 
-🟨🟨🟨⬛🟨 <br>
-🟩🟩🟩🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 295 3/6*
 
 <br> 
 
-Answer: `STAIR`
+Answer: `BLACK`
 <pre>
 T A R E S
-S T A R T
-S T A I R
+A L B U M
+B L A C K
 </pre>
 </details>
 
