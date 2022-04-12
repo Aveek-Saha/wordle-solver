@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 296 3/6*
+Wordle 297 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩🟨⬛⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 296 3/6*
 
 <br> 
 
-Answer: `BLACK`
+Answer: `SQUAD`
 <pre>
 T A R E S
-A L B U M
-B L A C K
+S M A L L
+S Q U A D
 </pre>
 </details>
 
