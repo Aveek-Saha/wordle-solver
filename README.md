@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 298 3/6*
+Wordle 299 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟨🟨⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 298 3/6*
 
 <br> 
 
-Answer: `ROYAL`
+Answer: `CHUNK`
 <pre>
 T A R E S
-B O A R D
-R O Y A L
+W H I C H
+C H U N K
 </pre>
 </details>
 
