@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 299 3/6*
+Wordle 300 6/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛🟨⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟨⬛⬛🟩 <br>
+🟨🟩🟨⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 299 3/6*
 
 <br> 
 
-Answer: `CHUNK`
+Answer: `MINCE`
 <pre>
 T A R E S
-W H I C H
-C H U N K
+B E I N G
+I N D I E
+N I C H E
+W I N C E
+M I N C E
 </pre>
 </details>
 
