@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 300 6/6*
+Wordle 301 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟨🟨⬛⬛🟩 <br>
-🟨🟩🟨⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 300 6/6*
 
 <br> 
 
-Answer: `MINCE`
+Answer: `SHAME`
 <pre>
 T A R E S
-B E I N G
-I N D I E
-N I C H E
-W I N C E
-M I N C E
+S P A C E
+S N A K E
+S H A D E
+S H A M E
 </pre>
 </details>
 
