@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 301 5/6*
+Wordle 302 5/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 301 5/6*
 
 <br> 
 
-Answer: `SHAME`
+Answer: `CHEEK`
 <pre>
 T A R E S
-S P A C E
-S N A K E
-S H A D E
-S H A M E
+V I D E O
+Q U E E N
+W H E E L
+C H E E K
 </pre>
 </details>
 
