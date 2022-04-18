@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 302 5/6*
+Wordle 303 3/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩⬛ <br>
-⬛⬛🟩🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 302 5/6*
 
 <br> 
 
-Answer: `CHEEK`
+Answer: `AMPLE`
 <pre>
 T A R E S
-V I D E O
-Q U E E N
-W H E E L
-C H E E K
+E M A I L
+A M P L E
 </pre>
 </details>
 
