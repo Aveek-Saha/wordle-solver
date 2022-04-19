@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 303 3/6*
+Wordle 304 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨🟩🟨⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 303 3/6*
 
 <br> 
 
-Answer: `AMPLE`
+Answer: `FLAIR`
 <pre>
 T A R E S
-E M A I L
-A M P L E
+B O A R D
+F R A N K
+F L A I R
 </pre>
 </details>
 
