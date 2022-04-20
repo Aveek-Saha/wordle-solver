@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 304 4/6*
+Wordle 305 X/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-🟩🟨🟩⬛⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `FLAIR`
+Answer: `FOYER`
 <pre>
 T A R E S
-B O A R D
-F R A N K
-F L A I R
+U N D E R
+R I V E R
+P O W E R
+B O X E R
+H O M E R
 </pre>
 </details>
 
