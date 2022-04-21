@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 305 X/6*
+Wordle 306 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `FOYER`
+Answer: `CARGO`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-B O X E R
-H O M E R
+M A R C H
+C A R R Y
+C A R G O
 </pre>
 </details>
 
