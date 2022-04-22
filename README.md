@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 306 4/6*
+Wordle 307 5/6*
 
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+⬛🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 306 4/6*
 
 <br> 
 
-Answer: `CARGO`
+Answer: `OXIDE`
 <pre>
 T A R E S
-M A R C H
-C A R R Y
-C A R G O
+B E I N G
+W H I L E
+V O I C E
+O X I D E
 </pre>
 </details>
 
