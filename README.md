@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 307 5/6*
+Wordle 308 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩⬛🟩 <br>
-⬛🟨🟩⬛🟩 <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 307 5/6*
 
 <br> 
 
-Answer: `OXIDE`
+Answer: `PLANT`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-V O I C E
-O X I D E
+A B O U T
+P L A N T
 </pre>
 </details>
 
