@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 308 3/6*
+Wordle 309 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 308 3/6*
 
 <br> 
 
-Answer: `PLANT`
+Answer: `OLIVE`
 <pre>
 T A R E S
-A B O U T
-P L A N T
+B E I N G
+W H I L E
+O L I V E
 </pre>
 </details>
 
