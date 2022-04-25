@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 309 4/6*
+Wordle 310 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟨🟩 <br>
+🟨⬛🟨🟨⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+🟨🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 309 4/6*
 
 <br> 
 
-Answer: `OLIVE`
+Answer: `INERT`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-O L I V E
+R O U T E
+E N T R Y
+I N E R T
 </pre>
 </details>
 
