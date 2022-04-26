@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 310 4/6*
+Wordle 311 3/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟨⬛⬛🟨🟨 <br>
-🟨🟩🟨🟩⬛ <br>
+⬛🟨⬛🟩🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 310 4/6*
 
 <br> 
 
-Answer: `INERT`
+Answer: `ASKEW`
 <pre>
 T A R E S
-R O U T E
-E N T R Y
-I N E R T
+A S K E D
+A S K E W
 </pre>
 </details>
 
