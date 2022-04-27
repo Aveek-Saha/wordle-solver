@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 311 3/6*
+Wordle 312 5/6*
 
-⬛🟨⬛🟩🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+🟨🟨⬛⬛🟨 <br>
+⬛⬛🟨🟩🟩 <br>
+🟨⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 311 3/6*
 
 <br> 
 
-Answer: `ASKEW`
+Answer: `HEIST`
 <pre>
 T A R E S
-A S K E D
-A S K E W
+S T Y L E
+G U E S T
+E X I S T
+H E I S T
 </pre>
 </details>
 
