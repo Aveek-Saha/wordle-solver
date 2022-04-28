@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 312 5/6*
+Wordle 313 3/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟨🟨⬛⬛🟨 <br>
-⬛⬛🟨🟩🟩 <br>
-🟨⬛🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 312 5/6*
 
 <br> 
 
-Answer: `HEIST`
+Answer: `SHOWN`
 <pre>
 T A R E S
-S T Y L E
-G U E S T
-E X I S T
-H E I S T
+M U S I C
+S H O W N
 </pre>
 </details>
 
