@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 314 3/6*
+Wordle 315 4/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟨🟨🟨⬛🟨 <br>
+🟨🟩⬛⬛🟨 <br>
+🟨🟩⬛⬛🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 314 3/6*
 
 <br> 
 
-Answer: `ZESTY`
+Answer: `HASTY`
 <pre>
 T A R E S
-S T Y L E
-Z E S T Y
+S A I N T
+P A S T A
+H A S T Y
 </pre>
 </details>
 
