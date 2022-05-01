@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 315 4/6*
+Wordle 316 2/6*
 
-🟨🟩⬛⬛🟨 <br>
-🟨🟩⬛⬛🟨 <br>
-⬛🟩🟩🟩⬛ <br>
+🟩🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 315 4/6*
 
 <br> 
 
-Answer: `HASTY`
+Answer: `TRASH`
 <pre>
 T A R E S
-S A I N T
-P A S T A
-H A S T Y
+T R A S H
 </pre>
 </details>
 
