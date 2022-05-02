@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 316 2/6*
+Wordle 317 4/6*
 
-🟩🟨🟨⬛🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟨⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 316 2/6*
 
 <br> 
 
-Answer: `TRASH`
+Answer: `FELLA`
 <pre>
 T A R E S
-T R A S H
+E M A I L
+A P P L E
+F E L L A
 </pre>
 </details>
 
