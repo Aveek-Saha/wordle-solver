@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 318 5/6*
+Wordle 319 4/6*
 
+⬛⬛🟩⬛⬛ <br>
 ⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 318 5/6*
 
 <br> 
 
-Answer: `LARVA`
+Answer: `FORGO`
 <pre>
 T A R E S
-M A R C H
-B A R O N
-P A R R Y
-L A R V A
+W O R L D
+F O R U M
+F O R G O
 </pre>
 </details>
 
