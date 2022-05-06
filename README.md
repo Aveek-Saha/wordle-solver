@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 320 2/6*
+Wordle 321 4/6*
 
-🟨⬛🟨⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟨🟩⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 320 2/6*
 
 <br> 
 
-Answer: `STORY`
+Answer: `HAIRY`
 <pre>
 T A R E S
-S T O R Y
+M A J O R
+R A P I D
+H A I R Y
 </pre>
 </details>
 
