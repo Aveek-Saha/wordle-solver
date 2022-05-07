@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 321 4/6*
+Wordle 322 3/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩⬛🟨⬛ <br>
+🟩🟨🟨⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 321 4/6*
 
 <br> 
 
-Answer: `HAIRY`
+Answer: `TRAIN`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-H A I R Y
+T R A C K
+T R A I N
 </pre>
 </details>
 
