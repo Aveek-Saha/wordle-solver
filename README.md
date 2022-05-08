@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 322 3/6*
+Wordle 323 6/6*
 
-🟩🟨🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 322 3/6*
 
 <br> 
 
-Answer: `TRAIN`
+Answer: `HOMER`
 <pre>
 T A R E S
-T R A C K
-T R A I N
+U N D E R
+R I V E R
+P O W E R
+B O X E R
+H O M E R
 </pre>
 </details>
 
