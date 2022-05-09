@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 323 6/6*
+Wordle 324 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+🟨🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 323 6/6*
 
 <br> 
 
-Answer: `HOMER`
+Answer: `BADGE`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-B O X E R
-H O M E R
+V A L U E
+D A N C E
+B A D G E
 </pre>
 </details>
 
