@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 324 4/6*
+Wordle 325 4/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-🟨🟩⬛⬛🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 324 4/6*
 
 <br> 
 
-Answer: `BADGE`
+Answer: `MIDST`
 <pre>
 T A R E S
-V A L U E
-D A N C E
-B A D G E
+S O U T H
+V I S I T
+M I D S T
 </pre>
 </details>
 
