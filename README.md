@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 326 4/6*
+Wordle 327 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩🟩🟨🟩 <br>
+🟨⬛⬛🟨🟩 <br>
+⬛🟨🟨⬛🟩 <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 326 4/6*
 
 <br> 
 
-Answer: `CANNY`
+Answer: `FETUS`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-C A N N Y
+I T E M S
+C E N T S
+F E T U S
 </pre>
 </details>
 
