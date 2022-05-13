@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 327 4/6*
+Wordle 328 4/6*
 
-🟨⬛⬛🟨🟩 <br>
-⬛🟨🟨⬛🟩 <br>
-⬛🟩⬛🟨🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 327 4/6*
 
 <br> 
 
-Answer: `FETUS`
+Answer: `BUTCH`
 <pre>
 T A R E S
-I T E M S
-C E N T S
-F E T U S
+U N T I L
+D U T C H
+B U T C H
 </pre>
 </details>
 
