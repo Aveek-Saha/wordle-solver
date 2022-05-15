@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 329 4/6*
+Wordle 330 6/6*
 
-⬛🟩🟩🟨⬛ <br>
-🟨🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛🟩🟩⬛ <br>
+🟩⬛🟩🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 329 4/6*
 
 <br> 
 
-Answer: `FARCE`
+Answer: `SLUNG`
 <pre>
 T A R E S
-E A R L Y
-B A R G E
-F A R C E
+M U S I C
+S O U N D
+S K U N K
+S W U N G
+S L U N G
 </pre>
 </details>
 
