@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 330 6/6*
+Wordle 331 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛⬛ <br>
-🟩⬛🟩🟩⬛ <br>
-🟩⬛🟩🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+🟩⬛⬛⬛🟨 <br>
+🟩⬛🟨🟩⬛ <br>
+🟩⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 330 6/6*
 
 <br> 
 
-Answer: `SLUNG`
+Answer: `TIPSY`
 <pre>
 T A R E S
-M U S I C
-S O U N D
-S K U N K
-S W U N G
-S L U N G
+T W I S T
+T U L S I
+T I P S Y
 </pre>
 </details>
 
