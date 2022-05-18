@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 332 3/6*
+Wordle 333 4/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 332 3/6*
 
 <br> 
 
-Answer: `METAL`
+Answer: `YIELD`
 <pre>
 T A R E S
-D E A T H
-M E T A L
+B E I N G
+F I E L D
+Y I E L D
 </pre>
 </details>
 
