@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 333 4/6*
+Wordle 334 5/6*
 
 ⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 333 4/6*
 
 <br> 
 
-Answer: `YIELD`
+Answer: `DELVE`
 <pre>
 T A R E S
 B E I N G
-F I E L D
-Y I E L D
+K E L L Y
+W E L C H
+D E L V E
 </pre>
 </details>
 
