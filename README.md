@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 334 5/6*
+Wordle 335 2/6*
 
 ⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 334 5/6*
 
 <br> 
 
-Answer: `DELVE`
+Answer: `BEING`
 <pre>
 T A R E S
 B E I N G
-K E L L Y
-W E L C H
-D E L V E
 </pre>
 </details>
 
