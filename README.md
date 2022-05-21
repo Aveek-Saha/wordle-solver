@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 335 2/6*
+Wordle 336 3/6*
 
-⬛⬛⬛🟨⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 335 2/6*
 
 <br> 
 
-Answer: `BEING`
+Answer: `SCOUR`
 <pre>
 T A R E S
-B E I N G
+S W O R D
+S C O U R
 </pre>
 </details>
 
