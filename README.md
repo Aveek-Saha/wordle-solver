@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 336 3/6*
+Wordle 337 3/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
+⬛🟨⬛⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 336 3/6*
 
 <br> 
 
-Answer: `SCOUR`
+Answer: `GLASS`
 <pre>
 T A R E S
-S W O R D
-S C O U R
+C L A S S
+G L A S S
 </pre>
 </details>
 
