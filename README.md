@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 337 3/6*
+Wordle 338 X/6*
 
-⬛🟨⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟨🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `GLASS`
+Answer: `GAMER`
 <pre>
 T A R E S
-C L A S S
-G L A S S
+P A P E R
+L A Y E R
+B A K E R
+R A C E R
+E A G E R
 </pre>
 </details>
 
