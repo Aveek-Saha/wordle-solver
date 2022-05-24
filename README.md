@@ -4,28 +4,22 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 338 X/6*
+Wordle 339 3/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟨🟩🟩 <br>
+⬛🟨🟩⬛🟨 <br>
+🟩🟨🟩🟩⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `GAMER`
+Answer: `SCRAP`
 <pre>
 T A R E S
-P A P E R
-L A Y E R
-B A K E R
-R A C E R
-E A G E R
+S P R A Y
+S C R A P
 </pre>
 </details>
 
