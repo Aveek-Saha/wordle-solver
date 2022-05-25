@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 339 3/6*
+Wordle 340 4/6*
 
-⬛🟨🟩⬛🟨 <br>
-🟩🟨🟩🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟩🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 339 3/6*
 
 <br> 
 
-Answer: `SCRAP`
+Answer: `MONEY`
 <pre>
 T A R E S
-S P R A Y
-S C R A P
+V I D E O
+W O M E N
+M O N E Y
 </pre>
 </details>
 
