@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 340 4/6*
+Wordle 341 3/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟩🟨🟩🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 340 4/6*
 
 <br> 
 
-Answer: `MONEY`
+Answer: `HINGE`
 <pre>
 T A R E S
-V I D E O
-W O M E N
-M O N E Y
+B E I N G
+H I N G E
 </pre>
 </details>
 
