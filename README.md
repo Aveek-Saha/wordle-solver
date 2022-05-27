@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 341 3/6*
+Wordle 342 2/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨🟨🟨 <br>
+⬛🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 341 3/6*
 
 <br> 
 
-Answer: `HINGE`
+Answer: `ALBUM`
 <pre>
 T A R E S
-B E I N G
-H I N G E
+A L B U M
 </pre>
 </details>
 
