@@ -4,9 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 342 2/6*
+Wordle 343 6/6*
 
-⬛🟨⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟨⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +18,14 @@ Wordle 342 2/6*
 
 <br> 
 
-Answer: `ALBUM`
+Answer: `VOUCH`
 <pre>
 T A R E S
-A L B U M
+W H I C H
+L U N C H
+C O U C H
+P O U C H
+V O U C H
 </pre>
 </details>
 
