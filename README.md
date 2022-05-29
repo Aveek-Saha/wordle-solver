@@ -4,13 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 343 6/6*
+Wordle 344 2/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +14,10 @@ Wordle 343 6/6*
 
 <br> 
 
-Answer: `VOUCH`
+Answer: `ASSET`
 <pre>
 T A R E S
-W H I C H
-L U N C H
-C O U C H
-P O U C H
-V O U C H
+A S S E T
 </pre>
 </details>
 
