@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 344 2/6*
+Wordle 345 3/6*
 
-🟨🟨⬛🟩🟨 <br>
+🟩🟨🟨⬛⬛ <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 344 2/6*
 
 <br> 
 
-Answer: `ASSET`
+Answer: `TIARA`
 <pre>
 T A R E S
-A S S E T
+T R A C K
+T I A R A
 </pre>
 </details>
 
