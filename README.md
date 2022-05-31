@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 345 3/6*
+Wordle 346 4/6*
 
-🟩🟨🟨⬛⬛ <br>
-🟩🟨🟩⬛⬛ <br>
+🟨⬛🟨🟨⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+🟨⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 345 3/6*
 
 <br> 
 
-Answer: `TIARA`
+Answer: `CREPT`
 <pre>
 T A R E S
-T R A C K
-T I A R A
+R O U T E
+E N T R Y
+C R E P T
 </pre>
 </details>
 
