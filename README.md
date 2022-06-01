@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 346 4/6*
+Wordle 347 4/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟨⬛⬛🟨🟨 <br>
-🟨⬛🟨🟨⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 346 4/6*
 
 <br> 
 
-Answer: `CREPT`
+Answer: `BAYOU`
 <pre>
 T A R E S
-R O U T E
-E N T R Y
-C R E P T
+J A P A N
+Y A H O O
+B A Y O U
 </pre>
 </details>
 
