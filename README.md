@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 347 4/6*
+Wordle 348 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛🟩⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟩⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 347 4/6*
 
 <br> 
 
-Answer: `BAYOU`
+Answer: `ATOLL`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-B A Y O U
+A B O U T
+A T O L L
 </pre>
 </details>
 
