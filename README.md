@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 348 3/6*
+Wordle 349 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟩⬛🟩⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 348 3/6*
 
 <br> 
 
-Answer: `ATOLL`
+Answer: `MANOR`
 <pre>
 T A R E S
-A B O U T
-A T O L L
+M A J O R
+M A Y O R
+M A N O R
 </pre>
 </details>
 
