@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 349 4/6*
+Wordle 350 6/6*
 
-⬛🟩🟨⬛⬛ <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 349 4/6*
 
 <br> 
 
-Answer: `MANOR`
+Answer: `CREAK`
 <pre>
 T A R E S
-M A J O R
-M A Y O R
-M A N O R
+L E A R N
+B R E A K
+F R E A K
+W R E A K
+C R E A K
 </pre>
 </details>
 
