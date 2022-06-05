@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 350 6/6*
+Wordle 351 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 350 6/6*
 
 <br> 
 
-Answer: `CREAK`
+Answer: `SHOWY`
 <pre>
 T A R E S
-L E A R N
-B R E A K
-F R E A K
-W R E A K
-C R E A K
+M U S I C
+S H O W N
+S H O W Y
 </pre>
 </details>
 
