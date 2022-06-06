@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 351 4/6*
+Wordle 352 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨⬛🟨🟨 <br>
+🟨🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 351 4/6*
 
 <br> 
 
-Answer: `SHOWY`
+Answer: `PHASE`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S H O W Y
+S P A C E
+P H A S E
 </pre>
 </details>
 
