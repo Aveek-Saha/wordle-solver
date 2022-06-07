@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 352 3/6*
+Wordle 353 4/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟨🟨🟩⬛🟩 <br>
+🟨⬛🟨⬛⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 352 3/6*
 
 <br> 
 
-Answer: `PHASE`
+Answer: `FROTH`
 <pre>
 T A R E S
-S P A C E
-P H A S E
+R I G H T
+B R O T H
+F R O T H
 </pre>
 </details>
 
