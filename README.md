@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 353 4/6*
+Wordle 354 3/6*
 
-🟨⬛🟨⬛⬛ <br>
-🟨⬛⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 353 4/6*
 
 <br> 
 
-Answer: `FROTH`
+Answer: `DEPTH`
 <pre>
 T A R E S
-R I G H T
-B R O T H
-F R O T H
+W H I T E
+D E P T H
 </pre>
 </details>
 
