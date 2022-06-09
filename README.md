@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 354 3/6*
+Wordle 355 5/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛🟨⬛🟩🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 354 3/6*
 
 <br> 
 
-Answer: `DEPTH`
+Answer: `GLOOM`
 <pre>
 T A R E S
-W H I T E
-D E P T H
+W H I C H
+F O U N D
+B L O O M
+G L O O M
 </pre>
 </details>
 
