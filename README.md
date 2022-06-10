@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 355 5/6*
+Wordle 356 4/6*
 
 ⬛⬛⬛⬛⬛ <br>
 ⬛⬛⬛⬛⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+🟩🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 355 5/6*
 
 <br> 
 
-Answer: `GLOOM`
+Answer: `FLOOD`
 <pre>
 T A R E S
 W H I C H
 F O U N D
-B L O O M
-G L O O M
+F L O O D
 </pre>
 </details>
 
