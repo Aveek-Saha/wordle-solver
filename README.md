@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 357 5/6*
+Wordle 358 5/6*
 
-🟩🟨🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 357 5/6*
 
 <br> 
 
-Answer: `TRAIT`
+Answer: `GIRTH`
 <pre>
 T A R E S
-T R A C K
-T R A I N
-T R A I L
-T R A I T
+N O R T H
+B I R T H
+F I R T H
+G I R T H
 </pre>
 </details>
 
