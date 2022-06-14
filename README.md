@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 359 3/6*
+Wordle 360 5/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟨🟩🟨 <br>
+⬛🟩🟨🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 359 3/6*
 
 <br> 
 
-Answer: `PIETY`
+Answer: `PAYER`
 <pre>
 T A R E S
-W H I T E
-P I E T Y
+P A P E R
+P A G E R
+P A L E R
+P A Y E R
 </pre>
 </details>
 
