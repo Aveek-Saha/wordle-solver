@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 360 5/6*
+Wordle 361 5/6*
 
-⬛🟩🟨🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 360 5/6*
 
 <br> 
 
-Answer: `PAYER`
+Answer: `GOOSE`
 <pre>
 T A R E S
-P A P E R
-P A G E R
-P A L E R
-P A Y E R
+H O U S E
+N O I S E
+L O O S E
+G O O S E
 </pre>
 </details>
 
