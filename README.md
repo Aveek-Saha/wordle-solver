@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 361 5/6*
+Wordle 362 3/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 361 5/6*
 
 <br> 
 
-Answer: `GOOSE`
+Answer: `FLOAT`
 <pre>
 T A R E S
-H O U S E
-N O I S E
-L O O S E
-G O O S E
+A B O U T
+F L O A T
 </pre>
 </details>
 
