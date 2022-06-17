@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 362 3/6*
+Wordle 363 5/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟨⬛🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 362 3/6*
 
 <br> 
 
-Answer: `FLOAT`
+Answer: `DONOR`
 <pre>
 T A R E S
-A B O U T
-F L O A T
+G R O U P
+C O L O R
+H O N O R
+D O N O R
 </pre>
 </details>
 
