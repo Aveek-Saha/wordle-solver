@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 364 4/6*
+Wordle 365 4/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟩⬛🟨🟩🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟨⬛🟨 <br>
+🟩🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 364 4/6*
 
 <br> 
 
-Answer: `ATONE`
+Answer: `PRIMO`
 <pre>
 T A R E S
-D E A T H
-A G E N T
-A T O N E
+G R O U P
+P R I O R
+P R I M O
 </pre>
 </details>
 
