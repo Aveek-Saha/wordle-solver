@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 365 4/6*
+Wordle 366 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟨⬛🟨 <br>
-🟩🟩🟩🟨⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 365 4/6*
 
 <br> 
 
-Answer: `PRIMO`
+Answer: `APRON`
 <pre>
 T A R E S
-G R O U P
-P R I O R
-P R I M O
+R U R A L
+C I R C A
+A P R O N
 </pre>
 </details>
 
