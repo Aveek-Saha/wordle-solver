@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 366 4/6*
+Wordle 367 4/6*
 
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 366 4/6*
 
 <br> 
 
-Answer: `APRON`
+Answer: `BLOWN`
 <pre>
 T A R E S
-R U R A L
-C I R C A
-A P R O N
+W H I C H
+K N O W N
+B L O W N
 </pre>
 </details>
 
