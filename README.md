@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 367 4/6*
+Wordle 368 6/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 367 4/6*
 
 <br> 
 
-Answer: `BLOWN`
+Answer: `CACAO`
 <pre>
 T A R E S
-W H I C H
-K N O W N
-B L O W N
+J A P A N
+K A Y A K
+L A V A L
+M A D A M
+C A C A O
 </pre>
 </details>
 
