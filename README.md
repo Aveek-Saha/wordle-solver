@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 368 6/6*
+Wordle 369 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+🟨⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 368 6/6*
 
 <br> 
 
-Answer: `CACAO`
+Answer: `LOSER`
 <pre>
 T A R E S
-J A P A N
-K A Y A K
-L A V A L
-M A D A M
-C A C A O
+S U P E R
+L O S E R
 </pre>
 </details>
 
