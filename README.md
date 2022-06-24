@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 369 3/6*
+Wordle 370 3/6*
 
-⬛⬛🟨🟩🟨 <br>
-🟨⬛⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 369 3/6*
 
 <br> 
 
-Answer: `LOSER`
+Answer: `INPUT`
 <pre>
 T A R E S
-S U P E R
-L O S E R
+U N T I L
+I N P U T
 </pre>
 </details>
 
