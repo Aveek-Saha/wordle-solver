@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 372 3/6*
+Wordle 373 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛🟩⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 372 3/6*
 
 <br> 
 
-Answer: `AWFUL`
+Answer: `BRINK`
 <pre>
 T A R E S
-A L B U M
-A W F U L
+G R O U P
+D R I N K
+B R I N K
 </pre>
 </details>
 
