@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 373 4/6*
+Wordle 374 6/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟨⬛⬛🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 373 4/6*
 
 <br> 
 
-Answer: `BRINK`
+Answer: `SMITE`
 <pre>
 T A R E S
-G R O U P
-D R I N K
-B R I N K
+S T Y L E
+S U I T E
+S P I T E
+S H I T E
+S M I T E
 </pre>
 </details>
 
