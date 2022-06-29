@@ -4,13 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 374 6/6*
+Wordle 375 6/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟩🟨⬛⬛🟩 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +18,14 @@ Wordle 374 6/6*
 
 <br> 
 
-Answer: `SMITE`
+Answer: `BEADY`
 <pre>
 T A R E S
-S T Y L E
-S U I T E
-S P I T E
-S H I T E
-S M I T E
+E M A I L
+B E A C H
+B E A U X
+B E A N O
+B E A D Y
 </pre>
 </details>
 
