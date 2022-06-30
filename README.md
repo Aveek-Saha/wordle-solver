@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 375 6/6*
+Wordle 376 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟨🟨⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 375 6/6*
 
 <br> 
 
-Answer: `BEADY`
+Answer: `RUSTY`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-B E A U X
-B E A N O
-B E A D Y
+S T O R Y
+R U S T Y
 </pre>
 </details>
 
