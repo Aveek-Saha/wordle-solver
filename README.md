@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 376 3/6*
+Wordle 377 3/6*
 
-🟨⬛🟨⬛🟨 <br>
-🟨🟨⬛🟨🟩 <br>
+🟨⬛🟨🟨⬛ <br>
+🟩🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 376 3/6*
 
 <br> 
 
-Answer: `RUSTY`
+Answer: `RETRO`
 <pre>
 T A R E S
-S T O R Y
-R U S T Y
+R O U T E
+R E T R O
 </pre>
 </details>
 
