@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 377 3/6*
+Wordle 378 6/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟩🟨⬛🟨🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 377 3/6*
 
 <br> 
 
-Answer: `RETRO`
+Answer: `DROLL`
 <pre>
 T A R E S
-R O U T E
-R E T R O
+G R O U P
+B R O W N
+C R O O K
+D R O I D
+D R O L L
 </pre>
 </details>
 
