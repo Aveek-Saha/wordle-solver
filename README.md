@@ -4,13 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 378 6/6*
+Wordle 379 6/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +18,14 @@ Wordle 378 6/6*
 
 <br> 
 
-Answer: `DROLL`
+Answer: `GAWKY`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O O K
-D R O I D
-D R O L L
+J A P A N
+Y A H O O
+D A I L Y
+W A C K Y
+G A W K Y
 </pre>
 </details>
 
