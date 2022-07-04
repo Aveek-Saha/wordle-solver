@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 379 6/6*
+Wordle 380 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-🟨🟩⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 379 6/6*
 
 <br> 
 
-Answer: `GAWKY`
+Answer: `HUTCH`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-W A C K Y
-G A W K Y
+U N T I L
+D U T C H
+B U T C H
+H U T C H
 </pre>
 </details>
 
