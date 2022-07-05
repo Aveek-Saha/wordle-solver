@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 380 5/6*
+Wordle 381 4/6*
 
 🟨⬛⬛⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+🟩🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 380 5/6*
 
 <br> 
 
-Answer: `HUTCH`
+Answer: `PINTO`
 <pre>
 T A R E S
 U N T I L
-D U T C H
-B U T C H
-H U T C H
+P O I N T
+P I N T O
 </pre>
 </details>
 
