@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 381 4/6*
+Wordle 382 5/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟩🟨🟨🟨🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 381 4/6*
 
 <br> 
 
-Answer: `PINTO`
+Answer: `GAILY`
 <pre>
 T A R E S
-U N T I L
-P O I N T
-P I N T O
+J A P A N
+Y A H O O
+D A I L Y
+G A I L Y
 </pre>
 </details>
 
