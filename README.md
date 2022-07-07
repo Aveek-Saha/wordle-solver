@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 382 5/6*
+Wordle 383 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛🟩🟩⬛ <br>
+⬛🟨🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 382 5/6*
 
 <br> 
 
-Answer: `GAILY`
+Answer: `EGRET`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-G A I L Y
+B E R E T
+E G R E T
 </pre>
 </details>
 
