@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 383 3/6*
+Wordle 384 4/6*
 
-🟨⬛🟩🟩⬛ <br>
-⬛🟨🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟩⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 383 3/6*
 
 <br> 
 
-Answer: `EGRET`
+Answer: `LILAC`
 <pre>
 T A R E S
-B E R E T
-E G R E T
+A L B U M
+L O C A L
+L I L A C
 </pre>
 </details>
 
