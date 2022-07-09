@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 384 4/6*
+Wordle 385 6/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
-🟩⬛🟨🟩🟨 <br>
+⬛⬛🟨🟩🟨 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛🟨🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 384 4/6*
 
 <br> 
 
-Answer: `LILAC`
+Answer: `SEVER`
 <pre>
 T A R E S
-A L B U M
-L O C A L
-L I L A C
+S U P E R
+S K I E R
+S H E E R
+S E W E R
+S E V E R
 </pre>
 </details>
 
