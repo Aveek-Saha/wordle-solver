@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 385 6/6*
+Wordle 386 3/6*
 
-⬛⬛🟨🟩🟨 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛🟨🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 385 6/6*
 
 <br> 
 
-Answer: `SEVER`
+Answer: `FIELD`
 <pre>
 T A R E S
-S U P E R
-S K I E R
-S H E E R
-S E W E R
-S E V E R
+B E I N G
+F I E L D
 </pre>
 </details>
 
