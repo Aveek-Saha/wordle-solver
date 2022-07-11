@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 386 3/6*
+Wordle 387 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+🟩⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 386 3/6*
 
 <br> 
 
-Answer: `FIELD`
+Answer: `FLUFF`
 <pre>
 T A R E S
-B E I N G
-F I E L D
+W H I C H
+F O U N D
+F L U F F
 </pre>
 </details>
 
