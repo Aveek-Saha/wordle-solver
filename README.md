@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 387 4/6*
+Wordle 388 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-🟩⬛🟩⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 387 4/6*
 
 <br> 
 
-Answer: `FLUFF`
+Answer: `HYDRO`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-F L U F F
+G R O U P
+C O L O R
+H Y D R O
 </pre>
 </details>
 
