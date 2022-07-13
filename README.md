@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 388 4/6*
+Wordle 389 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟨⬛⬛🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 388 4/6*
 
 <br> 
 
-Answer: `HYDRO`
+Answer: `FLACK`
 <pre>
 T A R E S
-G R O U P
-C O L O R
-H Y D R O
+A L B U M
+P L A I N
+F L A V A
+F L A C K
 </pre>
 </details>
 
