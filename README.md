@@ -4,12 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 389 5/6*
+Wordle 390 6/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +18,14 @@ Wordle 389 5/6*
 
 <br> 
 
-Answer: `FLACK`
+Answer: `AGAPE`
 <pre>
 T A R E S
-A L B U M
-P L A I N
-F L A V A
-F L A C K
+E M A I L
+B E A C H
+Q U A K E
+A G A V E
+A G A P E
 </pre>
 </details>
 
