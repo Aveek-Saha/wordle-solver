@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 390 6/6*
+Wordle 391 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
 ⬛🟨🟩⬛⬛ <br>
 ⬛⬛🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 390 6/6*
 
 <br> 
 
-Answer: `AGAPE`
+Answer: `VOICE`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-Q U A K E
-A G A V E
-A G A P E
+B E I N G
+W H I L E
+V O I C E
 </pre>
 </details>
 
