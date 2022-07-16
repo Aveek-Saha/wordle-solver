@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 391 4/6*
+Wordle 392 6/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩⬛🟩 <br>
+🟨🟨⬛🟨🟨 <br>
+🟩🟩🟨⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 391 4/6*
 
 <br> 
 
-Answer: `VOICE`
+Answer: `STEAD`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-V O I C E
+S T A T E
+S T E A M
+S T E A L
+S T E A K
+S T E A D
 </pre>
 </details>
 
