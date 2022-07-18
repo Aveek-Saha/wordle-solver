@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 393 6/6*
+Wordle 394 3/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 393 6/6*
 
 <br> 
 
-Answer: `STALK`
+Answer: `BERTH`
 <pre>
 T A R E S
-S T A F F
-S T A N D
-S T A M P
-S T A C K
-S T A L K
+M E R I T
+B E R T H
 </pre>
 </details>
 
