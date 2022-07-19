@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 394 3/6*
+Wordle 395 5/6*
 
-🟨⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 394 3/6*
 
 <br> 
 
-Answer: `BERTH`
+Answer: `MADAM`
 <pre>
 T A R E S
-M E R I T
-B E R T H
+J A P A N
+K A Y A K
+L A V A L
+M A D A M
 </pre>
 </details>
 
