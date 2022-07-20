@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 395 5/6*
+Wordle 396 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛⬛🟨🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 395 5/6*
 
 <br> 
 
-Answer: `MADAM`
+Answer: `NIGHT`
 <pre>
 T A R E S
-J A P A N
-K A Y A K
-L A V A L
-M A D A M
+U N T I L
+P O I N T
+N I G H T
 </pre>
 </details>
 
