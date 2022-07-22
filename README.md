@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 397 4/6*
+Wordle 398 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 397 4/6*
 
 <br> 
 
-Answer: `BLAND`
+Answer: `LIVER`
 <pre>
 T A R E S
-A L B U M
-B L A C K
-B L A N D
+U N D E R
+R I V E R
+L I V E R
 </pre>
 </details>
 
