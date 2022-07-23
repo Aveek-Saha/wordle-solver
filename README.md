@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 398 4/6*
+Wordle 399 5/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟨🟩⬛⬛⬛ <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -16,12 +17,13 @@ Wordle 398 4/6*
 
 <br> 
 
-Answer: `LIVER`
+Answer: `WEDGE`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-L I V E R
+B E I N G
+G E C K O
+H E D G E
+W E D G E
 </pre>
 </details>
 
