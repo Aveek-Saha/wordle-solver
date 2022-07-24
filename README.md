@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 399 5/6*
+Wordle 400 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨⬛⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 399 5/6*
 
 <br> 
 
-Answer: `WEDGE`
+Answer: `AUGUR`
 <pre>
 T A R E S
-B E I N G
-G E C K O
-H E D G E
-W E D G E
+B O A R D
+R I V A L
+A U G U R
 </pre>
 </details>
 
