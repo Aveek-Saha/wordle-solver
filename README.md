@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 400 4/6*
+Wordle 401 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟨⬛⬛🟨⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 400 4/6*
 
 <br> 
 
-Answer: `AUGUR`
+Answer: `ROOMY`
 <pre>
 T A R E S
-B O A R D
-R I V A L
-A U G U R
+G R O U P
+F L O O R
+R O O M Y
 </pre>
 </details>
 
