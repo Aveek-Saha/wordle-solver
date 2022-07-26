@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 401 4/6*
+Wordle 402 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟨🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 401 4/6*
 
 <br> 
 
-Answer: `ROOMY`
+Answer: `WACKY`
 <pre>
 T A R E S
-G R O U P
-F L O O R
-R O O M Y
+J A P A N
+Y A H O O
+D A I L Y
+W A C K Y
 </pre>
 </details>
 
