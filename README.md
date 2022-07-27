@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 402 5/6*
+Wordle 403 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 402 5/6*
 
 <br> 
 
-Answer: `WACKY`
+Answer: `FLOCK`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-W A C K Y
+W H I C H
+B L O C K
+C L O C K
+F L O C K
 </pre>
 </details>
 
