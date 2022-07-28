@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 403 5/6*
+Wordle 404 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 403 5/6*
 
 <br> 
 
-Answer: `FLOCK`
+Answer: `ANGRY`
 <pre>
 T A R E S
-W H I C H
-B L O C K
-C L O C K
-F L O C K
+B O A R D
+A N G R Y
 </pre>
 </details>
 
