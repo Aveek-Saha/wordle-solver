@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 404 3/6*
+Wordle 405 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 404 3/6*
 
 <br> 
 
-Answer: `ANGRY`
+Answer: `BOBBY`
 <pre>
 T A R E S
-B O A R D
-A N G R Y
+W H I C H
+F O U N D
+B O B B Y
 </pre>
 </details>
 
