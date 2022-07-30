@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 405 4/6*
+Wordle 406 X/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+🟩⬛🟨🟨⬛ <br>
+🟩⬛🟨🟨🟨 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BOBBY`
+Answer: `TRITE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O B B Y
+T H E I R
+T R I B E
+T R I K E
+T R I C E
+T R I N E
 </pre>
 </details>
 
