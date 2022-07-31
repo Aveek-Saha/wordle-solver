@@ -4,28 +4,26 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 406 X/6*
+Wordle 407 5/6*
 
-🟩⬛🟨🟨⬛ <br>
-🟩⬛🟨🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `TRITE`
+Answer: `APHID`
 <pre>
 T A R E S
-T H E I R
-T R I B E
-T R I K E
-T R I C E
-T R I N E
+A L B U M
+A G A I N
+A V O I D
+A P H I D
 </pre>
 </details>
 
