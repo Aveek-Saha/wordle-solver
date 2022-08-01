@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 407 5/6*
+Wordle 408 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩🟩 <br>
+🟩⬛🟨⬛🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 407 5/6*
 
 <br> 
 
-Answer: `APHID`
+Answer: `TRYST`
 <pre>
 T A R E S
-A L B U M
-A G A I N
-A V O I D
-A P H I D
+T R U S T
+T R Y S T
 </pre>
 </details>
 
