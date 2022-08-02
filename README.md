@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 408 3/6*
+Wordle 409 4/6*
 
-🟩⬛🟨⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛🟨 <br>
+🟨🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 408 3/6*
 
 <br> 
 
-Answer: `TRYST`
+Answer: `MIDGE`
 <pre>
 T A R E S
-T R U S T
-T R Y S T
+B E I N G
+G I M M E
+M I D G E
 </pre>
 </details>
 
