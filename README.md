@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 409 4/6*
+Wordle 410 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛🟨 <br>
-🟨🟩🟨⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 409 4/6*
 
 <br> 
 
-Answer: `MIDGE`
+Answer: `POWER`
 <pre>
 T A R E S
-B E I N G
-G I M M E
-M I D G E
+U N D E R
+R I V E R
+P O W E R
 </pre>
 </details>
 
