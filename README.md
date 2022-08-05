@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 411 5/6*
+Wordle 412 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨🟩⬛⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 411 5/6*
 
 <br> 
 
-Answer: `ELOPE`
+Answer: `CINCH`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-P L U M E
-E L O P E
+W H I C H
+F I N C H
+P I N C H
+C I N C H
 </pre>
 </details>
 
