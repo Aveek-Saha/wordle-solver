@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 412 5/6*
+Wordle 413 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 412 5/6*
 
 <br> 
 
-Answer: `CINCH`
+Answer: `MOTTO`
 <pre>
 T A R E S
-W H I C H
-F I N C H
-P I N C H
-C I N C H
+U N T I L
+M O T T O
 </pre>
 </details>
 
