@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 413 3/6*
+Wordle 414 6/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨⬛🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 413 3/6*
 
 <br> 
 
-Answer: `MOTTO`
+Answer: `STOMP`
 <pre>
 T A R E S
-U N T I L
-M O T T O
+S O U T H
+S T O C K
+S T O O D
+S T O N Y
+S T O M P
 </pre>
 </details>
 
