@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 415 3/6*
+Wordle 416 4/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟨🟨⬛🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 415 3/6*
 
 <br> 
 
-Answer: `UPSET`
+Answer: `BLUFF`
 <pre>
 T A R E S
-S T E E L
-U P S E T
+W H I C H
+F O U N D
+B L U F F
 </pre>
 </details>
 
