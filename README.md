@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 416 4/6*
+Wordle 417 X/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BLUFF`
+Answer: `CRAMP`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B L U F F
+B O A R D
+F R A N K
+C R A Z Y
+C R A I G
+C R A W L
 </pre>
 </details>
 
