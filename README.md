@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 417 X/6*
+Wordle 418 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+🟨🟨🟨⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+⬛🟨🟩⬛🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `CRAMP`
+Answer: `QUART`
 <pre>
 T A R E S
-B O A R D
-F R A N K
-C R A Z Y
-C R A I G
-C R A W L
+A C T O R
+G R A N T
+Q U A R T
 </pre>
 </details>
 
