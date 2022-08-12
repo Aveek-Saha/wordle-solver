@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 418 4/6*
+Wordle 419 6/6*
 
-🟨🟨🟨⬛⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-⬛🟨🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟩⬛🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 418 4/6*
 
 <br> 
 
-Answer: `QUART`
+Answer: `COYLY`
 <pre>
 T A R E S
-A C T O R
-G R A N T
-Q U A R T
+W H I C H
+C O U L D
+C O L L Y
+C O O L Y
+C O Y L Y
 </pre>
 </details>
 
