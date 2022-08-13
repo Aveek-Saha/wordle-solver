@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 419 6/6*
+Wordle 420 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟨⬛ <br>
-🟩🟩⬛🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 419 6/6*
 
 <br> 
 
-Answer: `COYLY`
+Answer: `YOUTH`
 <pre>
 T A R E S
-W H I C H
-C O U L D
-C O L L Y
-C O O L Y
-C O Y L Y
+U N T I L
+Y O U T H
 </pre>
 </details>
 
