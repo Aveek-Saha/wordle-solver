@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 420 3/6*
+Wordle 421 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨⬛🟨⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛🟩⬛🟨🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 420 3/6*
 
 <br> 
 
-Answer: `YOUTH`
+Answer: `RHYME`
 <pre>
 T A R E S
-U N T I L
-Y O U T H
+W H E R E
+R H I N E
+R H Y M E
 </pre>
 </details>
 
