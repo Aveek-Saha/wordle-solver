@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 422 6/6*
+Wordle 423 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
+⬛🟨⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 422 6/6*
 
 <br> 
 
-Answer: `BUGGY`
+Answer: `ALIEN`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P U P P Y
-M U M M Y
-B U G G Y
+A D D E D
+A N G E L
+A L I E N
 </pre>
 </details>
 
