@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 423 4/6*
+Wordle 424 5/6*
 
-⬛🟨⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩🟨⬛🟩🟨 <br>
+⬛🟨🟨🟨🟨 <br>
+🟩⬛🟨🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 423 4/6*
 
 <br> 
 
-Answer: `ALIEN`
+Answer: `SMEAR`
 <pre>
 T A R E S
-A D D E D
-A N G E L
-A L I E N
+S H A R E
+S P E A R
+S W E A R
+S M E A R
 </pre>
 </details>
 
