@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 424 5/6*
+Wordle 425 3/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟩⬛🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟩🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 424 5/6*
 
 <br> 
 
-Answer: `SMEAR`
+Answer: `UNFIT`
 <pre>
 T A R E S
-S H A R E
-S P E A R
-S W E A R
-S M E A R
+U N T I L
+U N F I T
 </pre>
 </details>
 
