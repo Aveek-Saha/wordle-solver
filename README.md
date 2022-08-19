@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 425 3/6*
+Wordle 426 5/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟩🟩🟨🟩⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 425 3/6*
 
 <br> 
 
-Answer: `UNFIT`
+Answer: `PATTY`
 <pre>
 T A R E S
-U N T I L
-U N F I T
+M A T C H
+F A T A L
+P A T I O
+P A T T Y
 </pre>
 </details>
 
