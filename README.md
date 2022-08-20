@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 426 5/6*
+Wordle 427 5/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +17,13 @@ Wordle 426 5/6*
 
 <br> 
 
-Answer: `PATTY`
+Answer: `CLING`
 <pre>
 T A R E S
-M A T C H
-F A T A L
-P A T I O
-P A T T Y
+W H I C H
+C L I F F
+C L I M B
+C L I N G
 </pre>
 </details>
 
