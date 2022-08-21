@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 427 5/6*
+Wordle 428 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 427 5/6*
 
 <br> 
 
-Answer: `CLING`
+Answer: `GLEAN`
 <pre>
 T A R E S
-W H I C H
-C L I F F
-C L I M B
-C L I N G
+E M A I L
+A P P L E
+C L E A N
+G L E A N
 </pre>
 </details>
 
