@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 428 5/6*
+Wordle 429 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 428 5/6*
 
 <br> 
 
-Answer: `GLEAN`
+Answer: `LABEL`
 <pre>
 T A R E S
-E M A I L
-A P P L E
-C L E A N
-G L E A N
+N A M E D
+L A B E L
 </pre>
 </details>
 
