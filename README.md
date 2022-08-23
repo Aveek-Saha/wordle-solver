@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 429 3/6*
+Wordle 430 5/6*
 
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 429 3/6*
 
 <br> 
 
-Answer: `LABEL`
+Answer: `HUNKY`
 <pre>
 T A R E S
-N A M E D
-L A B E L
+W H I C H
+H O L L Y
+H U B B Y
+H U N K Y
 </pre>
 </details>
 
