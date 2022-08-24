@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 430 5/6*
+Wordle 431 4/6*
 
-⬛⬛⬛⬛⬛ <br>
 ⬛🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 430 5/6*
 
 <br> 
 
-Answer: `HUNKY`
+Answer: `KHAKI`
 <pre>
 T A R E S
-W H I C H
-H O L L Y
-H U B B Y
-H U N K Y
+A L B U M
+I N D I A
+K H A K I
 </pre>
 </details>
 
