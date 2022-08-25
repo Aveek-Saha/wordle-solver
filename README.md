@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 431 4/6*
+Wordle 432 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-🟨⬛⬛⬛🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 431 4/6*
 
 <br> 
 
-Answer: `KHAKI`
+Answer: `POKER`
 <pre>
 T A R E S
-A L B U M
-I N D I A
-K H A K I
+U N D E R
+R I V E R
+P O W E R
+P O K E R
 </pre>
 </details>
 
