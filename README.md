@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 432 5/6*
+Wordle 433 4/6*
 
 ⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛⬛🟩🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 432 5/6*
 
 <br> 
 
-Answer: `POKER`
+Answer: `GRUEL`
 <pre>
 T A R E S
 U N D E R
-R I V E R
-P O W E R
-P O K E R
+C R U E L
+G R U E L
 </pre>
 </details>
 
