@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 433 4/6*
+Wordle 434 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟨⬛⬛🟩🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 433 4/6*
 
 <br> 
 
-Answer: `GRUEL`
+Answer: `TWICE`
 <pre>
 T A R E S
-U N D E R
-C R U E L
-G R U E L
+T I T L E
+T W I C E
 </pre>
 </details>
 
