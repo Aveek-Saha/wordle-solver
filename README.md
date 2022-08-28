@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 434 3/6*
+Wordle 435 4/6*
 
+🟩🟨⬛⬛⬛ <br>
 🟩⬛⬛🟨⬛ <br>
-🟩🟨⬛⬛🟩 <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 434 3/6*
 
 <br> 
 
-Answer: `TWICE`
+Answer: `TWANG`
 <pre>
 T A R E S
-T I T L E
-T W I C E
+T O T A L
+T H A N K
+T W A N G
 </pre>
 </details>
 
