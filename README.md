@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 436 4/6*
+Wordle 437 3/6*
 
-⬛⬛🟩⬛🟨 <br>
-🟩⬛🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+🟩🟨🟨🟨⬛ <br>
+🟩🟩🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 436 4/6*
 
 <br> 
 
-Answer: `SHRUG`
+Answer: `TREAT`
 <pre>
 T A R E S
-S O R R Y
-S H R U B
-S H R U G
+T R A D E
+T R E A T
 </pre>
 </details>
 
