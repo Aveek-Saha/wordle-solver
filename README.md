@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 438 3/6*
+Wordle 439 2/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟩🟩🟨🟩🟨 <br>
+🟨🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 438 3/6*
 
 <br> 
 
-Answer: `UNLIT`
+Answer: `WASTE`
 <pre>
 T A R E S
-U N T I L
-U N L I T
+W A S T E
 </pre>
 </details>
 
