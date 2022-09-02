@@ -4,9 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 439 2/6*
+Wordle 440 2/6*
 
-🟨🟩⬛🟨🟨 <br>
+🟨⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +14,10 @@ Wordle 439 2/6*
 
 <br> 
 
-Answer: `WASTE`
+Answer: `MERIT`
 <pre>
 T A R E S
-W A S T E
+M E R I T
 </pre>
 </details>
 
