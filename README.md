@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 440 2/6*
+Wordle 441 4/6*
 
-🟨⬛🟩🟨⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+🟨⬛⬛🟩🟨 <br>
+🟨🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 440 2/6*
 
 <br> 
 
-Answer: `MERIT`
+Answer: `WOVEN`
 <pre>
 T A R E S
-M E R I T
+V I D E O
+N O V E L
+W O V E N
 </pre>
 </details>
 
