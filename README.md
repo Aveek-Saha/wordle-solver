@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 441 4/6*
+Wordle 442 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟨⬛⬛🟩🟨 <br>
-🟨🟩🟩🟩⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+⬛🟨🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 441 4/6*
 
 <br> 
 
-Answer: `WOVEN`
+Answer: `OCTAL`
 <pre>
 T A R E S
-V I D E O
-N O V E L
-W O V E N
+A B O U T
+G O T T A
+O C T A L
 </pre>
 </details>
 
