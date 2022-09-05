@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 442 4/6*
+Wordle 443 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-⬛🟨🟩⬛🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩⬛🟨⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 442 4/6*
 
 <br> 
 
-Answer: `OCTAL`
+Answer: `NEEDY`
 <pre>
 T A R E S
-A B O U T
-G O T T A
-O C T A L
+B E I N G
+N E W L Y
+N E E D Y
 </pre>
 </details>
 
