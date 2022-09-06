@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 443 4/6*
+Wordle 444 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 443 4/6*
 
 <br> 
 
-Answer: `NEEDY`
+Answer: `CLOWN`
 <pre>
 T A R E S
-B E I N G
-N E W L Y
-N E E D Y
+W H I C H
+C L O W N
 </pre>
 </details>
 
