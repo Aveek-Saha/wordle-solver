@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 447 3/6*
+Wordle 448 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟨⬛🟩🟩🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩⬛🟨🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 447 3/6*
 
 <br> 
 
-Answer: `RUDER`
+Answer: `GAUZE`
 <pre>
 T A R E S
-U N D E R
-R U D E R
+V A L U E
+G A U G E
+G A U Z E
 </pre>
 </details>
 
