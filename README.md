@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 448 4/6*
+Wordle 449 3/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛🟨🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 448 4/6*
 
 <br> 
 
-Answer: `GAUZE`
+Answer: `CHIEF`
 <pre>
 T A R E S
-V A L U E
-G A U G E
-G A U Z E
+V I D E O
+C H I E F
 </pre>
 </details>
 
