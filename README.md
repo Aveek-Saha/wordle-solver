@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 449 3/6*
+Wordle 450 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛🟨⬛🟩⬛ <br>
+🟨⬛⬛🟩🟨 <br>
+🟨🟨⬛🟩⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 449 3/6*
 
 <br> 
 
-Answer: `CHIEF`
+Answer: `ONSET`
 <pre>
 T A R E S
-V I D E O
-C H I E F
+S T E E L
+U P S E T
+O N S E T
 </pre>
 </details>
 
