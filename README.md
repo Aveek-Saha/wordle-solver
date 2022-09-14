@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 451 5/6*
+Wordle 452 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛⬛🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 451 5/6*
 
 <br> 
 
-Answer: `PRIZE`
+Answer: `FUNGI`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-P R I M E
-P R I Z E
+W H I C H
+L O G I N
+F U N G I
 </pre>
 </details>
 
