@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 454 X/6*
+Wordle 455 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟨⬛🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟨⬛🟩🟩 <br>
+⬛⬛🟩🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `GULLY`
+Answer: `INTER`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P U P P Y
-M U M M Y
-B U G G Y
+O T H E R
+P E T E R
+I N T E R
 </pre>
 </details>
 
