@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 456 3/6*
+Wordle 457 3/6*
 
-⬛⬛⬛⬛⬛ <br>
 🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 456 3/6*
 
 <br> 
 
-Answer: `WHOOP`
+Answer: `TAUNT`
 <pre>
 T A R E S
-W H I C H
-W H O O P
+T A L U K
+T A U N T
 </pre>
 </details>
 
