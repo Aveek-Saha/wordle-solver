@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 457 3/6*
+Wordle 458 5/6*
 
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛🟨⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟩🟩🟨 <br>
+🟨⬛🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 457 3/6*
 
 <br> 
 
-Answer: `TAUNT`
+Answer: `LEERY`
 <pre>
 T A R E S
-T A L U K
-T A U N T
+W H E R E
+E V E R Y
+B E E R Y
+L E E R Y
 </pre>
 </details>
 
