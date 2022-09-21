@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 458 5/6*
+Wordle 459 2/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛🟩🟩🟨 <br>
-🟨⬛🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 458 5/6*
 
 <br> 
 
-Answer: `LEERY`
+Answer: `CLASS`
 <pre>
 T A R E S
-W H E R E
-E V E R Y
-B E E R Y
-L E E R Y
+C L A S S
 </pre>
 </details>
 
