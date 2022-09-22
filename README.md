@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 459 2/6*
+Wordle 460 3/6*
 
-⬛🟨⬛⬛🟩 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩⬛⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 459 2/6*
 
 <br> 
 
-Answer: `CLASS`
+Answer: `THEME`
 <pre>
 T A R E S
-C L A S S
+T I T L E
+T H E M E
 </pre>
 </details>
 
