@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 460 3/6*
+Wordle 461 4/6*
 
-🟩⬛⬛🟨⬛ <br>
-🟩⬛⬛⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+⬛🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 460 3/6*
 
 <br> 
 
-Answer: `THEME`
+Answer: `LOFTY`
 <pre>
 T A R E S
-T I T L E
-T H E M E
+U N T I L
+C L O T H
+L O F T Y
 </pre>
 </details>
 
