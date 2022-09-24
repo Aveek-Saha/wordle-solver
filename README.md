@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 461 4/6*
+Wordle 462 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛🟨 <br>
-⬛🟨🟨🟩⬛ <br>
+🟩🟨⬛⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 461 4/6*
 
 <br> 
 
-Answer: `LOFTY`
+Answer: `TIBIA`
 <pre>
 T A R E S
-U N T I L
-C L O T H
-L O F T Y
+T O T A L
+T H A N K
+T I B I A
 </pre>
 </details>
 
