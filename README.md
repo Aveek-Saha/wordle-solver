@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 463 3/6*
+Wordle 464 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟨⬛⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 463 3/6*
 
 <br> 
 
-Answer: `BOOZE`
+Answer: `ALPHA`
 <pre>
 T A R E S
-B E I N G
-B O O Z E
+A L B U M
+A L O N G
+A L P H A
 </pre>
 </details>
 
