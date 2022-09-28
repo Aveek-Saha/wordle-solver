@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 465 4/6*
+Wordle 466 5/6*
 
-🟩⬛⬛🟨⬛ <br>
-🟩⬛⬛⬛🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨🟨⬛🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨⬛🟨⬛🟩 <br>
+🟩⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 465 4/6*
 
 <br> 
 
-Answer: `THYME`
+Answer: `ECLAT`
 <pre>
 T A R E S
-T I T L E
-T H E M E
-T H Y M E
+D E A T H
+A G E N T
+E X P A T
+E C L A T
 </pre>
 </details>
 
