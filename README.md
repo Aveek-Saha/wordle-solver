@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 466 5/6*
+Wordle 467 4/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟨⬛🟨⬛🟩 <br>
-🟩⬛⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟨⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 466 5/6*
 
 <br> 
 
-Answer: `ECLAT`
+Answer: `DOUBT`
 <pre>
 T A R E S
-D E A T H
-A G E N T
-E X P A T
-E C L A T
+U N T I L
+Y O U T H
+D O U B T
 </pre>
 </details>
 
