@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 467 4/6*
+Wordle 468 X/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨⬛🟨⬛⬛ <br>
-⬛🟩🟩🟨⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `DOUBT`
+Answer: `PARER`
 <pre>
 T A R E S
-U N T I L
-Y O U T H
-D O U B T
+C A R E D
+W A R E Z
+H A R E M
+R A R E R
+B A R E R
 </pre>
 </details>
 
