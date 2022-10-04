@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 471 5/6*
+Wordle 472 4/6*
 
-🟩⬛🟨🟨⬛ <br>
-🟩⬛🟨🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨🟨🟨 <br>
 🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +16,12 @@ Wordle 471 5/6*
 
 <br> 
 
-Answer: `TRICE`
+Answer: `ALIKE`
 <pre>
 T A R E S
-T H E I R
-T R I B E
-T R I K E
-T R I C E
+E M A I L
+A L I V E
+A L I K E
 </pre>
 </details>
 
