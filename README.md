@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 473 3/6*
+Wordle 474 4/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨🟨⬛ <br>
+🟨🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 473 3/6*
 
 <br> 
 
-Answer: `SOOTH`
+Answer: `RECAP`
 <pre>
 T A R E S
-S O U T H
-S O O T H
+L E A R N
+C E D A R
+R E C A P
 </pre>
 </details>
 
