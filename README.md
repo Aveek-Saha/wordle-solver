@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 474 4/6*
+Wordle 475 2/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
-🟨🟩⬛🟩🟨 <br>
+🟨🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 474 4/6*
 
 <br> 
 
-Answer: `RECAP`
+Answer: `SAINT`
 <pre>
 T A R E S
-L E A R N
-C E D A R
-R E C A P
+S A I N T
 </pre>
 </details>
 
