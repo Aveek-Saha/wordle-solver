@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 475 2/6*
+Wordle 476 4/6*
 
-🟨🟩⬛⬛🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛🟨 <br>
+🟨🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 475 2/6*
 
 <br> 
 
-Answer: `SAINT`
+Answer: `LIEGE`
 <pre>
 T A R E S
-S A I N T
+B E I N G
+G I M M E
+L I E G E
 </pre>
 </details>
 
