@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 476 4/6*
+Wordle 477 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛🟨 <br>
-🟨🟩⬛⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 476 4/6*
 
 <br> 
 
-Answer: `LIEGE`
+Answer: `GLORY`
 <pre>
 T A R E S
-B E I N G
-G I M M E
-L I E G E
+G R O U P
+G L O R Y
 </pre>
 </details>
 
