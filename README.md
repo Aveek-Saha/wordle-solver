@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 477 3/6*
+Wordle 478 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟩🟨🟩⬛⬛ <br>
+🟨🟨🟨🟨⬛ <br>
+🟩🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 477 3/6*
 
 <br> 
 
-Answer: `GLORY`
+Answer: `GRATE`
 <pre>
 T A R E S
-G R O U P
-G L O R Y
+G R E A T
+G R A T E
 </pre>
 </details>
 
