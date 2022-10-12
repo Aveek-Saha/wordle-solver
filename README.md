@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 479 3/6*
+Wordle 480 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛🟩 <br>
+⬛⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 479 3/6*
 
 <br> 
 
-Answer: `ADMIT`
+Answer: `BRISK`
 <pre>
 T A R E S
-A B O U T
-A D M I T
+S W O R D
+B R U S H
+B R I S K
 </pre>
 </details>
 
