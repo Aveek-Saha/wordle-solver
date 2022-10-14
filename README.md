@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 481 5/6*
+Wordle 482 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩⬛🟨⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟨⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 481 5/6*
 
 <br> 
 
-Answer: `SOGGY`
+Answer: `USURP`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S O K O L
-S O G G Y
+S W O R D
+U S U R P
 </pre>
 </details>
 
