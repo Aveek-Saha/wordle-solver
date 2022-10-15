@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 482 3/6*
+Wordle 483 6/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟨⬛⬛🟩⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 482 3/6*
 
 <br> 
 
-Answer: `USURP`
+Answer: `SCALD`
 <pre>
 T A R E S
-S W O R D
-U S U R P
+S M A L L
+S C A L A
+S C A L P
+S C A L Y
+S C A L D
 </pre>
 </details>
 
