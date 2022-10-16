@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 483 6/6*
+Wordle 484 3/6*
 
-⬛🟨⬛⬛🟨 <br>
+⬛⬛🟨⬛🟨 <br>
 🟩⬛🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 483 6/6*
 
 <br> 
 
-Answer: `SCALD`
+Answer: `SCORN`
 <pre>
 T A R E S
-S M A L L
-S C A L A
-S C A L P
-S C A L Y
-S C A L D
+S W O R D
+S C O R N
 </pre>
 </details>
 
