@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 484 3/6*
+Wordle 485 4/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟩⬛🟩🟩⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛🟨 <br>
+⬛🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 484 3/6*
 
 <br> 
 
-Answer: `SCORN`
+Answer: `LEAVE`
 <pre>
 T A R E S
-S W O R D
-S C O R N
+E M A I L
+P L A C E
+L E A V E
 </pre>
 </details>
 
