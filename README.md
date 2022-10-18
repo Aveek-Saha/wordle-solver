@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 485 4/6*
+Wordle 486 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
-⬛🟨🟩⬛🟩 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟨⬛⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 485 4/6*
 
 <br> 
 
-Answer: `LEAVE`
+Answer: `TWINE`
 <pre>
 T A R E S
-E M A I L
-P L A C E
-L E A V E
+T I T L E
+T W I C E
+T W I N E
 </pre>
 </details>
 
