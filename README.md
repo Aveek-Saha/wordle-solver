@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 486 4/6*
+Wordle 487 6/6*
 
+🟨⬛⬛⬛🟨 <br>
 🟩⬛⬛🟨⬛ <br>
-🟩🟨⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 486 4/6*
 
 <br> 
 
-Answer: `TWINE`
+Answer: `STING`
 <pre>
 T A R E S
-T I T L E
-T W I C E
-T W I N E
+S O U T H
+S T I L L
+S T I C K
+S T I N T
+S T I N G
 </pre>
 </details>
 
