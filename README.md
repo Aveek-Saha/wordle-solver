@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 487 6/6*
+Wordle 488 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 487 6/6*
 
 <br> 
 
-Answer: `STING`
+Answer: `BOUGH`
 <pre>
 T A R E S
-S O U T H
-S T I L L
-S T I C K
-S T I N T
-S T I N G
+W H I C H
+D O U G H
+L O U G H
+B O U G H
 </pre>
 </details>
 
