@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 488 5/6*
+Wordle 489 2/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 488 5/6*
 
 <br> 
 
-Answer: `BOUGH`
+Answer: `MARSH`
 <pre>
 T A R E S
-W H I C H
-D O U G H
-L O U G H
-B O U G H
+M A R S H
 </pre>
 </details>
 
