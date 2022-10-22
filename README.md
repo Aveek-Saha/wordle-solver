@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 489 2/6*
+Wordle 490 3/6*
 
-⬛🟩🟩⬛🟨 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 489 2/6*
 
 <br> 
 
-Answer: `MARSH`
+Answer: `SLOTH`
 <pre>
 T A R E S
-M A R S H
+S O U T H
+S L O T H
 </pre>
 </details>
 
