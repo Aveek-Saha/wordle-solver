@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 490 3/6*
+Wordle 491 6/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩🟨⬛🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 490 3/6*
 
 <br> 
 
-Answer: `SLOTH`
+Answer: `DANDY`
 <pre>
 T A R E S
-S O U T H
-S L O T H
+J A P A N
+N A N C Y
+H A N D Y
+B A N D Y
+D A N D Y
 </pre>
 </details>
 
