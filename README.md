@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 491 6/6*
+Wordle 492 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+🟨🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 491 6/6*
 
 <br> 
 
-Answer: `DANDY`
+Answer: `VIGOR`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-H A N D Y
-B A N D Y
-D A N D Y
+G R O U P
+V I G O R
 </pre>
 </details>
 
