@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 492 3/6*
+Wordle 493 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 492 3/6*
 
 <br> 
 
-Answer: `VIGOR`
+Answer: `HOWDY`
 <pre>
 T A R E S
-G R O U P
-V I G O R
+W H I C H
+H O W D Y
 </pre>
 </details>
 
