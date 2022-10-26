@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 493 3/6*
+Wordle 494 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 493 3/6*
 
 <br> 
 
-Answer: `HOWDY`
+Answer: `ENJOY`
 <pre>
 T A R E S
-W H I C H
-H O W D Y
+B E I N G
+E N J O Y
 </pre>
 </details>
 
