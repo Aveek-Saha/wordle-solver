@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 495 4/6*
+Wordle 496 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 495 4/6*
 
 <br> 
 
-Answer: `VALID`
+Answer: `IONIC`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-V A L I D
+W H I C H
+C I V I L
+I O N I C
 </pre>
 </details>
 
