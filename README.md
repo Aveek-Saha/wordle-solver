@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 497 3/6*
+Wordle 498 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟩⬛🟨⬛🟩 <br>
+🟨⬛⬛🟩🟨 <br>
+🟨🟨⬛🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 497 3/6*
 
 <br> 
 
-Answer: `EQUAL`
+Answer: `UNSET`
 <pre>
 T A R E S
-E M A I L
-E Q U A L
+S T E E L
+U P S E T
+U N S E T
 </pre>
 </details>
 
