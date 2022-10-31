@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 498 4/6*
+Wordle 499 3/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟨🟨⬛🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 498 4/6*
 
 <br> 
 
-Answer: `UNSET`
+Answer: `FLOOR`
 <pre>
 T A R E S
-S T E E L
-U P S E T
-U N S E T
+G R O U P
+F L O O R
 </pre>
 </details>
 
