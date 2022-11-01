@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 499 3/6*
+Wordle 500 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 499 3/6*
 
 <br> 
 
-Answer: `FLOOR`
+Answer: `CATCH`
 <pre>
 T A R E S
-G R O U P
-F L O O R
+M A T C H
+W A T C H
+P A T C H
+C A T C H
 </pre>
 </details>
 
