@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 500 5/6*
+Wordle 501 3/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 500 5/6*
 
 <br> 
 
-Answer: `CATCH`
+Answer: `SPADE`
 <pre>
 T A R E S
-M A T C H
-W A T C H
-P A T C H
-C A T C H
+S P A C E
+S P A D E
 </pre>
 </details>
 
