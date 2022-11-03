@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 501 3/6*
+Wordle 502 3/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 501 3/6*
 
 <br> 
 
-Answer: `SPADE`
+Answer: `STEIN`
 <pre>
 T A R E S
-S P A C E
-S P A D E
+S T Y L E
+S T E I N
 </pre>
 </details>
 
