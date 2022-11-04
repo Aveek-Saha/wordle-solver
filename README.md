@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 502 3/6*
+Wordle 503 4/6*
 
 🟨⬛⬛🟨🟨 <br>
-🟩🟩⬛⬛🟨 <br>
+🟨🟨⬛⬛🟨 <br>
+⬛⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 502 3/6*
 
 <br> 
 
-Answer: `STEIN`
+Answer: `EXIST`
 <pre>
 T A R E S
 S T Y L E
-S T E I N
+G U E S T
+E X I S T
 </pre>
 </details>
 
