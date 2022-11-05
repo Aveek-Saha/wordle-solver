@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 503 4/6*
+Wordle 504 4/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟨🟨⬛⬛🟨 <br>
-⬛⬛🟨🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 503 4/6*
 
 <br> 
 
-Answer: `EXIST`
+Answer: `QUIRK`
 <pre>
 T A R E S
-S T Y L E
-G U E S T
-E X I S T
+G R O U P
+R U B I N
+Q U I R K
 </pre>
 </details>
 
