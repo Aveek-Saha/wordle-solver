@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 504 4/6*
+Wordle 505 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨⬛🟨⬛ <br>
-🟨🟩⬛🟨⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 504 4/6*
 
 <br> 
 
-Answer: `QUIRK`
+Answer: `DENIM`
 <pre>
 T A R E S
-G R O U P
-R U B I N
-Q U I R K
+B E I N G
+D E N I M
 </pre>
 </details>
 
