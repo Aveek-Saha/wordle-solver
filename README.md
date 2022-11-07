@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 505 3/6*
+Wordle 506 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟩 <br>
+⬛🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 505 3/6*
 
 <br> 
 
-Answer: `DENIM`
+Answer: `GROVE`
 <pre>
 T A R E S
-B E I N G
-D E N I M
+W H E R E
+P R I C E
+G R O V E
 </pre>
 </details>
 
