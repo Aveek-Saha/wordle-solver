@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 506 4/6*
+Wordle 507 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-⬛🟩⬛⬛🟩 <br>
+⬛⬛⬛🟩🟨 <br>
+🟩⬛⬛🟩⬛ <br>
+🟩🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 506 4/6*
 
 <br> 
 
-Answer: `GROVE`
+Answer: `SPIEL`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-G R O V E
+S E V E N
+S I Z E D
+S P I E L
 </pre>
 </details>
 
