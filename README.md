@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 508 5/6*
+Wordle 509 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
 ⬛🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +16,12 @@ Wordle 508 5/6*
 
 <br> 
 
-Answer: `MUMMY`
+Answer: `FAULT`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P U P P Y
-M U M M Y
+M A T C H
+P A I N T
+F A U L T
 </pre>
 </details>
 
