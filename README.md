@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 510 5/6*
+Wordle 511 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+⬛🟩🟨🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 510 5/6*
 
 <br> 
 
-Answer: `FOGGY`
+Answer: `FLOUT`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-F O L L Y
-F O G G Y
+U N T I L
+P L U T O
+C L O U T
+F L O U T
 </pre>
 </details>
 
