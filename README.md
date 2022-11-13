@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 511 5/6*
+Wordle 512 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-⬛🟩🟨🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 511 5/6*
 
 <br> 
 
-Answer: `FLOUT`
+Answer: `CARRY`
 <pre>
 T A R E S
-U N T I L
-P L U T O
-C L O U T
-F L O U T
+M A R C H
+C A R R Y
 </pre>
 </details>
 
