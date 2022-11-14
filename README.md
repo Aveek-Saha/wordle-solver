@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 512 3/6*
+Wordle 513 4/6*
 
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟨⬛ <br>
+⬛🟨⬛🟨🟨 <br>
+🟩⬛🟨⬛🟨 <br>
+🟩🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 512 3/6*
 
 <br> 
 
-Answer: `CARRY`
+Answer: `SNEAK`
 <pre>
 T A R E S
-M A R C H
-C A R R Y
+S P A C E
+S E D A N
+S N E A K
 </pre>
 </details>
 
