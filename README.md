@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 513 4/6*
+Wordle 514 4/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩⬛🟨⬛🟨 <br>
-🟩🟨⬛🟩🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 513 4/6*
 
 <br> 
 
-Answer: `SNEAK`
+Answer: `LIBEL`
 <pre>
 T A R E S
-S P A C E
-S E D A N
-S N E A K
+V I D E O
+P I X E L
+L I B E L
 </pre>
 </details>
 
