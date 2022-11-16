@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 514 4/6*
+Wordle 515 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 514 4/6*
 
 <br> 
 
-Answer: `LIBEL`
+Answer: `WALTZ`
 <pre>
 T A R E S
-V I D E O
-P I X E L
-L I B E L
+M A T C H
+P A I N T
+W A L T Z
 </pre>
 </details>
 
