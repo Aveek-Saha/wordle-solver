@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 518 4/6*
+Wordle 519 3/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟨🟨🟨 <br>
-⬛🟨⬛🟨🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 518 4/6*
 
 <br> 
 
-Answer: `INEPT`
+Answer: `ALOUD`
 <pre>
 T A R E S
-W H I T E
-D E B I T
-I N E P T
+A L B U M
+A L O U D
 </pre>
 </details>
 
