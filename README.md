@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 519 3/6*
+Wordle 520 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟩⬛🟩⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 519 3/6*
 
 <br> 
 
-Answer: `ALOUD`
+Answer: `PHOTO`
 <pre>
 T A R E S
-A L B U M
-A L O U D
+U N T I L
+P H O T O
 </pre>
 </details>
 
