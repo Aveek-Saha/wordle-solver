@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 520 3/6*
+Wordle 521 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 520 3/6*
 
 <br> 
 
-Answer: `PHOTO`
+Answer: `DREAM`
 <pre>
 T A R E S
-U N T I L
-P H O T O
+L E A R N
+B R E A K
+D R E A M
 </pre>
 </details>
 
