@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 521 4/6*
+Wordle 522 6/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+🟨🟨⬛🟨🟨 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 521 4/6*
 
 <br> 
 
-Answer: `DREAM`
+Answer: `STALE`
 <pre>
 T A R E S
-L E A R N
-B R E A K
-D R E A M
+S T A T E
+S T A G E
+S T A K E
+S T A D E
+S T A L E
 </pre>
 </details>
 
