@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 522 6/6*
+Wordle 523 4/6*
 
-🟨🟨⬛🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 522 6/6*
 
 <br> 
 
-Answer: `STALE`
+Answer: `VOMIT`
 <pre>
 T A R E S
-S T A T E
-S T A G E
-S T A K E
-S T A D E
-S T A L E
+U N T I L
+D I G I T
+V O M I T
 </pre>
 </details>
 
