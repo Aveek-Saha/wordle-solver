@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 523 4/6*
+Wordle 524 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨🟩⬛ <br>
+⬛⬛🟨🟨⬛ <br>
 ⬛⬛⬛🟩🟩 <br>
+⬛⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 523 4/6*
 
 <br> 
 
-Answer: `VOMIT`
+Answer: `OMBRE`
 <pre>
 T A R E S
-U N T I L
-D I G I T
-V O M I T
+W H E R E
+C R O R E
+O M B R E
 </pre>
 </details>
 
