@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 524 4/6*
+Wordle 525 5/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛🟨🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟨🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 524 4/6*
 
 <br> 
 
-Answer: `OMBRE`
+Answer: `FANNY`
 <pre>
 T A R E S
-W H E R E
-C R O R E
-O M B R E
+J A P A N
+N A N C Y
+D A N N Y
+F A N N Y
 </pre>
 </details>
 
