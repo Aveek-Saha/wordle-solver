@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 525 5/6*
+Wordle 526 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟩🟩🟩 <br>
+⬛🟨🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 525 5/6*
 
 <br> 
 
-Answer: `FANNY`
+Answer: `UNITE`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-D A N N Y
-F A N N Y
+W H I T E
+Q U I T E
+U N I T E
 </pre>
 </details>
 
