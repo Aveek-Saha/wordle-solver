@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 526 4/6*
+Wordle 527 3/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟩🟩🟩 <br>
-⬛🟨🟩🟩🟩 <br>
+⬛🟨🟨⬛🟨 <br>
+🟩⬛🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 526 4/6*
 
 <br> 
 
-Answer: `UNITE`
+Answer: `SNARL`
 <pre>
 T A R E S
-W H I T E
-Q U I T E
-U N I T E
+S O L A R
+S N A R L
 </pre>
 </details>
 
