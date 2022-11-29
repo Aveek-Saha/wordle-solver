@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 527 3/6*
+Wordle 528 4/6*
 
-⬛🟨🟨⬛🟨 <br>
-🟩⬛🟨🟨🟨 <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 527 3/6*
 
 <br> 
 
-Answer: `SNARL`
+Answer: `BAKER`
 <pre>
 T A R E S
-S O L A R
-S N A R L
+P A P E R
+L A Y E R
+B A K E R
 </pre>
 </details>
 
