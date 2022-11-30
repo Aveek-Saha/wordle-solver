@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 528 4/6*
+Wordle 529 3/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+🟩⬛🟨🟨⬛ <br>
+🟩🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 528 4/6*
 
 <br> 
 
-Answer: `BAKER`
+Answer: `THERE`
 <pre>
 T A R E S
-P A P E R
-L A Y E R
-B A K E R
+T H E I R
+T H E R E
 </pre>
 </details>
 
