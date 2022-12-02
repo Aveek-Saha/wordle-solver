@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 530 4/6*
+Wordle 531 4/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟩 <br>
-⬛⬛⬛🟨🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 530 4/6*
 
 <br> 
 
-Answer: `GLYPH`
+Answer: `POOCH`
 <pre>
 T A R E S
 W H I C H
-D O U G H
-G L Y P H
+L U N C H
+P O O C H
 </pre>
 </details>
 
