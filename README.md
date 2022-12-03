@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 531 4/6*
+Wordle 532 5/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 531 4/6*
 
 <br> 
 
-Answer: `POOCH`
+Answer: `HIPPY`
 <pre>
 T A R E S
 W H I C H
-L U N C H
-P O O C H
+H U M I D
+H I L L Y
+H I P P Y
 </pre>
 </details>
 
