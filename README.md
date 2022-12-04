@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 532 5/6*
+Wordle 533 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 532 5/6*
 
 <br> 
 
-Answer: `HIPPY`
+Answer: `SPELL`
 <pre>
 T A R E S
-W H I C H
-H U M I D
-H I L L Y
-H I P P Y
+H O U S E
+S P E N D
+S P E L L
 </pre>
 </details>
 
