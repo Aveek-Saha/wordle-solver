@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 533 4/6*
+Wordle 534 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟨 <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 533 4/6*
 
 <br> 
 
-Answer: `SPELL`
+Answer: `FOLLY`
 <pre>
 T A R E S
-H O U S E
-S P E N D
-S P E L L
+W H I C H
+F O U N D
+F O L L Y
 </pre>
 </details>
 
