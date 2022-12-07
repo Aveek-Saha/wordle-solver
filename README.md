@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 535 4/6*
+Wordle 536 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 535 4/6*
 
 <br> 
 
-Answer: `LOUSE`
+Answer: `GULCH`
 <pre>
 T A R E S
-H O U S E
-M O U S E
-L O U S E
+W H I C H
+L U N C H
+G U L C H
 </pre>
 </details>
 
