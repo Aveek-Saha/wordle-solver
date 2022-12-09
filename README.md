@@ -4,12 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 537 5/6*
+Wordle 538 6/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩⬛🟨🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +18,14 @@ Wordle 537 5/6*
 
 <br> 
 
-Answer: `VAULT`
+Answer: `GODLY`
 <pre>
 T A R E S
-M A T C H
-P A I N T
-F A U L T
-V A U L T
+W H I C H
+F O U N D
+M O O D Y
+D O L L Y
+G O D L Y
 </pre>
 </details>
 
