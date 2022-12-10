@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 538 6/6*
+Wordle 539 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩⬛🟨🟩 <br>
-🟨🟩⬛🟩🟩 <br>
+🟩⬛🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 538 6/6*
 
 <br> 
 
-Answer: `GODLY`
+Answer: `THREW`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-M O O D Y
-D O L L Y
-G O D L Y
+T H R E E
+T H R E W
 </pre>
 </details>
 
