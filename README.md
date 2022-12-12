@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 540 3/6*
+Wordle 541 5/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩🟨 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 540 3/6*
 
 <br> 
 
-Answer: `FLEET`
+Answer: `GRAVE`
 <pre>
 T A R E S
-H O T E L
-F L E E T
+L E A R N
+G R A D E
+G R A C E
+G R A V E
 </pre>
 </details>
 
