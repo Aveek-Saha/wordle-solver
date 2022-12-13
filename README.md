@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 541 5/6*
+Wordle 542 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩🟨⬛ <br>
+⬛🟨🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 541 5/6*
 
 <br> 
 
-Answer: `GRAVE`
+Answer: `INANE`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-G R A C E
-G R A V E
+E M A I L
+D I A N E
+I N A N E
 </pre>
 </details>
 
