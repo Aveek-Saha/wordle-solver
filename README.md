@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 542 4/6*
+Wordle 543 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩🟨⬛ <br>
-⬛🟨🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 542 4/6*
 
 <br> 
 
-Answer: `INANE`
+Answer: `SHOCK`
 <pre>
 T A R E S
-E M A I L
-D I A N E
-I N A N E
+M U S I C
+S H O C K
 </pre>
 </details>
 
