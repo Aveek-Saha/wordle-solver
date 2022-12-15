@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 543 3/6*
+Wordle 544 X/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛🟨 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `SHOCK`
+Answer: `CRAVE`
 <pre>
 T A R E S
-M U S I C
-S H O C K
+L E A R N
+G R A D E
+F R A M E
+B R A K E
+C R A Z E
 </pre>
 </details>
 
