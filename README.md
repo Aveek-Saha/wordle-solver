@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 544 X/6*
+Wordle 545 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟨⬛⬛🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `CRAVE`
+Answer: `SPITE`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-F R A M E
-B R A K E
-C R A Z E
+S T Y L E
+S U I T E
+S P I T E
 </pre>
 </details>
 
