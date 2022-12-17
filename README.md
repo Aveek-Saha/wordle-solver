@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 545 4/6*
+Wordle 546 3/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟩🟨⬛⬛🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 545 4/6*
 
 <br> 
 
-Answer: `SPITE`
+Answer: `VALVE`
 <pre>
 T A R E S
-S T Y L E
-S U I T E
-S P I T E
+V A L U E
+V A L V E
 </pre>
 </details>
 
