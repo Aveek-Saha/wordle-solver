@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 546 3/6*
+Wordle 547 4/6*
 
-⬛🟩⬛🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+🟨⬛🟨🟨⬛ <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 546 3/6*
 
 <br> 
 
-Answer: `VALVE`
+Answer: `SKIMP`
 <pre>
 T A R E S
-V A L U E
-V A L V E
+M U S I C
+S L I M Y
+S K I M P
 </pre>
 </details>
 
