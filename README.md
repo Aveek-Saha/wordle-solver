@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 548 3/6*
+Wordle 549 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩⬛⬛🟩 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩⬛🟨⬛ <br>
+🟩🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 548 3/6*
 
 <br> 
 
-Answer: `CLAIM`
+Answer: `RAINY`
 <pre>
 T A R E S
-A L B U M
-C L A I M
+M A J O R
+R A P I D
+R A B B I
+R A I N Y
 </pre>
 </details>
 
