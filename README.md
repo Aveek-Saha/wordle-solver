@@ -4,26 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 549 5/6*
+Wordle 550 X/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛🟨⬛ <br>
-🟩🟩⬛⬛🟨 <br>
-🟩🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `RAINY`
+Answer: `MUSTY`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-R A B B I
-R A I N Y
+S O U T H
+B U S T Y
+D U S T Y
+L U S T Y
+G U S T Y
 </pre>
 </details>
 
