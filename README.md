@@ -4,28 +4,26 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 550 X/6*
+Wordle 551 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨⬛🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `MUSTY`
+Answer: `PIQUE`
 <pre>
 T A R E S
-S O U T H
-B U S T Y
-D U S T Y
-L U S T Y
-G U S T Y
+B E I N G
+F I E L D
+P I X I E
+P I Q U E
 </pre>
 </details>
 
