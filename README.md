@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 551 5/6*
+Wordle 552 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
 🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +17,13 @@ Wordle 551 5/6*
 
 <br> 
 
-Answer: `PIQUE`
+Answer: `DADDY`
 <pre>
 T A R E S
-B E I N G
-F I E L D
-P I X I E
-P I Q U E
+J A P A N
+Y A H O O
+D A I L Y
+D A D D Y
 </pre>
 </details>
 
