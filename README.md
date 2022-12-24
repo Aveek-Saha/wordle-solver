@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 552 5/6*
+Wordle 553 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 552 5/6*
 
 <br> 
 
-Answer: `DADDY`
+Answer: `QUASI`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-D A D D Y
+S M A L L
+Q U A S I
 </pre>
 </details>
 
