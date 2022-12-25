@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 553 3/6*
+Wordle 554 3/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟨⬛🟩⬛⬛ <br>
+⬛🟨🟨🟨🟨 <br>
+🟨⬛🟨🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 553 3/6*
 
 <br> 
 
-Answer: `QUASI`
+Answer: `ARISE`
 <pre>
 T A R E S
-S M A L L
-Q U A S I
+S H A R E
+A R I S E
 </pre>
 </details>
 
