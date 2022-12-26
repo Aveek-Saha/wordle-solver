@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 554 3/6*
+Wordle 555 4/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟨⬛🟨🟨🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 554 3/6*
 
 <br> 
 
-Answer: `ARISE`
+Answer: `AGING`
 <pre>
 T A R E S
-S H A R E
-A R I S E
+A L B U M
+A G A I N
+A G I N G
 </pre>
 </details>
 
