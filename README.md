@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 555 4/6*
+Wordle 556 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
-🟩🟩⬛🟨🟨 <br>
+🟨🟩⬛🟩⬛ <br>
+⬛🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 555 4/6*
 
 <br> 
 
-Answer: `AGING`
+Answer: `VALET`
 <pre>
 T A R E S
-A L B U M
-A G A I N
-A G I N G
+D A T E D
+V A L E T
 </pre>
 </details>
 
