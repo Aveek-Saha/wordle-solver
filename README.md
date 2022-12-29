@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 557 4/6*
+Wordle 558 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-🟨⬛🟩🟨⬛ <br>
+🟨🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 557 4/6*
 
 <br> 
 
-Answer: `OPIUM`
+Answer: `AVERT`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-O P I U M
+G R E A T
+A L E R T
+A V E R T
 </pre>
 </details>
 
