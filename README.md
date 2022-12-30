@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 558 4/6*
+Wordle 559 5/6*
 
-🟨🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 558 4/6*
 
 <br> 
 
-Answer: `AVERT`
+Answer: `STUCK`
 <pre>
 T A R E S
-G R E A T
-A L E R T
-A V E R T
+S O U T H
+S T U D Y
+S T U F F
+S T U C K
 </pre>
 </details>
 
