@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 560 4/6*
+Wordle 561 5/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟩⬛🟨🟨🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+🟨🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 560 4/6*
 
 <br> 
 
-Answer: `RECUT`
+Answer: `MULCH`
 <pre>
 T A R E S
-R O U T E
-R E B U T
-R E C U T
+W H I C H
+L U N C H
+G U L C H
+M U L C H
 </pre>
 </details>
 
