@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 561 5/6*
+Wordle 562 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-🟨🟩⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 561 5/6*
 
 <br> 
 
-Answer: `MULCH`
+Answer: `GENRE`
 <pre>
 T A R E S
-W H I C H
-L U N C H
-G U L C H
-M U L C H
+W H E R E
+G E N R E
 </pre>
 </details>
 
