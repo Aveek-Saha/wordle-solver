@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 562 3/6*
+Wordle 563 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛🟨🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 562 3/6*
 
 <br> 
 
-Answer: `GENRE`
+Answer: `PLUME`
 <pre>
 T A R E S
-W H E R E
-G E N R E
+B E I N G
+C H E C K
+P L U M E
 </pre>
 </details>
 
