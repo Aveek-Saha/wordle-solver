@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 563 4/6*
+Wordle 564 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟩 <br>
+⬛🟨🟨⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 563 4/6*
 
 <br> 
 
-Answer: `PLUME`
+Answer: `RIFLE`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-P L U M E
+W H E R E
+P R I C E
+R I D G E
+R I F L E
 </pre>
 </details>
 
