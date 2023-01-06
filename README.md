@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 565 4/6*
+Wordle 566 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 565 4/6*
 
 <br> 
 
-Answer: `COUNT`
+Answer: `INCUR`
 <pre>
 T A R E S
-U N T I L
-M O U N T
-C O U N T
+G R O U P
+I N C U R
 </pre>
 </details>
 
