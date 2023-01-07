@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 566 3/6*
+Wordle 567 2/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨⬛🟩⬛ <br>
+🟩🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 566 3/6*
 
 <br> 
 
-Answer: `INCUR`
+Answer: `TOTAL`
 <pre>
 T A R E S
-G R O U P
-I N C U R
+T O T A L
 </pre>
 </details>
 
