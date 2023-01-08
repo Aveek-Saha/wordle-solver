@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 567 2/6*
+Wordle 568 4/6*
 
-🟩🟨⬛⬛⬛ <br>
+🟨⬛🟨🟨🟨 <br>
+🟨🟨⬛🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 567 2/6*
 
 <br> 
 
-Answer: `TOTAL`
+Answer: `WREST`
 <pre>
 T A R E S
-T O T A L
+S T O R E
+C R E S T
+W R E S T
 </pre>
 </details>
 
