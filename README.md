@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 568 4/6*
+Wordle 569 5/6*
 
-🟨⬛🟨🟨🟨 <br>
-🟨🟨⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+⬛🟩🟨🟨⬛ <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 568 4/6*
 
 <br> 
 
-Answer: `WREST`
+Answer: `MOCHA`
 <pre>
 T A R E S
-S T O R E
-C R E S T
-W R E S T
+A L B U M
+W O M A N
+D O G M A
+M O C H A
 </pre>
 </details>
 
