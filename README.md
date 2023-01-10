@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 569 5/6*
+Wordle 570 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛🟨 <br>
-⬛🟩🟨🟨⬛ <br>
-⬛🟩⬛🟨🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟨⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 569 5/6*
 
 <br> 
 
-Answer: `MOCHA`
+Answer: `DETER`
 <pre>
 T A R E S
-A L B U M
-W O M A N
-D O G M A
-M O C H A
+O T H E R
+P E T E R
+M E T E R
+D E T E R
 </pre>
 </details>
 
