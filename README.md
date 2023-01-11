@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 570 5/6*
+Wordle 571 3/6*
 
-🟨⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 570 5/6*
 
 <br> 
 
-Answer: `DETER`
+Answer: `STUDY`
 <pre>
 T A R E S
-O T H E R
-P E T E R
-M E T E R
-D E T E R
+S O U T H
+S T U D Y
 </pre>
 </details>
 
