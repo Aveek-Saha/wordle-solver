@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 572 5/6*
+Wordle 573 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟨🟩🟨 <br>
+⬛🟩🟨🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 572 5/6*
 
 <br> 
 
-Answer: `LOVER`
+Answer: `SAFER`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-C O V E R
-L O V E R
+L A S E R
+S A V E R
+S A F E R
 </pre>
 </details>
 
