@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 573 4/6*
+Wordle 574 4/6*
 
-⬛🟩🟨🟩🟨 <br>
-⬛🟩🟨🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟨⬛🟩🟨 <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 573 4/6*
 
 <br> 
 
-Answer: `SAFER`
+Answer: `RIVET`
 <pre>
 T A R E S
-L A S E R
-S A V E R
-S A F E R
+O T H E R
+G R E E T
+R I V E T
 </pre>
 </details>
 
