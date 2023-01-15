@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 574 4/6*
+Wordle 575 4/6*
 
-🟨⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟨 <br>
-⬛🟨⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+🟩⬛🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 574 4/6*
 
 <br> 
 
-Answer: `RIVET`
+Answer: `FUNNY`
 <pre>
 T A R E S
-O T H E R
-G R E E T
-R I V E T
+W H I C H
+F O U N D
+F U N N Y
 </pre>
 </details>
 
