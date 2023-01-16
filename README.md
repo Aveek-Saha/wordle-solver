@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 575 4/6*
+Wordle 576 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-🟩⬛🟨🟩⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟨⬛🟨🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 575 4/6*
 
 <br> 
 
-Answer: `FUNNY`
+Answer: `SMOKE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-F U N N Y
+H O U S E
+S C O P E
+S M O K E
 </pre>
 </details>
 
