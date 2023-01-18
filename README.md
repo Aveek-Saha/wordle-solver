@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 577 6/6*
+Wordle 578 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 577 6/6*
 
 <br> 
 
-Answer: `MOUND`
+Answer: `UNDUE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O U N D
-P O U N D
-M O U N D
+B E I N G
+E N J O Y
+U N C L E
+U N D U E
 </pre>
 </details>
 
