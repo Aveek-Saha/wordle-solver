@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 578 5/6*
+Wordle 579 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛🟨⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟩⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 578 5/6*
 
 <br> 
 
-Answer: `UNDUE`
+Answer: `SEDAN`
 <pre>
 T A R E S
-B E I N G
-E N J O Y
-U N C L E
-U N D U E
+S P A C E
+S E D A N
 </pre>
 </details>
 
