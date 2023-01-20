@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 579 3/6*
+Wordle 580 3/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩⬛🟨⬛🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 579 3/6*
 
 <br> 
 
-Answer: `SEDAN`
+Answer: `PAGAN`
 <pre>
 T A R E S
-S P A C E
-S E D A N
+J A P A N
+P A G A N
 </pre>
 </details>
 
