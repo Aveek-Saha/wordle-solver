@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 580 3/6*
+Wordle 581 6/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟨🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨🟨⬛🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 580 3/6*
 
 <br> 
 
-Answer: `PAGAN`
+Answer: `SWINE`
 <pre>
 T A R E S
-J A P A N
-P A G A N
+H O U S E
+S I N C E
+S P I N E
+S E I N E
+S W I N E
 </pre>
 </details>
 
