@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 582 4/6*
+Wordle 583 6/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 582 4/6*
 
 <br> 
 
-Answer: `GUILE`
+Answer: `GUSTY`
 <pre>
 T A R E S
-B E I N G
-G U I D E
-G U I L E
+S O U T H
+B U S T Y
+D U S T Y
+L U S T Y
+G U S T Y
 </pre>
 </details>
 
