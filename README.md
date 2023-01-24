@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 583 6/6*
+Wordle 584 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨⬛🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 583 6/6*
 
 <br> 
 
-Answer: `GUSTY`
+Answer: `EQUIP`
 <pre>
 T A R E S
-S O U T H
-B U S T Y
-D U S T Y
-L U S T Y
-G U S T Y
+B E I N G
+F I E L D
+M O V I E
+E Q U I P
 </pre>
 </details>
 
