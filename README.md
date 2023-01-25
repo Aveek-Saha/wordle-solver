@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 584 5/6*
+Wordle 585 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛⬛⬛🟩🟨 <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟨⬛⬛⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 584 5/6*
 
 <br> 
 
-Answer: `EQUIP`
+Answer: `TOUGH`
 <pre>
 T A R E S
-B E I N G
-F I E L D
-M O V I E
-E Q U I P
+T H I N K
+T O U C H
+T O U G H
 </pre>
 </details>
 
