@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 585 4/6*
+Wordle 586 4/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 585 4/6*
 
 <br> 
 
-Answer: `TOUGH`
+Answer: `CANOE`
 <pre>
 T A R E S
-T H I N K
-T O U C H
-T O U G H
+V A L U E
+D A N C E
+C A N O E
 </pre>
 </details>
 
