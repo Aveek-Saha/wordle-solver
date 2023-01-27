@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 586 4/6*
+Wordle 587 3/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩🟨🟩 <br>
+⬛🟨⬛⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 586 4/6*
 
 <br> 
 
-Answer: `CANOE`
+Answer: `CHAOS`
 <pre>
 T A R E S
-V A L U E
-D A N C E
-C A N O E
+C L A S S
+C H A O S
 </pre>
 </details>
 
