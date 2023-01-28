@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 587 3/6*
+Wordle 588 4/6*
 
-⬛🟨⬛⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+🟨⬛⬛🟩⬛ <br>
+⬛🟩🟨🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 587 3/6*
 
 <br> 
 
-Answer: `CHAOS`
+Answer: `COVET`
 <pre>
 T A R E S
-C L A S S
-C H A O S
+H O T E L
+C O M E T
+C O V E T
 </pre>
 </details>
 
