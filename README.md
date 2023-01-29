@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 588 4/6*
+Wordle 589 3/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛🟩🟨🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 588 4/6*
 
 <br> 
 
-Answer: `COVET`
+Answer: `HUMAN`
 <pre>
 T A R E S
-H O T E L
-C O M E T
-C O V E T
+A L B U M
+H U M A N
 </pre>
 </details>
 
