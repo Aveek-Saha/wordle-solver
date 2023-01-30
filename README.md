@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 589 3/6*
+Wordle 590 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛🟨🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 589 3/6*
 
 <br> 
 
-Answer: `HUMAN`
+Answer: `UDDER`
 <pre>
 T A R E S
-A L B U M
-H U M A N
+U N D E R
+U D D E R
 </pre>
 </details>
 
