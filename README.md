@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 590 3/6*
+Wordle 591 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 590 3/6*
 
 <br> 
 
-Answer: `UDDER`
+Answer: `LUNCH`
 <pre>
 T A R E S
-U N D E R
-U D D E R
+W H I C H
+L U N C H
 </pre>
 </details>
 
