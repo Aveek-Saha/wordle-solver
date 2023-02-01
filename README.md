@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 591 3/6*
+Wordle 592 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
+🟨🟨⬛⬛🟨 <br>
+🟨🟨🟩⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 591 3/6*
 
 <br> 
 
-Answer: `LUNCH`
+Answer: `BLAST`
 <pre>
 T A R E S
-W H I C H
-L U N C H
+S T A F F
+C O A S T
+B L A S T
 </pre>
 </details>
 
