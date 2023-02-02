@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 592 4/6*
+Wordle 593 4/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟨🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩🟩 <br>
+🟨🟨🟩⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 592 4/6*
 
 <br> 
 
-Answer: `BLAST`
+Answer: `STRAY`
 <pre>
 T A R E S
-S T A F F
-C O A S T
-B L A S T
+S T R A P
+S T R A W
+S T R A Y
 </pre>
 </details>
 
