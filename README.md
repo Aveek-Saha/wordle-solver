@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 593 4/6*
+Wordle 594 3/6*
 
-🟨🟨🟩⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 593 4/6*
 
 <br> 
 
-Answer: `STRAY`
+Answer: `MANGA`
 <pre>
 T A R E S
-S T R A P
-S T R A W
-S T R A Y
+J A P A N
+M A N G A
 </pre>
 </details>
 
