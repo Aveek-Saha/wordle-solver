@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 594 3/6*
+Wordle 595 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟨🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 594 3/6*
 
 <br> 
 
-Answer: `MANGA`
+Answer: `MELEE`
 <pre>
 T A R E S
-J A P A N
-M A N G A
+V I D E O
+Q U E E N
+E X C E L
+M E L E E
 </pre>
 </details>
 
