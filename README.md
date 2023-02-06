@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 596 5/6*
+Wordle 597 4/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-🟨⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 596 5/6*
 
 <br> 
 
-Answer: `LEFTY`
+Answer: `QUICK`
 <pre>
 T A R E S
-W H I T E
-E M P T Y
-B E T T Y
-L E F T Y
+W H I C H
+C L I C K
+Q U I C K
 </pre>
 </details>
 
