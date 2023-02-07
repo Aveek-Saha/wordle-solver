@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 597 4/6*
+Wordle 598 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
-⬛⬛🟩🟩🟩 <br>
+🟨🟩⬛🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 597 4/6*
 
 <br> 
 
-Answer: `QUICK`
+Answer: `PASTE`
 <pre>
 T A R E S
-W H I C H
-C L I C K
-Q U I C K
+W A S T E
+P A S T E
 </pre>
 </details>
 
