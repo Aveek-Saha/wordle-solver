@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 598 3/6*
+Wordle 599 3/6*
 
-🟨🟩⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+🟨🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 598 3/6*
 
 <br> 
 
-Answer: `PASTE`
+Answer: `GIVEN`
 <pre>
 T A R E S
-W A S T E
-P A S T E
+V I D E O
+G I V E N
 </pre>
 </details>
 
