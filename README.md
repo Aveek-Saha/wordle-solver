@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 600 5/6*
+Wordle 601 3/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛🟨🟩🟩⬛ <br>
-🟩⬛🟩🟩⬛ <br>
-🟩⬛🟩🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+🟨⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 600 5/6*
 
 <br> 
 
-Answer: `OCTET`
+Answer: `RISEN`
 <pre>
 T A R E S
-H O T E L
-O F T E N
-O P T E D
-O C T E T
+S U P E R
+R I S E N
 </pre>
 </details>
 
