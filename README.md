@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 601 3/6*
+Wordle 602 4/6*
 
-⬛⬛🟨🟩🟨 <br>
-🟨⬛⬛🟩🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟩🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 601 3/6*
 
 <br> 
 
-Answer: `RISEN`
+Answer: `GROAN`
 <pre>
 T A R E S
-S U P E R
-R I S E N
+B O A R D
+O R G A N
+G R O A N
 </pre>
 </details>
 
