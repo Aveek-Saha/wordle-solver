@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 602 4/6*
+Wordle 603 5/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟨🟩🟨🟩🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛🟨 <br>
+⬛🟨🟩⬛🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 602 4/6*
 
 <br> 
 
-Answer: `GROAN`
+Answer: `LEAKY`
 <pre>
 T A R E S
-B O A R D
-O R G A N
-G R O A N
+E M A I L
+P L A C E
+L E A F Y
+L E A K Y
 </pre>
 </details>
 
