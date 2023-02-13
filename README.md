@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 603 5/6*
+Wordle 604 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
-⬛🟨🟩⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 603 5/6*
 
 <br> 
 
-Answer: `LEAKY`
+Answer: `GRIND`
 <pre>
 T A R E S
-E M A I L
-P L A C E
-L E A F Y
-L E A K Y
+G R O U P
+G R I L L
+G R I N D
 </pre>
 </details>
 
