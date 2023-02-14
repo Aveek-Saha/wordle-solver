@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 604 4/6*
+Wordle 605 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
+🟨🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 604 4/6*
 
 <br> 
 
-Answer: `GRIND`
+Answer: `CARVE`
 <pre>
 T A R E S
-G R O U P
-G R I L L
-G R I N D
+E A R L Y
+B A R G E
+F A R C E
+C A R V E
 </pre>
 </details>
 
