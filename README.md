@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 605 5/6*
+Wordle 606 4/6*
 
-⬛🟩🟩🟨⬛ <br>
-🟨🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟨🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 605 5/6*
 
 <br> 
 
-Answer: `CARVE`
+Answer: `LOOSE`
 <pre>
 T A R E S
-E A R L Y
-B A R G E
-F A R C E
-C A R V E
+H O U S E
+N O I S E
+L O O S E
 </pre>
 </details>
 
