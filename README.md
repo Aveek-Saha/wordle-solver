@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 606 4/6*
+Wordle 607 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 606 4/6*
 
 <br> 
 
-Answer: `LOOSE`
+Answer: `SADLY`
 <pre>
 T A R E S
-H O U S E
-N O I S E
-L O O S E
+B A S I C
+S A N D Y
+S A D L Y
 </pre>
 </details>
 
