@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 609 3/6*
+Wordle 610 5/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟨 <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 609 3/6*
 
 <br> 
 
-Answer: `APPLE`
+Answer: `SLACK`
 <pre>
 T A R E S
-E M A I L
-A P P L E
+S M A L L
+S L A N G
+S L A S H
+S L A C K
 </pre>
 </details>
 
