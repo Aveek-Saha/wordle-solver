@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 610 5/6*
+Wordle 611 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 610 5/6*
 
 <br> 
 
-Answer: `SLACK`
+Answer: `HONEY`
 <pre>
 T A R E S
-S M A L L
-S L A N G
-S L A S H
-S L A C K
+V I D E O
+W O M E N
+H O N E Y
 </pre>
 </details>
 
