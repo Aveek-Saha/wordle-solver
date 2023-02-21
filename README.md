@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 611 4/6*
+Wordle 612 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟩⬛🟩🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 611 4/6*
 
 <br> 
 
-Answer: `HONEY`
+Answer: `FINAL`
 <pre>
 T A R E S
-V I D E O
-W O M E N
-H O N E Y
+A L B U M
+L O C A L
+F I N A L
 </pre>
 </details>
 
