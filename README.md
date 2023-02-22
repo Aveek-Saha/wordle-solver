@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 612 4/6*
+Wordle 613 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟨 <br>
+🟩🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 612 4/6*
 
 <br> 
 
-Answer: `FINAL`
+Answer: `SHEEN`
 <pre>
 T A R E S
-A L B U M
-L O C A L
-F I N A L
+S E V E N
+S H E E N
 </pre>
 </details>
 
