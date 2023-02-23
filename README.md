@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 613 3/6*
+Wordle 614 5/6*
 
-⬛⬛⬛🟩🟨 <br>
-🟩🟨⬛🟩🟩 <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 613 3/6*
 
 <br> 
 
-Answer: `SHEEN`
+Answer: `EERIE`
 <pre>
 T A R E S
-S E V E N
-S H E E N
+F O R C E
+N E R V E
+M E R G E
+E E R I E
 </pre>
 </details>
 
