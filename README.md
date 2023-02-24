@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 614 5/6*
+Wordle 615 5/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛⬛🟨🟨🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 614 5/6*
 
 <br> 
 
-Answer: `EERIE`
+Answer: `MINTY`
 <pre>
 T A R E S
-F O R C E
-N E R V E
-M E R G E
-E E R I E
+U N T I L
+P O I N T
+N I N T H
+M I N T Y
 </pre>
 </details>
 
