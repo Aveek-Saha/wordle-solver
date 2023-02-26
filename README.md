@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 616 4/6*
+Wordle 617 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨🟨 <br>
-🟩⬛🟩🟩⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟨 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 616 4/6*
 
 <br> 
 
-Answer: `SLICK`
+Answer: `DERBY`
 <pre>
 T A R E S
-M U S I C
-S P I C Y
-S L I C K
+F O R C E
+J E R R Y
+D E R B Y
 </pre>
 </details>
 
