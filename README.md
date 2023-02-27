@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 617 4/6*
+Wordle 618 4/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟨 <br>
-⬛🟩🟩⬛🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 617 4/6*
 
 <br> 
 
-Answer: `DERBY`
+Answer: `WHARF`
 <pre>
 T A R E S
-F O R C E
-J E R R Y
-D E R B Y
+B O A R D
+A L A R M
+W H A R F
 </pre>
 </details>
 
