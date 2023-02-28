@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 618 4/6*
+Wordle 619 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
-⬛⬛🟩🟩⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 618 4/6*
 
 <br> 
 
-Answer: `WHARF`
+Answer: `SPELT`
 <pre>
 T A R E S
-B O A R D
-A L A R M
-W H A R F
+S T Y L E
+S P E L T
 </pre>
 </details>
 
