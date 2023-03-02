@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 620 4/6*
+Wordle 621 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟨 <br>
+🟨⬛🟨🟨⬛ <br>
+🟨⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 620 4/6*
 
 <br> 
 
-Answer: `COACH`
+Answer: `ERUPT`
 <pre>
 T A R E S
-A L B U M
-I N D I A
-C O A C H
+R O U T E
+E R U P T
 </pre>
 </details>
 
