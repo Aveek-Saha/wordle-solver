@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 621 3/6*
+Wordle 622 4/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟨⬛🟩🟨🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 621 3/6*
 
 <br> 
 
-Answer: `ERUPT`
+Answer: `SINGE`
 <pre>
 T A R E S
-R O U T E
-E R U P T
+H O U S E
+S I N C E
+S I N G E
 </pre>
 </details>
 
