@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 622 4/6*
+Wordle 623 3/6*
 
-⬛⬛⬛🟨🟨 <br>
+⬛⬛🟨🟨⬛ <br>
 ⬛⬛⬛🟨🟩 <br>
-🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 622 4/6*
 
 <br> 
 
-Answer: `SINGE`
+Answer: `PRICE`
 <pre>
 T A R E S
-H O U S E
-S I N C E
-S I N G E
+W H E R E
+P R I C E
 </pre>
 </details>
 
