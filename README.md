@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 624 4/6*
+Wordle 625 5/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩⬛⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟨🟩⬛🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 624 4/6*
 
 <br> 
 
-Answer: `SPAWN`
+Answer: `FAIRY`
 <pre>
 T A R E S
-S M A L L
-S P A I N
-S P A W N
+M A J O R
+R A P I D
+H A I R Y
+F A I R Y
 </pre>
 </details>
 
