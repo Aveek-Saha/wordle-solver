@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 625 5/6*
+Wordle 626 5/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩⬛🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 625 5/6*
 
 <br> 
 
-Answer: `FAIRY`
+Answer: `JIFFY`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-H A I R Y
-F A I R Y
+W H I C H
+L O G I N
+J I M M Y
+J I F F Y
 </pre>
 </details>
 
