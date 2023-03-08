@@ -4,12 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 626 5/6*
+Wordle 627 6/6*
 
 ⬛⬛⬛⬛⬛ <br>
 ⬛⬛🟨⬛⬛ <br>
-⬛⬛⬛🟨⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+🟨🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +18,14 @@ Wordle 626 5/6*
 
 <br> 
 
-Answer: `JIFFY`
+Answer: `FILMY`
 <pre>
 T A R E S
 W H I C H
 L O G I N
-J I M M Y
-J I F F Y
+B I L L Y
+M I L K Y
+F I L M Y
 </pre>
 </details>
 
