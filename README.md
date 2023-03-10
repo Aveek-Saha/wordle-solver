@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 628 5/6*
+Wordle 629 4/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+🟨🟨⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 628 5/6*
 
 <br> 
 
-Answer: `STACK`
+Answer: `CHOSE`
 <pre>
 T A R E S
-S T A F F
-S T A N D
-S T A M P
-S T A C K
+H O U S E
+W H O S E
+C H O S E
 </pre>
 </details>
 
