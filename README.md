@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 629 4/6*
+Wordle 630 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-🟨🟨⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟩🟨 <br>
+🟩🟨⬛🟩⬛ <br>
+🟩🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 629 4/6*
 
 <br> 
 
-Answer: `CHOSE`
+Answer: `SLEEP`
 <pre>
 T A R E S
-H O U S E
-W H O S E
-C H O S E
+S E V E N
+S P E E D
+S L E E P
 </pre>
 </details>
 
