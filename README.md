@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 630 4/6*
+Wordle 631 3/6*
 
-⬛⬛⬛🟩🟨 <br>
-🟩🟨⬛🟩⬛ <br>
-🟩🟨🟩🟩⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 630 4/6*
 
 <br> 
 
-Answer: `SLEEP`
+Answer: `ARDOR`
 <pre>
 T A R E S
-S E V E N
-S P E E D
-S L E E P
+B O A R D
+A R D O R
 </pre>
 </details>
 
