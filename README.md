@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 631 3/6*
+Wordle 632 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟨🟨🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 631 3/6*
 
 <br> 
 
-Answer: `ARDOR`
+Answer: `NANNY`
 <pre>
 T A R E S
-B O A R D
-A R D O R
+J A P A N
+N A N C Y
+N A N N Y
 </pre>
 </details>
 
