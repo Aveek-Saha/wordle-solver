@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 632 4/6*
+Wordle 633 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟨⬛⬛🟩 <br>
+🟩🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 632 4/6*
 
 <br> 
 
-Answer: `NANNY`
+Answer: `NIECE`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-N A N N Y
+B E I N G
+I N D I E
+N I C H E
+N I E C E
 </pre>
 </details>
 
