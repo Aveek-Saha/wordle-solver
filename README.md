@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 633 5/6*
+Wordle 634 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟨🟨⬛⬛🟩 <br>
-🟩🟩🟨⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 633 5/6*
 
 <br> 
 
-Answer: `NIECE`
+Answer: `WOOZY`
 <pre>
 T A R E S
-B E I N G
-I N D I E
-N I C H E
-N I E C E
+W H I C H
+W O U L D
+W O N K Y
+W O O Z Y
 </pre>
 </details>
 
