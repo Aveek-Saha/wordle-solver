@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 635 4/6*
+Wordle 636 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩⬛🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 635 4/6*
 
 <br> 
 
-Answer: `HANDY`
+Answer: `GRACE`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-H A N D Y
+L E A R N
+G R A D E
+G R A C E
 </pre>
 </details>
 
