@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 636 4/6*
+Wordle 637 5/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 636 4/6*
 
 <br> 
 
-Answer: `GRACE`
+Answer: `DITTO`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-G R A C E
+U N T I L
+P I T C H
+K I T T Y
+D I T T O
 </pre>
 </details>
 
