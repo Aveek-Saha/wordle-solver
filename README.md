@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 637 5/6*
+Wordle 638 5/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+🟨🟨⬛⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 637 5/6*
 
 <br> 
 
-Answer: `DITTO`
+Answer: `STANK`
 <pre>
 T A R E S
-U N T I L
-P I T C H
-K I T T Y
-D I T T O
+S T A F F
+S T A N D
+S T A N G
+S T A N K
 </pre>
 </details>
 
