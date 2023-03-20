@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 638 5/6*
+Wordle 639 5/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 638 5/6*
 
 <br> 
 
-Answer: `STANK`
+Answer: `CREAM`
 <pre>
 T A R E S
-S T A F F
-S T A N D
-S T A N G
-S T A N K
+L E A R N
+B R E A K
+D R E A M
+C R E A M
 </pre>
 </details>
 
