@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 639 5/6*
+Wordle 640 3/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟨⬛🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 639 5/6*
 
 <br> 
 
-Answer: `CREAM`
+Answer: `USUAL`
 <pre>
 T A R E S
-L E A R N
-B R E A K
-D R E A M
-C R E A M
+S M A L L
+U S U A L
 </pre>
 </details>
 
