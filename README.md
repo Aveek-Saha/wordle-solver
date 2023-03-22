@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 640 3/6*
+Wordle 641 5/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟨⬛🟨⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟨⬛🟨 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 640 3/6*
 
 <br> 
 
-Answer: `USUAL`
+Answer: `DIODE`
 <pre>
 T A R E S
-S M A L L
-U S U A L
+B E I N G
+F I E L D
+D I X I E
+D I O D E
 </pre>
 </details>
 
