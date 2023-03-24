@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 642 4/6*
+Wordle 643 4/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-🟨🟩⬛🟩🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟩⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 642 4/6*
 
 <br> 
 
-Answer: `VALOR`
+Answer: `ANGLE`
 <pre>
 T A R E S
-M A J O R
-L A B O R
-V A L O R
+E M A I L
+A P P L E
+A N G L E
 </pre>
 </details>
 
