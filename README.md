@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 644 5/6*
+Wordle 645 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-🟨🟨⬛⬛🟩 <br>
-⬛⬛🟨🟨🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 644 5/6*
 
 <br> 
 
-Answer: `NINJA`
+Answer: `MUDDY`
 <pre>
 T A R E S
-A L B U M
-I N D I A
-C H I N A
-N I N J A
+W H I C H
+F O U N D
+B U D D Y
+M U D D Y
 </pre>
 </details>
 
