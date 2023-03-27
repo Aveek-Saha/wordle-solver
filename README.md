@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 645 5/6*
+Wordle 646 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟨⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 645 5/6*
 
 <br> 
 
-Answer: `MUDDY`
+Answer: `CHASE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B U D D Y
-M U D D Y
+S P A C E
+C H A S E
 </pre>
 </details>
 
