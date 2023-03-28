@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 646 3/6*
+Wordle 647 3/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟨⬛🟩🟨🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 646 3/6*
 
 <br> 
 
-Answer: `CHASE`
+Answer: `REPLY`
 <pre>
 T A R E S
-S P A C E
-C H A S E
+W H E R E
+R E P L Y
 </pre>
 </details>
 
