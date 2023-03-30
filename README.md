@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 648 6/6*
+Wordle 649 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+🟩🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 648 6/6*
 
 <br> 
 
-Answer: `PRONE`
+Answer: `SPOIL`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-P R O V E
-P R O B E
-P R O N E
+M U S I C
+S O L I D
+S P O I L
 </pre>
 </details>
 
