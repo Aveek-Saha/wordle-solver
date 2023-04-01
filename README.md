@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 650 3/6*
+Wordle 651 4/6*
 
-🟨🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 650 3/6*
 
 <br> 
 
-Answer: `HEART`
+Answer: `SHADE`
 <pre>
 T A R E S
-G R E A T
-H E A R T
+S P A C E
+S N A K E
+S H A D E
 </pre>
 </details>
 
