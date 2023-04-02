@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 651 4/6*
+Wordle 652 3/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛🟨🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 651 4/6*
 
 <br> 
 
-Answer: `SHADE`
+Answer: `DINER`
 <pre>
 T A R E S
-S P A C E
-S N A K E
-S H A D E
+U N D E R
+D I N E R
 </pre>
 </details>
 
