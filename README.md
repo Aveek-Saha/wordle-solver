@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 652 3/6*
+Wordle 653 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟨🟨🟩🟩 <br>
+⬛🟨🟨⬛🟨 <br>
+🟨🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 652 3/6*
 
 <br> 
 
-Answer: `DINER`
+Answer: `ARSON`
 <pre>
 T A R E S
-U N D E R
-D I N E R
+S O L A R
+A R S O N
 </pre>
 </details>
 
