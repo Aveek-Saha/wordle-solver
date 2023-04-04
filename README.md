@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 653 3/6*
+Wordle 654 4/6*
 
-⬛🟨🟨⬛🟨 <br>
-🟨🟨⬛🟨🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 653 3/6*
 
 <br> 
 
-Answer: `ARSON`
+Answer: `ONION`
 <pre>
 T A R E S
-S O L A R
-A R S O N
+W H I C H
+U N I O N
+O N I O N
 </pre>
 </details>
 
