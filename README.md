@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 654 4/6*
+Wordle 655 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟩🟨 <br>
+🟩🟨🟩🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 654 4/6*
 
 <br> 
 
-Answer: `ONION`
+Answer: `SLEET`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-O N I O N
+S T E E L
+S L E E T
 </pre>
 </details>
 
