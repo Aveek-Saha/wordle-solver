@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 655 3/6*
+Wordle 656 4/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟩🟨🟩🟩🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+🟨🟨⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 655 3/6*
 
 <br> 
 
-Answer: `SLEET`
+Answer: `DOWEL`
 <pre>
 T A R E S
-S T E E L
-S L E E T
+V I D E O
+O W N E D
+D O W E L
 </pre>
 </details>
 
