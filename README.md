@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 657 4/6*
+Wordle 658 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟨🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 657 4/6*
 
 <br> 
 
-Answer: `COUCH`
+Answer: `PALSY`
 <pre>
 T A R E S
-W H I C H
-L U N C H
-C O U C H
+B A S I C
+S A N D Y
+P A L S Y
 </pre>
 </details>
 
