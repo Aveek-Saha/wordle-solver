@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 659 4/6*
+Wordle 660 5/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-🟨🟩⬛🟩⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨⬛⬛🟩 <br>
+🟩🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 659 4/6*
 
 <br> 
 
-Answer: `BOWEL`
+Answer: `SMILE`
 <pre>
 T A R E S
-V I D E O
-W O M E N
-B O W E L
+H O U S E
+S I N C E
+S L I D E
+S M I L E
 </pre>
 </details>
 
