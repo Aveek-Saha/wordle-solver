@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 661 5/6*
+Wordle 662 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟨⬛🟨 <br>
-⬛⬛⬛🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 661 5/6*
 
 <br> 
 
-Answer: `EVOKE`
+Answer: `CREEK`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-F L U K E
-E V O K E
+U N D E R
+G R E E K
+C R E E K
 </pre>
 </details>
 
