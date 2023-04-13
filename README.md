@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 662 4/6*
+Wordle 663 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩🟨⬛🟩 <br>
+🟨🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 662 4/6*
 
 <br> 
 
-Answer: `CREEK`
+Answer: `LANCE`
 <pre>
 T A R E S
-U N D E R
-G R E E K
-C R E E K
+V A L U E
+C A B L E
+L A N C E
 </pre>
 </details>
 
