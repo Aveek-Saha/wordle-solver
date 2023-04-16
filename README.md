@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 665 4/6*
+Wordle 666 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-⬛🟨⬛⬛🟩 <br>
+⬛⬛🟩🟩🟨 <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 665 4/6*
 
 <br> 
 
-Answer: `IDIOT`
+Answer: `SIREN`
 <pre>
 T A R E S
-U N T I L
-M I G H T
-I D I O T
+S C R E W
+S I R E N
 </pre>
 </details>
 
