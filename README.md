@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 666 3/6*
+Wordle 667 3/6*
 
-⬛⬛🟩🟩🟨 <br>
-🟩⬛🟩🟩⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 666 3/6*
 
 <br> 
 
-Answer: `SIREN`
+Answer: `BUILT`
 <pre>
 T A R E S
-S C R E W
-S I R E N
+U N T I L
+B U I L T
 </pre>
 </details>
 
