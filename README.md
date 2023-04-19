@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 668 4/6*
+Wordle 669 3/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩⬛ <br>
-🟩⬛⬛🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 668 4/6*
 
 <br> 
 
-Answer: `EMBED`
+Answer: `AWARD`
 <pre>
 T A R E S
-V I D E O
-E D G E D
-E M B E D
+B O A R D
+A W A R D
 </pre>
 </details>
 
