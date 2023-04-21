@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 670 5/6*
+Wordle 671 4/6*
 
-⬛⬛🟨⬛🟩 <br>
-⬛🟨⬛🟨🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟨⬛🟩⬛ <br>
+🟩⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 670 5/6*
 
 <br> 
 
-Answer: `DROSS`
+Answer: `ANNUL`
 <pre>
 T A R E S
-H O U R S
-C R O S S
-G R O S S
-D R O S S
+A L B U M
+A W F U L
+A N N U L
 </pre>
 </details>
 
