@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 671 4/6*
+Wordle 672 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛🟩⬛ <br>
-🟩⬛⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 671 4/6*
 
 <br> 
 
-Answer: `ANNUL`
+Answer: `GOODY`
 <pre>
 T A R E S
-A L B U M
-A W F U L
-A N N U L
+W H I C H
+F O U N D
+M O O D Y
+G O O D Y
 </pre>
 </details>
 
