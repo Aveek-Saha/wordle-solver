@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 672 5/6*
+Wordle 673 6/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +18,14 @@ Wordle 672 5/6*
 
 <br> 
 
-Answer: `GOODY`
+Answer: `FROWN`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-M O O D Y
-G O O D Y
+G R O U P
+B R O W N
+C R O W N
+D R O W N
+F R O W N
 </pre>
 </details>
 
