@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 673 6/6*
+Wordle 674 4/6*
 
-⬛⬛🟨⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
 ⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 673 6/6*
 
 <br> 
 
-Answer: `FROWN`
+Answer: `PATIO`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O W N
-D R O W N
-F R O W N
+M A T C H
+F A T A L
+P A T I O
 </pre>
 </details>
 
