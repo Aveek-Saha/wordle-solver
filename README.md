@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 674 4/6*
+Wordle 675 3/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+🟨🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 674 4/6*
 
 <br> 
 
-Answer: `PATIO`
+Answer: `LADEN`
 <pre>
 T A R E S
-M A T C H
-F A T A L
-P A T I O
+N A M E D
+L A D E N
 </pre>
 </details>
 
