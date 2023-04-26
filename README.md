@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 675 3/6*
+Wordle 676 3/6*
 
-⬛🟩⬛🟩⬛ <br>
-🟨🟩⬛🟩🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 675 3/6*
 
 <br> 
 
-Answer: `LADEN`
+Answer: `HUMID`
 <pre>
 T A R E S
-N A M E D
-L A D E N
+W H I C H
+H U M I D
 </pre>
 </details>
 
