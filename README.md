@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 678 4/6*
+Wordle 679 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟩 <br>
-⬛⬛⬛⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 678 4/6*
 
 <br> 
 
-Answer: `LYMPH`
+Answer: `EDIFY`
 <pre>
 T A R E S
-W H I C H
-D O U G H
-L Y M P H
+B E I N G
+W H I L E
+E J I D O
+E D I F Y
 </pre>
 </details>
 
