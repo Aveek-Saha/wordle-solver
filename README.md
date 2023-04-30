@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 679 5/6*
+Wordle 680 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 679 5/6*
 
 <br> 
 
-Answer: `EDIFY`
+Answer: `MIGHT`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-E J I D O
-E D I F Y
+U N T I L
+M I G H T
 </pre>
 </details>
 
