@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 680 3/6*
+Wordle 681 2/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
+🟨⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 680 3/6*
 
 <br> 
 
-Answer: `MIGHT`
+Answer: `RESET`
 <pre>
 T A R E S
-U N T I L
-M I G H T
+R E S E T
 </pre>
 </details>
 
