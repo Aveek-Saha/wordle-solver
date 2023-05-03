@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 682 3/6*
+Wordle 683 3/6*
 
 🟨⬛⬛⬛🟨 <br>
-🟨⬛⬛🟨⬛ <br>
+🟨🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 682 3/6*
 
 <br> 
 
-Answer: `VISIT`
+Answer: `GUSTO`
 <pre>
 T A R E S
 S O U T H
-V I S I T
+G U S T O
 </pre>
 </details>
 
