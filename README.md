@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 684 4/6*
+Wordle 685 5/6*
 
-⬛⬛🟩🟨🟨 <br>
-⬛⬛🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 684 4/6*
 
 <br> 
 
-Answer: `PURSE`
+Answer: `VAPOR`
 <pre>
 T A R E S
-H O R S E
-N U R S E
-P U R S E
+M A J O R
+L A B O R
+F A V O R
+V A P O R
 </pre>
 </details>
 
