@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 685 5/6*
+Wordle 686 5/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟨🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 685 5/6*
 
 <br> 
 
-Answer: `VAPOR`
+Answer: `CROCK`
 <pre>
 T A R E S
-M A J O R
-L A B O R
-F A V O R
-V A P O R
+G R O U P
+B R O W N
+C R O O K
+C R O C K
 </pre>
 </details>
 
