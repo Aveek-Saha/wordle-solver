@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 686 5/6*
+Wordle 687 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛🟨🟨⬛ <br>
+🟨⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 686 5/6*
 
 <br> 
 
-Answer: `CROCK`
+Answer: `WRITE`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O O K
-C R O C K
+R O U T E
+W R I T E
 </pre>
 </details>
 
