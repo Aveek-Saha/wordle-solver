@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 688 3/6*
+Wordle 689 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟨⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+⬛🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 688 3/6*
 
 <br> 
 
-Answer: `SUNNY`
+Answer: `LOATH`
 <pre>
 T A R E S
-M U S I C
-S U N N Y
+A B O U T
+G O T T A
+L O A T H
 </pre>
 </details>
 
