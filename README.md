@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 690 5/6*
+Wordle 691 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟨 <br>
-🟩⬛🟩⬛🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 690 5/6*
 
 <br> 
 
-Answer: `CHAFF`
+Answer: `SLIDE`
 <pre>
 T A R E S
-A L B U M
-I N D I A
-C O A C H
-C H A F F
+H O U S E
+S I N C E
+S L I D E
 </pre>
 </details>
 
