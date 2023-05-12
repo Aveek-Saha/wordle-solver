@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 691 4/6*
+Wordle 692 5/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟨⬛⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 691 4/6*
 
 <br> 
 
-Answer: `SLIDE`
+Answer: `QUEER`
 <pre>
 T A R E S
-H O U S E
-S I N C E
-S L I D E
+U N D E R
+B U Y E R
+R U L E R
+Q U E E R
 </pre>
 </details>
 
