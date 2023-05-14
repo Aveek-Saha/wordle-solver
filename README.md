@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 693 5/6*
+Wordle 694 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-🟨🟩⬛⬛⬛ <br>
+🟨🟨⬛⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +16,12 @@ Wordle 693 5/6*
 
 <br> 
 
-Answer: `VENOM`
+Answer: `STAMP`
 <pre>
 T A R E S
-B E I N G
-N E W L Y
-V E N U E
-V E N O M
+S T A F F
+S T A N D
+S T A M P
 </pre>
 </details>
 
