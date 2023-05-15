@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 694 4/6*
+Wordle 695 2/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 694 4/6*
 
 <br> 
 
-Answer: `STAMP`
+Answer: `SORRY`
 <pre>
 T A R E S
-S T A F F
-S T A N D
-S T A M P
+S O R R Y
 </pre>
 </details>
 
