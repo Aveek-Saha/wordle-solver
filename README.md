@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 695 2/6*
+Wordle 696 3/6*
 
-⬛⬛🟩⬛🟨 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 695 2/6*
 
 <br> 
 
-Answer: `SORRY`
+Answer: `STILL`
 <pre>
 T A R E S
-S O R R Y
+S O U T H
+S T I L L
 </pre>
 </details>
 
