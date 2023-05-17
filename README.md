@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 696 3/6*
+Wordle 697 4/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨🟩⬛ <br>
+⬛⬛🟩🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 696 3/6*
 
 <br> 
 
-Answer: `STILL`
+Answer: `ACORN`
 <pre>
 T A R E S
-S O U T H
-S T I L L
+B O A R D
+F L O R A
+A C O R N
 </pre>
 </details>
 
