@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 697 4/6*
+Wordle 698 6/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟨🟩⬛ <br>
-⬛⬛🟩🟩🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟨⬛🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 697 4/6*
 
 <br> 
 
-Answer: `ACORN`
+Answer: `APING`
 <pre>
 T A R E S
-B O A R D
-F L O R A
-A C O R N
+A L B U M
+A G A I N
+A K I N G
+A X I N G
+A P I N G
 </pre>
 </details>
 
