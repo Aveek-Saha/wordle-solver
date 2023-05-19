@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 698 6/6*
+Wordle 699 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
-🟩🟨⬛🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟩🟩⬛⬛ <br>
+🟨🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 698 6/6*
 
 <br> 
 
-Answer: `APING`
+Answer: `PUSHY`
 <pre>
 T A R E S
-A L B U M
-A G A I N
-A K I N G
-A X I N G
-A P I N G
+M U S I C
+H U S K Y
+B U S H Y
+P U S H Y
 </pre>
 </details>
 
