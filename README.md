@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 699 5/6*
+Wordle 700 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟩⬛⬛ <br>
-🟨🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟩🟩🟨🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 699 5/6*
 
 <br> 
 
-Answer: `PUSHY`
+Answer: `TAMER`
 <pre>
 T A R E S
-M U S I C
-H U S K Y
-B U S H Y
-P U S H Y
+T A P E R
+T A K E R
+T A M E R
 </pre>
 </details>
 
