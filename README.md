@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 700 4/6*
+Wordle 701 X/6*
 
-🟩🟩🟨🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩🟩🟩🟩 <br>
+🟨🟩🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `TAMER`
+Answer: `HATER`
 <pre>
 T A R E S
-T A P E R
-T A K E R
-T A M E R
+L A T E R
+W A T E R
+M A T E R
+C A T E R
+E A T E R
 </pre>
 </details>
 
