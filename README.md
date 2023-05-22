@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 701 X/6*
+Wordle 702 4/6*
 
-🟨🟩🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟨🟨 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `HATER`
+Answer: `MANIA`
 <pre>
 T A R E S
-L A T E R
-W A T E R
-M A T E R
-C A T E R
-E A T E R
+J A P A N
+M A N G A
+M A N I A
 </pre>
 </details>
 
