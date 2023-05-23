@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 702 4/6*
+Wordle 703 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛⬛ <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 702 4/6*
 
 <br> 
 
-Answer: `MANIA`
+Answer: `AWOKE`
 <pre>
 T A R E S
-J A P A N
-M A N G A
-M A N I A
+E M A I L
+A B O V E
+A N O D E
+A W O K E
 </pre>
 </details>
 
