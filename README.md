@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 703 5/6*
+Wordle 704 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛⬛ <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 703 5/6*
 
 <br> 
 
-Answer: `AWOKE`
+Answer: `BRAWN`
 <pre>
 T A R E S
-E M A I L
-A B O V E
-A N O D E
-A W O K E
+B O A R D
+B R A I N
+B R A W N
 </pre>
 </details>
 
