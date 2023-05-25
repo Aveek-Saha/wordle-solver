@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 704 4/6*
+Wordle 705 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟩⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 704 4/6*
 
 <br> 
 
-Answer: `BRAWN`
+Answer: `SWIFT`
 <pre>
 T A R E S
-B O A R D
-B R A I N
-B R A W N
+S O U T H
+S T I L L
+S W I F T
 </pre>
 </details>
 
