@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 706 4/6*
+Wordle 707 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 706 4/6*
 
 <br> 
 
-Answer: `EXILE`
+Answer: `BIRCH`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-E X I L E
+W O R L D
+C U R R Y
+B I R C H
 </pre>
 </details>
 
