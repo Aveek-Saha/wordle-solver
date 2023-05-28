@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 707 4/6*
+Wordle 708 4/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟨⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 707 4/6*
 
 <br> 
 
-Answer: `BIRCH`
+Answer: `LUCKY`
 <pre>
 T A R E S
-W O R L D
-C U R R Y
-B I R C H
+W H I C H
+C O U L D
+L U C K Y
 </pre>
 </details>
 
