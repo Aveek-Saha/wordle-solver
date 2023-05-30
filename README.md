@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 709 5/6*
+Wordle 710 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-🟨⬛⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 709 5/6*
 
 <br> 
 
-Answer: `FREER`
+Answer: `RISKY`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-F R Y E R
-F R E E R
+S W O R D
+B R U S H
+R I S K Y
 </pre>
 </details>
 
