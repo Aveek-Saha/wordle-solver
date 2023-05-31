@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 710 4/6*
+Wordle 711 3/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟨⬛🟨⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟨🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 710 4/6*
 
 <br> 
 
-Answer: `RISKY`
+Answer: `GHOST`
 <pre>
 T A R E S
-S W O R D
-B R U S H
-R I S K Y
+S O U T H
+G H O S T
 </pre>
 </details>
 
