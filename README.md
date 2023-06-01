@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 711 3/6*
+Wordle 712 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨🟨⬛🟨🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟨⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 711 3/6*
 
 <br> 
 
-Answer: `GHOST`
+Answer: `PLIER`
 <pre>
 T A R E S
-S O U T H
-G H O S T
+U N D E R
+R I V E R
+F L I E R
+P L I E R
 </pre>
 </details>
 
