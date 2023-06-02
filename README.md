@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 712 5/6*
+Wordle 713 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 712 5/6*
 
 <br> 
 
-Answer: `PLIER`
+Answer: `LUNAR`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-F L I E R
-P L I E R
+B O A R D
+R I V A L
+L U N A R
 </pre>
 </details>
 
