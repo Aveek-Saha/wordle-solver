@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 713 4/6*
+Wordle 714 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟨⬛⬛🟩🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+🟩⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 713 4/6*
 
 <br> 
 
-Answer: `LUNAR`
+Answer: `WINCH`
 <pre>
 T A R E S
-B O A R D
-R I V A L
-L U N A R
+W H I C H
+W I N C H
 </pre>
 </details>
 
