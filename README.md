@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 714 3/6*
+Wordle 715 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟩⬛🟨🟩🟩 <br>
+⬛🟨🟨🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 714 3/6*
 
 <br> 
 
-Answer: `WINCH`
+Answer: `SNARE`
 <pre>
 T A R E S
-W H I C H
-W I N C H
+S H A R E
+S P A R E
+S C A R E
+S N A R E
 </pre>
 </details>
 
