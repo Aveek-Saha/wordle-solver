@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 715 5/6*
+Wordle 716 3/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟩🟨🟨 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 715 5/6*
 
 <br> 
 
-Answer: `SNARE`
+Answer: `NURSE`
 <pre>
 T A R E S
-S H A R E
-S P A R E
-S C A R E
-S N A R E
+H O R S E
+N U R S E
 </pre>
 </details>
 
