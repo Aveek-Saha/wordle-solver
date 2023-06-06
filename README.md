@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 716 3/6*
+Wordle 717 2/6*
 
-⬛⬛🟩🟨🟨 <br>
-⬛⬛🟩🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 716 3/6*
 
 <br> 
 
-Answer: `NURSE`
+Answer: `HOUSE`
 <pre>
 T A R E S
-H O R S E
-N U R S E
+H O U S E
 </pre>
 </details>
 
