@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 717 2/6*
+Wordle 718 4/6*
 
-⬛⬛⬛🟨🟨 <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 717 2/6*
 
 <br> 
 
-Answer: `HOUSE`
+Answer: `BORAX`
 <pre>
 T A R E S
-H O U S E
+R U R A L
+M O R A Y
+B O R A X
 </pre>
 </details>
 
