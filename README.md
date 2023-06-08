@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 718 4/6*
+Wordle 719 5/6*
 
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛🟨⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 718 4/6*
 
 <br> 
 
-Answer: `BORAX`
+Answer: `NICER`
 <pre>
 T A R E S
-R U R A L
-M O R A Y
-B O R A X
+U N D E R
+N E V E R
+N I G E R
+N I C E R
 </pre>
 </details>
 
