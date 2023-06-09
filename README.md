@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 719 5/6*
+Wordle 720 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟩⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 719 5/6*
 
 <br> 
 
-Answer: `NICER`
+Answer: `LURCH`
 <pre>
 T A R E S
-U N D E R
-N E V E R
-N I G E R
-N I C E R
+W O R L D
+L Y R I C
+L U R C H
 </pre>
 </details>
 
