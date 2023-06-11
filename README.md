@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 721 4/6*
+Wordle 722 2/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟨🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 721 4/6*
 
 <br> 
 
-Answer: `EXALT`
+Answer: `ABOUT`
 <pre>
 T A R E S
-D E A T H
-E X A C T
-E X A L T
+A B O U T
 </pre>
 </details>
 
