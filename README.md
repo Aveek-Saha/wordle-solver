@@ -4,20 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 722 2/6*
+Wordle 723 X/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `ABOUT`
+Answer: `SAVVY`
 <pre>
 T A R E S
-A B O U T
+B A S I C
+S A N D Y
+S A L L Y
+S A M M Y
+S A V O Y
 </pre>
 </details>
 
