@@ -4,28 +4,22 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 723 X/6*
+Wordle 724 3/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟨⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟩⬛⬛⬛⬛ <br>
+🟩⬛🟨🟨⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `SAVVY`
+Answer: `TOXIN`
 <pre>
 T A R E S
-B A S I C
-S A N D Y
-S A L L Y
-S A M M Y
-S A V O Y
+T H I N K
+T O X I N
 </pre>
 </details>
 
