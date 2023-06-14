@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 724 3/6*
+Wordle 725 4/6*
 
 🟩⬛⬛⬛⬛ <br>
 🟩⬛🟨🟨⬛ <br>
+🟩⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 724 3/6*
 
 <br> 
 
-Answer: `TOXIN`
+Answer: `TUNIC`
 <pre>
 T A R E S
 T H I N K
 T O X I N
+T U N I C
 </pre>
 </details>
 
