@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 725 4/6*
+Wordle 726 X/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩⬛🟨🟨⬛ <br>
-🟩⬛⬛🟩🟨 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `TUNIC`
+Answer: `PRIED`
 <pre>
 T A R E S
-T H I N K
-T O X I N
-T U N I C
+U N D E R
+B R E E D
+D R I E D
+F R I E D
+C R I E D
 </pre>
 </details>
 
