@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 726 X/6*
+Wordle 727 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛🟨🟩🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛⬛🟩⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `PRIED`
+Answer: `INLAY`
 <pre>
 T A R E S
-U N D E R
-B R E E D
-D R I E D
-F R I E D
-C R I E D
+A L B U M
+L O C A L
+I N L A Y
 </pre>
 </details>
 
