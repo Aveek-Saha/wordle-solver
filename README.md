@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 727 4/6*
+Wordle 728 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
-🟨⬛⬛🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 727 4/6*
 
 <br> 
 
-Answer: `INLAY`
+Answer: `CHUMP`
 <pre>
 T A R E S
-A L B U M
-L O C A L
-I N L A Y
+W H I C H
+C H U N K
+C H U M P
 </pre>
 </details>
 
