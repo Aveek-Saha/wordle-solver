@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 728 4/6*
+Wordle 729 6/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 728 4/6*
 
 <br> 
 
-Answer: `CHUMP`
+Answer: `LANKY`
 <pre>
 T A R E S
-W H I C H
-C H U N K
-C H U M P
+J A P A N
+N A N C Y
+H A N D Y
+M A N L Y
+L A N K Y
 </pre>
 </details>
 
