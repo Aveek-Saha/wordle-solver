@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 729 6/6*
+Wordle 730 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟨🟩 <br>
+⬛⬛🟨🟨🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 729 6/6*
 
 <br> 
 
-Answer: `LANKY`
+Answer: `CRESS`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-H A N D Y
-M A N L Y
-L A N K Y
+P R E S S
+D R E S S
+C R E S S
 </pre>
 </details>
 
