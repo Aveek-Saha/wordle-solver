@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 730 4/6*
+Wordle 731 6/6*
 
-⬛⬛🟨🟨🟩 <br>
+🟨🟩🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 ⬛🟩🟩🟩🟩 <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
@@ -16,12 +18,14 @@ Wordle 730 4/6*
 
 <br> 
 
-Answer: `CRESS`
+Answer: `EATER`
 <pre>
 T A R E S
-P R E S S
-D R E S S
-C R E S S
+L A T E R
+W A T E R
+M A T E R
+C A T E R
+E A T E R
 </pre>
 </details>
 
