@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 731 6/6*
+Wordle 732 5/6*
 
-🟨🟩🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 731 6/6*
 
 <br> 
 
-Answer: `EATER`
+Answer: `ELUDE`
 <pre>
 T A R E S
-L A T E R
-W A T E R
-M A T E R
-C A T E R
-E A T E R
+B E I N G
+C H E C K
+P L U M E
+E L U D E
 </pre>
 </details>
 
