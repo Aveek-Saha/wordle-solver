@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 733 4/6*
+Wordle 734 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-🟩⬛🟨🟨⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 733 4/6*
 
 <br> 
 
-Answer: `CYCLE`
+Answer: `KITTY`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-C Y C L E
+U N T I L
+P I T C H
+K I T T Y
 </pre>
 </details>
 
