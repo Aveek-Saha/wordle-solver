@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 734 4/6*
+Wordle 735 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟨⬛⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 734 4/6*
 
 <br> 
 
-Answer: `KITTY`
+Answer: `BOULE`
 <pre>
 T A R E S
-U N T I L
-P I T C H
-K I T T Y
+B E I N G
+B O O Z E
+B O U L E
 </pre>
 </details>
 
