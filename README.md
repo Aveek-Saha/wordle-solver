@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 735 4/6*
+Wordle 736 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟨⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 735 4/6*
 
 <br> 
 
-Answer: `BOULE`
+Answer: `MORON`
 <pre>
 T A R E S
-B E I N G
-B O O Z E
-B O U L E
+W O R L D
+F O R U M
+M O R O N
 </pre>
 </details>
 
