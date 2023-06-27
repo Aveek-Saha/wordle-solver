@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 737 4/6*
+Wordle 738 3/6*
 
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩🟨 <br>
-🟩⬛🟩🟩⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 737 4/6*
 
 <br> 
 
-Answer: `TENET`
+Answer: `PLACE`
 <pre>
 T A R E S
-T O K E N
-T U N E D
-T E N E T
+E M A I L
+P L A C E
 </pre>
 </details>
 
