@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 738 3/6*
+Wordle 739 5/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 738 3/6*
 
 <br> 
 
-Answer: `PLACE`
+Answer: `LOBBY`
 <pre>
 T A R E S
-E M A I L
-P L A C E
+W H I C H
+F O U N D
+B O B B Y
+L O B B Y
 </pre>
 </details>
 
