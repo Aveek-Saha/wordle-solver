@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 739 5/6*
+Wordle 740 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +17,13 @@ Wordle 739 5/6*
 
 <br> 
 
-Answer: `LOBBY`
+Answer: `PLUSH`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O B B Y
-L O B B Y
+M U S I C
+S O U N D
+F L U S H
+P L U S H
 </pre>
 </details>
 
