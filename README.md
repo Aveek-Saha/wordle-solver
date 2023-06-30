@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 740 5/6*
+Wordle 741 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 740 5/6*
 
 <br> 
 
-Answer: `PLUSH`
+Answer: `VIGIL`
 <pre>
 T A R E S
-M U S I C
-S O U N D
-F L U S H
-P L U S H
+W H I C H
+L O G I N
+V I G I L
 </pre>
 </details>
 
