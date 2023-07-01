@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 741 4/6*
+Wordle 742 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛🟩🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 741 4/6*
 
 <br> 
 
-Answer: `VIGIL`
+Answer: `INDEX`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-V I G I L
+V I D E O
+I N D E X
 </pre>
 </details>
 
