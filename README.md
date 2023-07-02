@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 742 3/6*
+Wordle 743 5/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛🟨🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 742 3/6*
 
 <br> 
 
-Answer: `INDEX`
+Answer: `BLINK`
 <pre>
 T A R E S
-V I D E O
-I N D E X
+W H I C H
+U N I O N
+B L I N D
+B L I N K
 </pre>
 </details>
 
