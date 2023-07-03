@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 743 5/6*
+Wordle 744 5/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 743 5/6*
 
 <br> 
 
-Answer: `BLINK`
+Answer: `CLUNG`
 <pre>
 T A R E S
 W H I C H
-U N I O N
-B L I N D
-B L I N K
+C O U L D
+C L U M P
+C L U N G
 </pre>
 </details>
 
