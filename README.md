@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 744 5/6*
+Wordle 745 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟨⬛ <br>
-🟩⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 744 5/6*
 
 <br> 
 
-Answer: `CLUNG`
+Answer: `QUALM`
 <pre>
 T A R E S
-W H I C H
-C O U L D
-C L U M P
-C L U N G
+A L B U M
+Q U A L M
 </pre>
 </details>
 
