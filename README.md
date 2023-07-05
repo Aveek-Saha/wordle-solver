@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 745 3/6*
+Wordle 746 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛🟨🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 745 3/6*
 
 <br> 
 
-Answer: `QUALM`
+Answer: `CROUP`
 <pre>
 T A R E S
-A L B U M
-Q U A L M
+G R O U P
+C R O U P
 </pre>
 </details>
 
