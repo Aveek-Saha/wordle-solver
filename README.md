@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 746 3/6*
+Wordle 747 6/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 746 3/6*
 
 <br> 
 
-Answer: `CROUP`
+Answer: `CLINK`
 <pre>
 T A R E S
-G R O U P
-C R O U P
+W H I C H
+C L I F F
+C L I M B
+C L I N G
+C L I N K
 </pre>
 </details>
 
