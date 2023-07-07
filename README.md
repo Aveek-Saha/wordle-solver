@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 747 6/6*
+Wordle 748 4/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 747 6/6*
 
 <br> 
 
-Answer: `CLINK`
+Answer: `JUICY`
 <pre>
 T A R E S
 W H I C H
-C L I F F
-C L I M B
-C L I N G
-C L I N K
+C L I C K
+J U I C Y
 </pre>
 </details>
 
