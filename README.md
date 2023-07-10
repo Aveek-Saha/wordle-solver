@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 750 5/6*
+Wordle 751 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛⬛ <br>
-🟨⬛⬛⬛🟨 <br>
-🟨⬛🟨🟩⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 750 5/6*
 
 <br> 
 
-Answer: `DECAY`
+Answer: `NERVE`
 <pre>
 T A R E S
-E M A I L
-A B O V E
-C H E A P
-D E C A Y
+F O R C E
+N E R V E
 </pre>
 </details>
 
