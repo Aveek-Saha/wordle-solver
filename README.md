@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 751 3/6*
+Wordle 752 4/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 751 3/6*
 
 <br> 
 
-Answer: `NERVE`
+Answer: `FLIER`
 <pre>
 T A R E S
-F O R C E
-N E R V E
+U N D E R
+R I V E R
+F L I E R
 </pre>
 </details>
 
