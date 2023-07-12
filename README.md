@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 752 4/6*
+Wordle 753 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
+🟨🟨⬛⬛🟨 <br>
+🟩🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 752 4/6*
 
 <br> 
 
-Answer: `FLIER`
+Answer: `SHAFT`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-F L I E R
+S T A F F
+S H A F T
 </pre>
 </details>
 
