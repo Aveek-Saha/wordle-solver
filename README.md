@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 753 3/6*
+Wordle 754 4/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟨🟩🟩⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 753 3/6*
 
 <br> 
 
-Answer: `SHAFT`
+Answer: `CROOK`
 <pre>
 T A R E S
-S T A F F
-S H A F T
+G R O U P
+B R O W N
+C R O O K
 </pre>
 </details>
 
