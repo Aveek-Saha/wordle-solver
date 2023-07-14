@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 754 4/6*
+Wordle 755 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 754 4/6*
 
 <br> 
 
-Answer: `CROOK`
+Answer: `CLEAN`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O O K
+E M A I L
+A P P L E
+C L E A N
 </pre>
 </details>
 
