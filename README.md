@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 755 4/6*
+Wordle 756 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+🟨🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 755 4/6*
 
 <br> 
 
-Answer: `CLEAN`
+Answer: `CHINA`
 <pre>
 T A R E S
-E M A I L
-A P P L E
-C L E A N
+A L B U M
+I N D I A
+C H I N A
 </pre>
 </details>
 
