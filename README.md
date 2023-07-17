@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 757 4/6*
+Wordle 758 3/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-⬛🟨🟨⬛🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 757 4/6*
 
 <br> 
 
-Answer: `RIDGE`
+Answer: `VOWEL`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-R I D G E
+V I D E O
+V O W E L
 </pre>
 </details>
 
