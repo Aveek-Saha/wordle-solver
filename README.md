@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 758 3/6*
+Wordle 759 3/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 758 3/6*
 
 <br> 
 
-Answer: `VOWEL`
+Answer: `GNOME`
 <pre>
 T A R E S
-V I D E O
-V O W E L
+B E I N G
+G N O M E
 </pre>
 </details>
 
