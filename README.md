@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 760 4/6*
+Wordle 761 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 760 4/6*
 
 <br> 
 
-Answer: `SNUCK`
+Answer: `ICING`
 <pre>
 T A R E S
-M U S I C
-S C U L L
-S N U C K
+W H I C H
+C L I F F
+I C I N G
 </pre>
 </details>
 
