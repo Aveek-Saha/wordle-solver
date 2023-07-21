@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 761 4/6*
+Wordle 762 6/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+🟩⬛🟩⬛⬛ <br>
+🟩⬛🟩🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 761 4/6*
 
 <br> 
 
-Answer: `ICING`
+Answer: `SPINY`
 <pre>
 T A R E S
-W H I C H
-C L I F F
-I C I N G
+M U S I C
+S K I L L
+S W I N G
+S H I N Y
+S P I N Y
 </pre>
 </details>
 
