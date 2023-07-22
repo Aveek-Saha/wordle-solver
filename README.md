@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 762 6/6*
+Wordle 763 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨⬛ <br>
-🟩⬛🟩⬛⬛ <br>
-🟩⬛🟩🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+🟨🟨🟨⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 762 6/6*
 
 <br> 
 
-Answer: `SPINY`
+Answer: `RIGOR`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-S W I N G
-S H I N Y
-S P I N Y
+G R O U P
+V I G O R
+R I G O R
 </pre>
 </details>
 
