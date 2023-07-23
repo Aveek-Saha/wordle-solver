@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 763 4/6*
+Wordle 764 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 763 4/6*
 
 <br> 
 
-Answer: `RIGOR`
+Answer: `SNAIL`
 <pre>
 T A R E S
-G R O U P
-V I G O R
-R I G O R
+S M A L L
+S N A I L
 </pre>
 </details>
 
