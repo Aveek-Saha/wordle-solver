@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 764 3/6*
+Wordle 765 5/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 764 3/6*
 
 <br> 
 
-Answer: `SNAIL`
+Answer: `FLOWN`
 <pre>
 T A R E S
-S M A L L
-S N A I L
+W H I C H
+K N O W N
+B L O W N
+F L O W N
 </pre>
 </details>
 
