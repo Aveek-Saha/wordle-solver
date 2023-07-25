@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 765 5/6*
+Wordle 766 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 765 5/6*
 
 <br> 
 
-Answer: `FLOWN`
+Answer: `RABID`
 <pre>
 T A R E S
-W H I C H
-K N O W N
-B L O W N
-F L O W N
+M A J O R
+R A P I D
+R A B I D
 </pre>
 </details>
 
