@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 766 4/6*
+Wordle 767 3/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛🟨🟨🟨 <br>
+🟨⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 766 4/6*
 
 <br> 
 
-Answer: `RABID`
+Answer: `PROSE`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-R A B I D
+S C O R E
+P R O S E
 </pre>
 </details>
 
