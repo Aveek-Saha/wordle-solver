@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 767 3/6*
+Wordle 768 3/6*
 
-⬛⬛🟨🟨🟨 <br>
-🟨⬛🟩🟨🟩 <br>
+🟩🟨⬛⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 767 3/6*
 
 <br> 
 
-Answer: `PROSE`
+Answer: `THANK`
 <pre>
 T A R E S
-S C O R E
-P R O S E
+T O T A L
+T H A N K
 </pre>
 </details>
 
