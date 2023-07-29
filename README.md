@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 769 6/6*
+Wordle 770 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟨⬛⬛🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 769 6/6*
 
 <br> 
 
-Answer: `POPPY`
+Answer: `BUDGE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O B B Y
-M O L L Y
-P O P P Y
+B E I N G
+B U L G E
+B U D G E
 </pre>
 </details>
 
