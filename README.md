@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 770 4/6*
+Wordle 771 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟨⬛⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 770 4/6*
 
 <br> 
 
-Answer: `BUDGE`
+Answer: `FIBER`
 <pre>
 T A R E S
-B E I N G
-B U L G E
-B U D G E
+U N D E R
+R I V E R
+F I B E R
 </pre>
 </details>
 
