@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 771 4/6*
+Wordle 772 5/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 771 4/6*
 
 <br> 
 
-Answer: `FIBER`
+Answer: `MOLDY`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-F I B E R
+W H I C H
+F O U N D
+M O O D Y
+M O L D Y
 </pre>
 </details>
 
