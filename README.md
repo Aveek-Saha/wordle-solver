@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 772 5/6*
+Wordle 773 5/6*
 
 ⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 772 5/6*
 
 <br> 
 
-Answer: `MOLDY`
+Answer: `DOWDY`
 <pre>
 T A R E S
 W H I C H
-F O U N D
-M O O D Y
-M O L D Y
+K N O W N
+L O W L Y
+D O W D Y
 </pre>
 </details>
 
