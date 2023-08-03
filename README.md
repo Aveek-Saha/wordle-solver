@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 774 4/6*
+Wordle 775 2/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩⬛ <br>
-⬛⬛🟩🟩🟨 <br>
+🟩🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 774 4/6*
 
 <br> 
 
-Answer: `KNEEL`
+Answer: `TRACK`
 <pre>
 T A R E S
-V I D E O
-Q U E E N
-K N E E L
+T R A C K
 </pre>
 </details>
 
