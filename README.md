@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 775 2/6*
+Wordle 776 5/6*
 
-🟩🟨🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 775 2/6*
 
 <br> 
 
-Answer: `TRACK`
+Answer: `CADDY`
 <pre>
 T A R E S
-T R A C K
+J A P A N
+Y A H O O
+D A I L Y
+C A D D Y
 </pre>
 </details>
 
