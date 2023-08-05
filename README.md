@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 776 5/6*
+Wordle 777 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 776 5/6*
 
 <br> 
 
-Answer: `CADDY`
+Answer: `QUELL`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-C A D D Y
+B E I N G
+C H E C K
+Q U E U E
+Q U E L L
 </pre>
 </details>
 
