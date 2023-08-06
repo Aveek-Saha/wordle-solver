@@ -4,12 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 777 5/6*
+Wordle 778 6/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+⬛🟩🟨⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +18,14 @@ Wordle 777 5/6*
 
 <br> 
 
-Answer: `QUELL`
+Answer: `DUMPY`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-Q U E U E
-Q U E L L
+W H I C H
+F O U N D
+B U D D Y
+D U M M Y
+D U M P Y
 </pre>
 </details>
 
