@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 778 6/6*
+Wordle 779 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛🟨 <br>
-⬛🟩🟨⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟩🟨🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 778 6/6*
 
 <br> 
 
-Answer: `DUMPY`
+Answer: `PALER`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B U D D Y
-D U M M Y
-D U M P Y
+P A P E R
+P A G E R
+P A L E R
 </pre>
 </details>
 
