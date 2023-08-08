@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 779 4/6*
+Wordle 780 5/6*
 
-⬛🟩🟨🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛🟨🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 779 4/6*
 
 <br> 
 
-Answer: `PALER`
+Answer: `SWORE`
 <pre>
 T A R E S
-P A P E R
-P A G E R
-P A L E R
+S C O R E
+S H O R E
+S P O R E
+S W O R E
 </pre>
 </details>
 
