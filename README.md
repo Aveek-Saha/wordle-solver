@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 780 5/6*
+Wordle 781 4/6*
 
-⬛⬛🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨🟨⬛ <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 780 5/6*
 
 <br> 
 
-Answer: `SWORE`
+Answer: `REBAR`
 <pre>
 T A R E S
-S C O R E
-S H O R E
-S P O R E
-S W O R E
+L E A R N
+C E D A R
+R E B A R
 </pre>
 </details>
 
