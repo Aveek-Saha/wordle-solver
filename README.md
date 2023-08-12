@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 783 4/6*
+Wordle 784 6/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟨🟨⬛⬛ <br>
-🟩⬛⬛🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 783 4/6*
 
 <br> 
 
-Answer: `SPLAT`
+Answer: `FLYER`
 <pre>
 T A R E S
-S T A F F
-S Q U A T
-S P L A T
+U N D E R
+R I V E R
+P O W E R
+C Y B E R
+F L Y E R
 </pre>
 </details>
 
