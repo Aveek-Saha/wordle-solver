@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 784 6/6*
+Wordle 785 5/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 784 6/6*
 
 <br> 
 
-Answer: `FLYER`
+Answer: `HORNY`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-C Y B E R
-F L Y E R
+W O R L D
+F O R U M
+P O R N O
+H O R N Y
 </pre>
 </details>
 
