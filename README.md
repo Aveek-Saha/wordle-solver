@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 785 5/6*
+Wordle 786 3/6*
 
-⬛⬛🟩⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
 ⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 785 5/6*
 
 <br> 
 
-Answer: `HORNY`
+Answer: `MASON`
 <pre>
 T A R E S
-W O R L D
-F O R U M
-P O R N O
-H O R N Y
+B A S I C
+M A S O N
 </pre>
 </details>
 
