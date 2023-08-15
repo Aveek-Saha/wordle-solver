@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 786 3/6*
+Wordle 787 5/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 786 3/6*
 
 <br> 
 
-Answer: `MASON`
+Answer: `DOING`
 <pre>
 T A R E S
-B A S I C
-M A S O N
+W H I C H
+U N I O N
+G O I N G
+D O I N G
 </pre>
 </details>
 
