@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 787 5/6*
+Wordle 788 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟩⬛ <br>
+⬛⬛🟩🟩🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 787 5/6*
 
 <br> 
 
-Answer: `DOING`
+Answer: `OZONE`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-G O I N G
-D O I N G
+B E I N G
+P H O N E
+C L O N E
+O Z O N E
 </pre>
 </details>
 
