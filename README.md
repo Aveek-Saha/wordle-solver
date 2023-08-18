@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 789 3/6*
+Wordle 790 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟨🟨⬛ <br>
+🟨🟩⬛🟩🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 789 3/6*
 
 <br> 
 
-Answer: `AMPLY`
+Answer: `MOLAR`
 <pre>
 T A R E S
-A L B U M
-A M P L Y
+B O A R D
+R O Y A L
+P O L A R
+M O L A R
 </pre>
 </details>
 
