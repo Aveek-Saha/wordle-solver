@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 790 5/6*
+Wordle 791 3/6*
 
 ⬛🟨🟨⬛⬛ <br>
-⬛🟩🟨🟨⬛ <br>
-🟨🟩⬛🟩🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 790 5/6*
 
 <br> 
 
-Answer: `MOLAR`
+Answer: `OVARY`
 <pre>
 T A R E S
 B O A R D
-R O Y A L
-P O L A R
-M O L A R
+O V A R Y
 </pre>
 </details>
 
