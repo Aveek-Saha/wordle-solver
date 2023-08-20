@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 791 3/6*
+Wordle 792 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟨🟩🟩⬛ <br>
+🟨⬛⬛🟩🟨 <br>
+🟨🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 791 3/6*
 
 <br> 
 
-Answer: `OVARY`
+Answer: `BESET`
 <pre>
 T A R E S
-B O A R D
-O V A R Y
+S T E E L
+B E S E T
 </pre>
 </details>
 
