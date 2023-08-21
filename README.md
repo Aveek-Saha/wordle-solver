@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 792 3/6*
+Wordle 793 4/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟨🟨🟨🟩⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 792 3/6*
 
 <br> 
 
-Answer: `BESET`
+Answer: `QUEUE`
 <pre>
 T A R E S
-S T E E L
-B E S E T
+B E I N G
+C H E C K
+Q U E U E
 </pre>
 </details>
 
