@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 793 4/6*
+Wordle 794 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 793 4/6*
 
 <br> 
 
-Answer: `QUEUE`
+Answer: `CLIFF`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-Q U E U E
+W H I C H
+C L I F F
 </pre>
 </details>
 
