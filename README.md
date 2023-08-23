@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 794 3/6*
+Wordle 795 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 794 3/6*
 
 <br> 
 
-Answer: `CLIFF`
+Answer: `MAGIC`
 <pre>
 T A R E S
-W H I C H
-C L I F F
+J A P A N
+Y A H O O
+V A L I D
+M A G I C
 </pre>
 </details>
 
