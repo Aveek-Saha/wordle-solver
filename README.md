@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 795 5/6*
+Wordle 796 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟩⬛ <br>
+🟩⬛🟨🟨⬛ <br>
+🟩⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 795 5/6*
 
 <br> 
 
-Answer: `MAGIC`
+Answer: `TRUCE`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-V A L I D
-M A G I C
+T H E I R
+T R U C E
 </pre>
 </details>
 
