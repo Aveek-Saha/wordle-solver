@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 796 3/6*
+Wordle 797 4/6*
 
-🟩⬛🟨🟨⬛ <br>
-🟩⬛🟨⬛🟨 <br>
+🟨⬛🟨⬛🟨 <br>
+🟩🟨🟩🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 796 3/6*
 
 <br> 
 
-Answer: `TRUCE`
+Answer: `SPORT`
 <pre>
 T A R E S
-T H E I R
-T R U C E
+S T O R Y
+S H O R T
+S P O R T
 </pre>
 </details>
 
