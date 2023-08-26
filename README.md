@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 797 4/6*
+Wordle 798 4/6*
 
-🟨⬛🟨⬛🟨 <br>
-🟩🟨🟩🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛🟨⬛⬛ <br>
+🟨🟨⬛⬛🟨 <br>
+🟨⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 797 4/6*
 
 <br> 
 
-Answer: `SPORT`
+Answer: `FRITZ`
 <pre>
 T A R E S
-S T O R Y
-S H O R T
-S P O R T
+R I G H T
+I N T R O
+F R I T Z
 </pre>
 </details>
 
