@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 798 4/6*
+Wordle 799 3/6*
 
-🟨⬛🟨⬛⬛ <br>
-🟨🟨⬛⬛🟨 <br>
-🟨⬛🟨🟨⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 798 4/6*
 
 <br> 
 
-Answer: `FRITZ`
+Answer: `EDICT`
 <pre>
 T A R E S
-R I G H T
-I N T R O
-F R I T Z
+W H I T E
+E D I C T
 </pre>
 </details>
 
