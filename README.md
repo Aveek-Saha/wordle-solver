@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 799 3/6*
+Wordle 800 3/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟩🟨🟨 <br>
+🟩⬛🟨⬛⬛ <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 799 3/6*
 
 <br> 
 
-Answer: `EDICT`
+Answer: `TWIRL`
 <pre>
 T A R E S
-W H I T E
-E D I C T
+T H I R D
+T W I R L
 </pre>
 </details>
 
