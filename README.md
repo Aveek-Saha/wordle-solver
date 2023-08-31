@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 802 4/6*
+Wordle 803 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩⬛⬛🟨 <br>
+🟨🟩⬛🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 ⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -16,12 +16,12 @@ Wordle 802 4/6*
 
 <br> 
 
-Answer: `LLAMA`
+Answer: `EATEN`
 <pre>
 T A R E S
-A L B U M
-C L A M P
-L L A M A
+D A T E D
+L A T E X
+E A T E N
 </pre>
 </details>
 
