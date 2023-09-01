@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 803 4/6*
+Wordle 804 2/6*
 
-🟨🟩⬛🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 803 4/6*
 
 <br> 
 
-Answer: `EATEN`
+Answer: `RANGE`
 <pre>
 T A R E S
-D A T E D
-L A T E X
-E A T E N
+R A N G E
 </pre>
 </details>
 
