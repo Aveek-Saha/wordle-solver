@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 804 2/6*
+Wordle 805 4/6*
 
-⬛🟩🟨🟨⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 804 2/6*
 
 <br> 
 
-Answer: `RANGE`
+Answer: `WHISK`
 <pre>
 T A R E S
-R A N G E
+M U S I C
+S K I L L
+W H I S K
 </pre>
 </details>
 
