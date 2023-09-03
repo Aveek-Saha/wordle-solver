@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 805 4/6*
+Wordle 806 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨⬛ <br>
-🟨🟨🟩⬛⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+🟨⬛⬛🟩🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 805 4/6*
 
 <br> 
 
-Answer: `WHISK`
+Answer: `HOVEL`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-W H I S K
+V I D E O
+N O V E L
+H O V E L
 </pre>
 </details>
 
