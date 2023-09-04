@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 806 4/6*
+Wordle 807 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟨⬛⬛🟩🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨🟨⬛ <br>
+⬛🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 806 4/6*
 
 <br> 
 
-Answer: `HOVEL`
+Answer: `REHAB`
 <pre>
 T A R E S
-V I D E O
-N O V E L
-H O V E L
+L E A R N
+C E D A R
+R E H A B
 </pre>
 </details>
 
