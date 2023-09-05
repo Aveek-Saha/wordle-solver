@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 807 4/6*
+Wordle 808 6/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
-⬛🟩⬛🟩🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 807 4/6*
 
 <br> 
 
-Answer: `REHAB`
+Answer: `MACAW`
 <pre>
 T A R E S
-L E A R N
-C E D A R
-R E H A B
+J A P A N
+K A Y A K
+L A V A L
+M A D A M
+M A C A W
 </pre>
 </details>
 
