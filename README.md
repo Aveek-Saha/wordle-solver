@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 808 6/6*
+Wordle 809 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-🟩🟩⬛🟩⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 808 6/6*
 
 <br> 
 
-Answer: `MACAW`
+Answer: `SIGMA`
 <pre>
 T A R E S
-J A P A N
-K A Y A K
-L A V A L
-M A D A M
-M A C A W
+S M A L L
+S I G M A
 </pre>
 </details>
 
