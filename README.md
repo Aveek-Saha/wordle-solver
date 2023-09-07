@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 809 3/6*
+Wordle 810 6/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩🟨🟨⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨🟨🟨⬛ <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 809 3/6*
 
 <br> 
 
-Answer: `SIGMA`
+Answer: `SPOUT`
 <pre>
 T A R E S
-S M A L L
-S I G M A
+S O U T H
+S C O U T
+S N O U T
+S T O U T
+S P O U T
 </pre>
 </details>
 
