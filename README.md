@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 811 4/6*
+Wordle 812 3/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛⬛🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 811 4/6*
 
 <br> 
 
-Answer: `VERVE`
+Answer: `SUSHI`
 <pre>
 T A R E S
-F O R C E
-N E R V E
-V E R V E
+M U S I C
+S U S H I
 </pre>
 </details>
 
