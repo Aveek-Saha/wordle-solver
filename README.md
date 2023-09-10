@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 812 3/6*
+Wordle 813 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟩🟨⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 812 3/6*
 
 <br> 
 
-Answer: `SUSHI`
+Answer: `DYING`
 <pre>
 T A R E S
-M U S I C
-S U S H I
+W H I C H
+U N I O N
+B L I N D
+D Y I N G
 </pre>
 </details>
 
