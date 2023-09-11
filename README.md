@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 813 5/6*
+Wordle 814 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟨🟨🟨 <br>
+🟨🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 813 5/6*
 
 <br> 
 
-Answer: `DYING`
+Answer: `FETID`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-B L I N D
-D Y I N G
+W H I T E
+D E B I T
+F E T I D
 </pre>
 </details>
 
