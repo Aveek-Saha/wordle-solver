@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 814 4/6*
+Wordle 815 3/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟨🟨🟨 <br>
-🟨🟩⬛🟩🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 814 4/6*
 
 <br> 
 
-Answer: `FETID`
+Answer: `BRAIN`
 <pre>
 T A R E S
-W H I T E
-D E B I T
-F E T I D
+B O A R D
+B R A I N
 </pre>
 </details>
 
