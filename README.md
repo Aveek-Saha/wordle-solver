@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 815 3/6*
+Wordle 816 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟩⬛🟩🟨⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 815 3/6*
 
 <br> 
 
-Answer: `BRAIN`
+Answer: `BUDDY`
 <pre>
 T A R E S
-B O A R D
-B R A I N
+W H I C H
+F O U N D
+B U D D Y
 </pre>
 </details>
 
