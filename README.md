@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 817 4/6*
+Wordle 818 4/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 817 4/6*
 
 <br> 
 
-Answer: `THUMP`
+Answer: `SCION`
 <pre>
 T A R E S
-T H I N K
-T H U M B
-T H U M P
+M U S I C
+S P I C Y
+S C I O N
 </pre>
 </details>
 
