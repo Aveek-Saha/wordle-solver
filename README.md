@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 818 4/6*
+Wordle 819 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨🟨 <br>
-🟩⬛🟩🟨⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 818 4/6*
 
 <br> 
 
-Answer: `SCION`
+Answer: `CANDY`
 <pre>
 T A R E S
-M U S I C
-S P I C Y
-S C I O N
+J A P A N
+N A N C Y
+C A N D Y
 </pre>
 </details>
 
