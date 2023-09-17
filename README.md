@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 819 4/6*
+Wordle 820 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩🟨🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟨 <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 819 4/6*
 
 <br> 
 
-Answer: `CANDY`
+Answer: `CHORD`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-C A N D Y
+G R O U P
+F L O O R
+I V O R Y
+C H O R D
 </pre>
 </details>
 
