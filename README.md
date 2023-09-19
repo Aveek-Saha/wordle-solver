@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 821 3/6*
+Wordle 822 2/6*
 
-⬛🟩⬛⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 821 3/6*
 
 <br> 
 
-Answer: `BASIN`
+Answer: `MARCH`
 <pre>
 T A R E S
-B A S I C
-B A S I N
+M A R C H
 </pre>
 </details>
 
