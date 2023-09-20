@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 822 2/6*
+Wordle 823 4/6*
 
+⬛⬛🟨⬛⬛ <br>
 ⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 822 2/6*
 
 <br> 
 
-Answer: `MARCH`
+Answer: `CROWD`
 <pre>
 T A R E S
-M A R C H
+G R O U P
+B R O W N
+C R O W D
 </pre>
 </details>
 
