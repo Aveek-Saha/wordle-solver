@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 823 4/6*
+Wordle 824 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+🟨🟨🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 823 4/6*
 
 <br> 
 
-Answer: `CROWD`
+Answer: `ARBOR`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O W D
+B O A R D
+A R B O R
 </pre>
 </details>
 
