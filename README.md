@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 824 3/6*
+Wordle 825 6/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟨🟨🟨🟨⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 824 3/6*
 
 <br> 
 
-Answer: `ARBOR`
+Answer: `GAYLY`
 <pre>
 T A R E S
-B O A R D
-A R B O R
+J A P A N
+Y A H O O
+D A I L Y
+W A L L Y
+G A Y L Y
 </pre>
 </details>
 
