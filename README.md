@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 825 6/6*
+Wordle 826 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 825 6/6*
 
 <br> 
 
-Answer: `GAYLY`
+Answer: `MUSKY`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-W A L L Y
-G A Y L Y
+M U S I C
+M U S H Y
+M U S K Y
 </pre>
 </details>
 
