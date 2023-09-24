@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 826 4/6*
+Wordle 827 4/6*
 
-⬛⬛⬛⬛🟨 <br>
+🟨🟨⬛⬛🟨 <br>
 🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 826 4/6*
 
 <br> 
 
-Answer: `MUSKY`
+Answer: `STAIN`
 <pre>
 T A R E S
-M U S I C
-M U S H Y
-M U S K Y
+S T A F F
+S T A N D
+S T A I N
 </pre>
 </details>
 
