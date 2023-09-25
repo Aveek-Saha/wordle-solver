@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 827 4/6*
+Wordle 828 5/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟨⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 827 4/6*
 
 <br> 
 
-Answer: `STAIN`
+Answer: `DALLY`
 <pre>
 T A R E S
-S T A F F
-S T A N D
-S T A I N
+J A P A N
+Y A H O O
+D A I L Y
+D A L L Y
 </pre>
 </details>
 
