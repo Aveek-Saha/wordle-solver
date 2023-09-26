@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 828 5/6*
+Wordle 829 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨🟩 <br>
+⬛🟨⬛⬛🟩 <br>
+⬛⬛🟩⬛🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 828 5/6*
 
 <br> 
 
-Answer: `DALLY`
+Answer: `BLESS`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-D A L L Y
+G E N U S
+V I E W S
+C H E S S
+B L E S S
 </pre>
 </details>
 
