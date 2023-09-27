@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 829 5/6*
+Wordle 830 3/6*
 
-⬛⬛⬛🟨🟩 <br>
-⬛🟨⬛⬛🟩 <br>
-⬛⬛🟩⬛🟩 <br>
-⬛⬛🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩🟨🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 829 5/6*
 
 <br> 
 
-Answer: `BLESS`
+Answer: `BRAVO`
 <pre>
 T A R E S
-G E N U S
-V I E W S
-C H E S S
-B L E S S
+B O A R D
+B R A V O
 </pre>
 </details>
 
