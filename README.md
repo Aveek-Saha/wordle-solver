@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 830 3/6*
+Wordle 831 X/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟩🟨🟩🟨⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BRAVO`
+Answer: `STUNG`
 <pre>
 T A R E S
-B O A R D
-B R A V O
+S O U T H
+S T U D Y
+S T U F F
+S T U C K
+S T U N T
 </pre>
 </details>
 
