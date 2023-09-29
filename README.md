@@ -4,28 +4,20 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 831 X/6*
+Wordle 832 2/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `STUNG`
+Answer: `TITLE`
 <pre>
 T A R E S
-S O U T H
-S T U D Y
-S T U F F
-S T U C K
-S T U N T
+T I T L E
 </pre>
 </details>
 
