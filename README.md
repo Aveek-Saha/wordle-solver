@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 832 2/6*
+Wordle 833 4/6*
 
-🟩⬛⬛🟨⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 832 2/6*
 
 <br> 
 
-Answer: `TITLE`
+Answer: `RULER`
 <pre>
 T A R E S
-T I T L E
+U N D E R
+B U Y E R
+R U L E R
 </pre>
 </details>
 
