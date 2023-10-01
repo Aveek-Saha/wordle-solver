@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 833 4/6*
+Wordle 834 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟨⬛⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 833 4/6*
 
 <br> 
 
-Answer: `RULER`
+Answer: `KIOSK`
 <pre>
 T A R E S
-U N D E R
-B U Y E R
-R U L E R
+M U S I C
+S K I L L
+K I O S K
 </pre>
 </details>
 
