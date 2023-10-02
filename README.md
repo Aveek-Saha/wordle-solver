@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 834 4/6*
+Wordle 835 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨⬛ <br>
-🟨🟨🟨⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 834 4/6*
 
 <br> 
 
-Answer: `KIOSK`
+Answer: `BLOND`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-K I O S K
+W H I C H
+F O U N D
+B L O N D
 </pre>
 </details>
 
