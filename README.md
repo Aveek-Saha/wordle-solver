@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 835 4/6*
+Wordle 836 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟨⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 835 4/6*
 
 <br> 
 
-Answer: `BLOND`
+Answer: `ENNUI`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B L O N D
+B E I N G
+I N D I E
+E N N U I
 </pre>
 </details>
 
