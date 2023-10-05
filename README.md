@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 837 3/6*
+Wordle 838 4/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 837 3/6*
 
 <br> 
 
-Answer: `LAYER`
+Answer: `FLUID`
 <pre>
 T A R E S
-P A P E R
-L A Y E R
+W H I C H
+L O G I N
+F L U I D
 </pre>
 </details>
 
