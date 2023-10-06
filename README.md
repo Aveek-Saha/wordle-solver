@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 838 4/6*
+Wordle 839 X/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟩⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `FLUID`
+Answer: `TATTY`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-F L U I D
+T A L U K
+T A N G O
+T A M M Y
+T A B B Y
+T A F F Y
 </pre>
 </details>
 
