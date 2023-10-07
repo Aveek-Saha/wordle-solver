@@ -4,28 +4,20 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 839 X/6*
+Wordle 840 2/6*
 
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛🟨🟨🟨 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `TATTY`
+Answer: `SCORE`
 <pre>
 T A R E S
-T A L U K
-T A N G O
-T A M M Y
-T A B B Y
-T A F F Y
+S C O R E
 </pre>
 </details>
 
