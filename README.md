@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 840 2/6*
+Wordle 841 3/6*
 
-⬛⬛🟨🟨🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟨🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 840 2/6*
 
 <br> 
 
-Answer: `SCORE`
+Answer: `CUTIE`
 <pre>
 T A R E S
-S C O R E
+W H I T E
+C U T I E
 </pre>
 </details>
 
