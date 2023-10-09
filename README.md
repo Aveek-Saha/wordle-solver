@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 841 3/6*
+Wordle 842 3/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟨🟨🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 841 3/6*
 
 <br> 
 
-Answer: `CUTIE`
+Answer: `ZEBRA`
 <pre>
 T A R E S
-W H I T E
-C U T I E
+L E A R N
+Z E B R A
 </pre>
 </details>
 
