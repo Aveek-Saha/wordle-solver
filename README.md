@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 842 3/6*
+Wordle 843 3/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟨🟩⬛ <br>
+⬛🟩🟩🟨⬛ <br>
+🟨🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 842 3/6*
 
 <br> 
 
-Answer: `ZEBRA`
+Answer: `BARGE`
 <pre>
 T A R E S
-L E A R N
-Z E B R A
+E A R L Y
+B A R G E
 </pre>
 </details>
 
