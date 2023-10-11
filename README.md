@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 843 3/6*
+Wordle 844 5/6*
 
-⬛🟩🟩🟨⬛ <br>
-🟨🟩🟩⬛⬛ <br>
+🟨🟩⬛🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 843 3/6*
 
 <br> 
 
-Answer: `BARGE`
+Answer: `MATEY`
 <pre>
 T A R E S
-E A R L Y
-B A R G E
+D A T E D
+L A T E X
+E A T E N
+M A T E Y
 </pre>
 </details>
 
