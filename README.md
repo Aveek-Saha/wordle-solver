@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 844 5/6*
+Wordle 845 4/6*
 
-🟨🟩⬛🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛🟩🟩 <br>
+🟩🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 844 5/6*
 
 <br> 
 
-Answer: `MATEY`
+Answer: `BLUER`
 <pre>
 T A R E S
-D A T E D
-L A T E X
-E A T E N
-M A T E Y
+U N D E R
+B U Y E R
+B L U E R
 </pre>
 </details>
 
