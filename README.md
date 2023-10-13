@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 845 4/6*
+Wordle 846 5/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟨⬛⬛🟩🟩 <br>
-🟩🟨⬛🟩🟩 <br>
+⬛🟨🟨🟩⬛ <br>
+🟩🟨⬛🟩🟨 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 845 4/6*
 
 <br> 
 
-Answer: `BLUER`
+Answer: `AIDER`
 <pre>
 T A R E S
-U N D E R
-B U Y E R
-B L U E R
+A R M E D
+A L D E R
+A D D E R
+A I D E R
 </pre>
 </details>
 
