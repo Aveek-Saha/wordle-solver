@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 846 5/6*
+Wordle 847 4/6*
 
-⬛🟨🟨🟩⬛ <br>
-🟩🟨⬛🟩🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 846 5/6*
 
 <br> 
 
-Answer: `AIDER`
+Answer: `SHOOK`
 <pre>
 T A R E S
-A R M E D
-A L D E R
-A D D E R
-A I D E R
+M U S I C
+S H O W N
+S H O O K
 </pre>
 </details>
 
