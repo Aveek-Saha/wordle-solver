@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 847 4/6*
+Wordle 848 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 847 4/6*
 
 <br> 
 
-Answer: `SHOOK`
+Answer: `RIVER`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S H O O K
+U N D E R
+R I V E R
 </pre>
 </details>
 
