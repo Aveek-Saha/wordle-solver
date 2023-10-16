@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 848 3/6*
+Wordle 849 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 848 3/6*
 
 <br> 
 
-Answer: `RIVER`
+Answer: `PRIVY`
 <pre>
 T A R E S
-U N D E R
-R I V E R
+G R O U P
+P R I V Y
 </pre>
 </details>
 
