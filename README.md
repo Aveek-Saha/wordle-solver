@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 849 3/6*
+Wordle 850 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
+🟨⬛⬛🟩⬛ <br>
+⬛⬛🟩🟩🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 849 3/6*
 
 <br> 
 
-Answer: `PRIVY`
+Answer: `BETEL`
 <pre>
 T A R E S
-G R O U P
-P R I V Y
+H O T E L
+I N T E L
+B E T E L
 </pre>
 </details>
 
