@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 850 4/6*
+Wordle 851 5/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛⬛🟩🟩🟩 <br>
-⬛⬛🟩🟩🟩 <br>
+⬛⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 850 4/6*
 
 <br> 
 
-Answer: `BETEL`
+Answer: `FRISK`
 <pre>
 T A R E S
-H O T E L
-I N T E L
-B E T E L
+S W O R D
+B R U S H
+C R I S P
+F R I S K
 </pre>
 </details>
 
