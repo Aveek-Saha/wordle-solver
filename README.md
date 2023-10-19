@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 851 5/6*
+Wordle 852 5/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 851 5/6*
 
 <br> 
 
-Answer: `FRISK`
+Answer: `BONGO`
 <pre>
 T A R E S
-S W O R D
-B R U S H
-C R I S P
-F R I S K
+W H I C H
+F O U N D
+L O G O N
+B O N G O
 </pre>
 </details>
 
