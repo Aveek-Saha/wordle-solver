@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 852 5/6*
+Wordle 853 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-⬛🟩🟨🟨🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 852 5/6*
 
 <br> 
 
-Answer: `BONGO`
+Answer: `BEGUN`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-L O G O N
-B O N G O
+B E I N G
+B E G U N
 </pre>
 </details>
 
