@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 853 3/6*
+Wordle 854 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟩⬛🟨🟨 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 853 3/6*
 
 <br> 
 
-Answer: `BEGUN`
+Answer: `AZURE`
 <pre>
 T A R E S
-B E I N G
-B E G U N
+L E A R N
+O P E R A
+A Z U R E
 </pre>
 </details>
 
