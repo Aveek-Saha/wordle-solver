@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 854 4/6*
+Wordle 855 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟩⬛ <br>
-⬛⬛🟨🟩🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 854 4/6*
 
 <br> 
 
-Answer: `AZURE`
+Answer: `WEAVE`
 <pre>
 T A R E S
-L E A R N
-O P E R A
-A Z U R E
+E M A I L
+B E A C H
+W E A V E
 </pre>
 </details>
 
