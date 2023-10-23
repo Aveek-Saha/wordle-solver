@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 855 4/6*
+Wordle 856 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 855 4/6*
 
 <br> 
 
-Answer: `WEAVE`
+Answer: `GENIE`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-W E A V E
+B E I N G
+G E N I E
 </pre>
 </details>
 
