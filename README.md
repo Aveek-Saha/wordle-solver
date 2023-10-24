@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 856 3/6*
+Wordle 857 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩🟨🟨🟨 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 856 3/6*
 
 <br> 
 
-Answer: `GENIE`
+Answer: `SOUND`
 <pre>
 T A R E S
-B E I N G
-G E N I E
+M U S I C
+S O U N D
 </pre>
 </details>
 
