@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 857 3/6*
+Wordle 858 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+⬛⬛⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 857 3/6*
 
 <br> 
 
-Answer: `SOUND`
+Answer: `GLOVE`
 <pre>
 T A R E S
-M U S I C
-S O U N D
+B E I N G
+J U D G E
+G L O V E
 </pre>
 </details>
 
