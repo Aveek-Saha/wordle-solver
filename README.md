@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 859 4/6*
+Wordle 860 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟩⬛🟩🟨🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟨⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 859 4/6*
 
 <br> 
 
-Answer: `BRAID`
+Answer: `SCOPE`
 <pre>
 T A R E S
-B O A R D
-B R A N D
-B R A I D
+H O U S E
+S C O P E
 </pre>
 </details>
 
