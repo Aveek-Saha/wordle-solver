@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 860 3/6*
+Wordle 861 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟨⬛🟨🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 860 3/6*
 
 <br> 
 
-Answer: `SCOPE`
+Answer: `WRYLY`
 <pre>
 T A R E S
-H O U S E
-S C O P E
+G R O U P
+D R I N K
+W R Y L Y
 </pre>
 </details>
 
