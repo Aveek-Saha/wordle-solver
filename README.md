@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 862 4/6*
+Wordle 863 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟨⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 862 4/6*
 
 <br> 
 
-Answer: `ROVER`
+Answer: `ASSAY`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-R O V E R
+S M A L L
+A S S A Y
 </pre>
 </details>
 
