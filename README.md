@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 863 3/6*
+Wordle 864 4/6*
 
-⬛🟨⬛⬛🟨 <br>
+⬛🟨⬛🟨⬛ <br>
 🟨⬛🟨⬛⬛ <br>
+🟨⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 863 3/6*
 
 <br> 
 
-Answer: `ASSAY`
+Answer: `OCEAN`
 <pre>
 T A R E S
-S M A L L
-A S S A Y
+E M A I L
+A B O V E
+O C E A N
 </pre>
 </details>
 
