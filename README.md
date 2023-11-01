@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 864 4/6*
+Wordle 865 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛⬛ <br>
-🟨⬛🟨⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 864 4/6*
 
 <br> 
 
-Answer: `OCEAN`
+Answer: `BLOOM`
 <pre>
 T A R E S
-E M A I L
-A B O V E
-O C E A N
+W H I C H
+F O U N D
+B L O O M
 </pre>
 </details>
 
