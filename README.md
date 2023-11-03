@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 866 4/6*
+Wordle 867 2/6*
 
-🟨🟨🟨🟨⬛ <br>
-⬛🟩🟨🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 866 4/6*
 
 <br> 
 
-Answer: `IRATE`
+Answer: `LATER`
 <pre>
 T A R E S
-G R E A T
-C R A T E
-I R A T E
+L A T E R
 </pre>
 </details>
 
