@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 868 4/6*
+Wordle 869 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+🟩🟨🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 868 4/6*
 
 <br> 
 
-Answer: `WOKEN`
+Answer: `SILKY`
 <pre>
 T A R E S
-V I D E O
-W O M E N
-W O K E N
+M U S I C
+S K I L L
+S I L K Y
 </pre>
 </details>
 
