@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 869 4/6*
+Wordle 870 3/6*
 
-⬛⬛⬛⬛🟨 <br>
 ⬛⬛🟨🟨⬛ <br>
-🟩🟨🟨🟨⬛ <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 869 4/6*
 
 <br> 
 
-Answer: `SILKY`
+Answer: `WRECK`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-S I L K Y
+W H E R E
+W R E C K
 </pre>
 </details>
 
