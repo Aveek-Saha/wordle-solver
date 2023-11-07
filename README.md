@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 870 3/6*
+Wordle 871 3/6*
 
-⬛⬛🟨🟨⬛ <br>
-🟩⬛🟩🟨⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 870 3/6*
 
 <br> 
 
-Answer: `WRECK`
+Answer: `DWELT`
 <pre>
 T A R E S
-W H E R E
-W R E C K
+W H I T E
+D W E L T
 </pre>
 </details>
 
