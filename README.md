@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 872 4/6*
+Wordle 873 4/6*
 
-🟨🟨⬛🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 872 4/6*
 
 <br> 
 
-Answer: `SLATE`
+Answer: `SMACK`
 <pre>
 T A R E S
-S T A T E
-S K A T E
-S L A T E
+S M A L L
+S M A S H
+S M A C K
 </pre>
 </details>
 
