@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 874 3/6*
+Wordle 875 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟩⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 874 3/6*
 
 <br> 
 
-Answer: `SOLID`
+Answer: `AMAZE`
 <pre>
 T A R E S
-M U S I C
-S O L I D
+E M A I L
+A M A Z E
 </pre>
 </details>
 
