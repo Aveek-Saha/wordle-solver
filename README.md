@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 875 3/6*
+Wordle 876 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨🟩🟩⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 875 3/6*
 
 <br> 
 
-Answer: `AMAZE`
+Answer: `HAZEL`
 <pre>
 T A R E S
-E M A I L
-A M A Z E
+N A M E D
+L A B E L
+H A Z E L
 </pre>
 </details>
 
