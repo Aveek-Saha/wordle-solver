@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 877 3/6*
+Wordle 878 6/6*
 
-🟨⬛🟨⬛🟨 <br>
-🟨🟨⬛🟨⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 877 3/6*
 
 <br> 
 
-Answer: `WRIST`
+Answer: `JOLLY`
 <pre>
 T A R E S
-S T O R Y
-W R I S T
+W H I C H
+F O U N D
+B O B B Y
+M O L L Y
+J O L L Y
 </pre>
 </details>
 
