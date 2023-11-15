@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 878 6/6*
+Wordle 879 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+🟨🟨⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 878 6/6*
 
 <br> 
 
-Answer: `JOLLY`
+Answer: `GLOBE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O B B Y
-M O L L Y
-J O L L Y
+B E I N G
+G L O B E
 </pre>
 </details>
 
