@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 879 3/6*
+Wordle 880 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟨🟨⬛⬛🟨 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 879 3/6*
 
 <br> 
 
-Answer: `GLOBE`
+Answer: `FLINT`
 <pre>
 T A R E S
-B E I N G
-G L O B E
+U N T I L
+F L I N T
 </pre>
 </details>
 
