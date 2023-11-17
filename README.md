@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 880 3/6*
+Wordle 881 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛🟨🟨🟨🟨 <br>
+⬛⬛🟨🟨🟨 <br>
+🟨⬛🟨🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 880 3/6*
 
 <br> 
 
-Answer: `FLINT`
+Answer: `ROUSE`
 <pre>
 T A R E S
-U N T I L
-F L I N T
+S C O R E
+R O U S E
 </pre>
 </details>
 
