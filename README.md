@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 881 3/6*
+Wordle 882 3/6*
 
-⬛⬛🟨🟨🟨 <br>
-🟨⬛🟨🟨🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 881 3/6*
 
 <br> 
 
-Answer: `ROUSE`
+Answer: `CIVIL`
 <pre>
 T A R E S
-S C O R E
-R O U S E
+W H I C H
+C I V I L
 </pre>
 </details>
 
