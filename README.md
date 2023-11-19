@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 882 3/6*
+Wordle 883 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
+🟨🟨⬛⬛🟨 <br>
+🟨🟨🟨⬛⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 882 3/6*
 
 <br> 
 
-Answer: `CIVIL`
+Answer: `VISTA`
 <pre>
 T A R E S
-W H I C H
-C I V I L
+S T A F F
+C O S T A
+V I S T A
 </pre>
 </details>
 
