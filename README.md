@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 884 4/6*
+Wordle 885 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-🟨🟩🟨🟨⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 884 4/6*
 
 <br> 
 
-Answer: `RELAX`
+Answer: `COVER`
 <pre>
 T A R E S
-L E A R N
-R E L A Y
-R E L A X
+U N D E R
+R I V E R
+C O V E R
 </pre>
 </details>
 
