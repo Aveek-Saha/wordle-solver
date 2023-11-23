@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 886 3/6*
+Wordle 887 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨🟨🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 886 3/6*
 
 <br> 
 
-Answer: `ALIVE`
+Answer: `BEECH`
 <pre>
 T A R E S
-E M A I L
-A L I V E
+B E I N G
+B E L O W
+B E E C H
 </pre>
 </details>
 
