@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 887 4/6*
+Wordle 888 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+🟨⬛⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 887 4/6*
 
 <br> 
 
-Answer: `BEECH`
+Answer: `JETTY`
 <pre>
 T A R E S
-B E I N G
-B E L O W
-B E E C H
+W H I T E
+E M P T Y
+B E T T Y
+J E T T Y
 </pre>
 </details>
 
