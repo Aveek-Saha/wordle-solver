@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 888 5/6*
+Wordle 889 4/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-🟨⬛⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛🟩 <br>
+🟩⬛⬛⬛🟩 <br>
+🟩🟨🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 888 5/6*
 
 <br> 
 
-Answer: `JETTY`
+Answer: `BLISS`
 <pre>
 T A R E S
-W H I T E
-E M P T Y
-B E T T Y
-J E T T Y
+B O O K S
+B I L L S
+B L I S S
 </pre>
 </details>
 
