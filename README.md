@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 889 4/6*
+Wordle 890 4/6*
 
-⬛⬛⬛⬛🟩 <br>
-🟩⬛⬛⬛🟩 <br>
-🟩🟨🟨⬛🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 889 4/6*
 
 <br> 
 
-Answer: `BLISS`
+Answer: `VOCAL`
 <pre>
 T A R E S
-B O O K S
-B I L L S
-B L I S S
+A L B U M
+L O C A L
+V O C A L
 </pre>
 </details>
 
