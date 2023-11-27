@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 890 4/6*
+Wordle 891 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟩⬛ <br>
+⬛🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 890 4/6*
 
 <br> 
 
-Answer: `VOCAL`
+Answer: `OFTEN`
 <pre>
 T A R E S
-A L B U M
-L O C A L
-V O C A L
+H O T E L
+O F T E N
 </pre>
 </details>
 
