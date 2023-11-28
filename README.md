@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 891 3/6*
+Wordle 892 5/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛🟨🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 891 3/6*
 
 <br> 
 
-Answer: `OFTEN`
+Answer: `DOLLY`
 <pre>
 T A R E S
-H O T E L
-O F T E N
+W H I C H
+F O U N D
+M O O D Y
+D O L L Y
 </pre>
 </details>
 
