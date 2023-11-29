@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 892 5/6*
+Wordle 893 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩⬛🟨🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 892 5/6*
 
 <br> 
 
-Answer: `DOLLY`
+Answer: `EIGHT`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-M O O D Y
-D O L L Y
+W H I T E
+E I G H T
 </pre>
 </details>
 
