@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 895 3/6*
+Wordle 896 3/6*
 
+🟨⬛⬛🟨⬛ <br>
 ⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 895 3/6*
 
 <br> 
 
-Answer: `SINCE`
+Answer: `EVENT`
 <pre>
 T A R E S
-H O U S E
-S I N C E
+W H I T E
+E V E N T
 </pre>
 </details>
 
