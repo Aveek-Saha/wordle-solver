@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 896 3/6*
+Wordle 897 4/6*
 
-🟨⬛⬛🟨⬛ <br>
 ⬛⬛⬛🟨🟨 <br>
+⬛⬛🟨🟨🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 896 3/6*
 
 <br> 
 
-Answer: `EVENT`
+Answer: `ENSUE`
 <pre>
 T A R E S
-W H I T E
-E V E N T
+H O U S E
+I S S U E
+E N S U E
 </pre>
 </details>
 
