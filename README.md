@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 897 4/6*
+Wordle 898 3/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛🟨🟨🟩 <br>
-⬛⬛🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 897 4/6*
 
 <br> 
 
-Answer: `ENSUE`
+Answer: `SHUNT`
 <pre>
 T A R E S
-H O U S E
-I S S U E
-E N S U E
+S O U T H
+S H U N T
 </pre>
 </details>
 
