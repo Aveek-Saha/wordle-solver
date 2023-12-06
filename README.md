@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 899 4/6*
+Wordle 900 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛🟨🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨🟩🟨 <br>
+🟨⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 899 4/6*
 
 <br> 
 
-Answer: `DIVER`
+Answer: `POSER`
 <pre>
 T A R E S
-U N D E R
-D O V E R
-D I V E R
+S U P E R
+P O S E R
 </pre>
 </details>
 
