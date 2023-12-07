@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 900 3/6*
+Wordle 901 3/6*
 
-⬛⬛🟨🟩🟨 <br>
-🟨⬛🟨🟩🟩 <br>
+🟨⬛🟩⬛🟨 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 900 3/6*
 
 <br> 
 
-Answer: `POSER`
+Answer: `WORST`
 <pre>
 T A R E S
-S U P E R
-P O S E R
+F I R S T
+W O R S T
 </pre>
 </details>
 
