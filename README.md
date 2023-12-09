@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 902 6/6*
+Wordle 903 4/6*
 
-⬛⬛⬛🟩🟨 <br>
-🟩🟨⬛🟩⬛ <br>
-🟩🟨🟩🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 902 6/6*
 
 <br> 
 
-Answer: `SWEEP`
+Answer: `ALLEY`
 <pre>
 T A R E S
-S E V E N
-S P E E D
-S L E E P
-S H E E P
-S W E E P
+A D D E D
+A N G E L
+A L L E Y
 </pre>
 </details>
 
