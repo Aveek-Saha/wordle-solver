@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 903 4/6*
+Wordle 904 4/6*
 
-⬛🟨⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 903 4/6*
 
 <br> 
 
-Answer: `ALLEY`
+Answer: `CREED`
 <pre>
 T A R E S
-A D D E D
-A N G E L
-A L L E Y
+U N D E R
+B R E E D
+C R E E D
 </pre>
 </details>
 
