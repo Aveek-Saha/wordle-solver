@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 906 4/6*
+Wordle 907 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
-⬛🟨🟩⬛🟨 <br>
+⬛⬛⬛⬛🟨 <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 906 4/6*
 
 <br> 
 
-Answer: `LEAFY`
+Answer: `BOSOM`
 <pre>
 T A R E S
-E M A I L
-P L A C E
-L E A F Y
+M U S I C
+B O S O M
 </pre>
 </details>
 
