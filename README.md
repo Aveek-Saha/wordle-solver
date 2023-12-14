@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 907 3/6*
+Wordle 908 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-🟨⬛🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 907 3/6*
 
 <br> 
 
-Answer: `BOSOM`
+Answer: `DUNCE`
 <pre>
 T A R E S
-M U S I C
-B O S O M
+B E I N G
+E N J O Y
+D U N C E
 </pre>
 </details>
 
