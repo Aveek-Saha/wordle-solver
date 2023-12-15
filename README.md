@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 908 4/6*
+Wordle 909 2/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛🟨⬛ <br>
-🟨🟨⬛⬛⬛ <br>
+🟨🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 908 4/6*
 
 <br> 
 
-Answer: `DUNCE`
+Answer: `STARE`
 <pre>
 T A R E S
-B E I N G
-E N J O Y
-D U N C E
+S T A R E
 </pre>
 </details>
 
