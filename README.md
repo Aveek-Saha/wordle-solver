@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 909 2/6*
+Wordle 910 5/6*
 
-🟨🟨🟨🟨🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 909 2/6*
 
 <br> 
 
-Answer: `STARE`
+Answer: `PUDGY`
 <pre>
 T A R E S
-S T A R E
+W H I C H
+F O U N D
+B U D D Y
+P U D G Y
 </pre>
 </details>
 
