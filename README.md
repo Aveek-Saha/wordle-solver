@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 911 4/6*
+Wordle 912 4/6*
 
-⬛🟩⬛🟨⬛ <br>
-🟨🟩⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 911 4/6*
 
 <br> 
 
-Answer: `WAIVE`
+Answer: `CHOIR`
 <pre>
 T A R E S
-V A L U E
-N A I V E
-W A I V E
+G R O U P
+F L O O R
+C H O I R
 </pre>
 </details>
 
