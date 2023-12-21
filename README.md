@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 914 4/6*
+Wordle 915 5/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟨⬛🟨🟩 <br>
-🟩⬛🟩🟨🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 914 4/6*
 
 <br> 
 
-Answer: `SPOKE`
+Answer: `OUTGO`
 <pre>
 T A R E S
-H O U S E
-S C O P E
-S P O K E
+U N T I L
+D U T C H
+P U T T Y
+O U T G O
 </pre>
 </details>
 
