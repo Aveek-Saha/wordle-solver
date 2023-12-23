@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 916 5/6*
+Wordle 917 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨🟨 <br>
-⬛🟨🟨🟩⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 916 5/6*
 
 <br> 
 
-Answer: `DELAY`
+Answer: `BILGE`
 <pre>
 T A R E S
-E M A I L
-A P P L E
-C L E A N
-D E L A Y
+B E I N G
+B I L G E
 </pre>
 </details>
 
