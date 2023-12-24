@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 917 3/6*
+Wordle 918 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟨🟨⬛🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 917 3/6*
 
 <br> 
 
-Answer: `BILGE`
+Answer: `IDEAL`
 <pre>
 T A R E S
-B E I N G
-B I L G E
+E M A I L
+I D E A L
 </pre>
 </details>
 
