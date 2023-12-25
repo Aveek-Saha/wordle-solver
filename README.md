@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 918 3/6*
+Wordle 919 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨🟨🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟨⬛🟩🟨⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 918 3/6*
 
 <br> 
 
-Answer: `IDEAL`
+Answer: `CLASP`
 <pre>
 T A R E S
-E M A I L
-I D E A L
+S M A L L
+F L A S H
+C L A S P
 </pre>
 </details>
 
