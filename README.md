@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 919 4/6*
+Wordle 920 6/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟨⬛🟩🟨⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨⬛⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 919 4/6*
 
 <br> 
 
-Answer: `CLASP`
+Answer: `SEIZE`
 <pre>
 T A R E S
-S M A L L
-F L A S H
-C L A S P
+H O U S E
+S I N C E
+S L I D E
+S P I K E
+S E I Z E
 </pre>
 </details>
 
