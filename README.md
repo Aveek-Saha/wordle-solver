@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 920 6/6*
+Wordle 921 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟨⬛⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛🟨 <br>
+🟨🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 920 6/6*
 
 <br> 
 
-Answer: `SEIZE`
+Answer: `HOTLY`
 <pre>
 T A R E S
-H O U S E
-S I N C E
-S L I D E
-S P I K E
-S E I Z E
+U N T I L
+L O T T O
+H O T L Y
 </pre>
 </details>
 
