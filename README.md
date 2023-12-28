@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 921 4/6*
+Wordle 922 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛🟨 <br>
-🟨🟩🟩⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 921 4/6*
 
 <br> 
 
-Answer: `HOTLY`
+Answer: `LAUGH`
 <pre>
 T A R E S
-U N T I L
-L O T T O
-H O T L Y
+J A P A N
+Y A H O O
+L A U G H
 </pre>
 </details>
 
