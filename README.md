@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 922 4/6*
+Wordle 923 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 922 4/6*
 
 <br> 
 
-Answer: `LAUGH`
+Answer: `SIEVE`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-L A U G H
+H O U S E
+S I N C E
+S I E G E
+S I E V E
 </pre>
 </details>
 
