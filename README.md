@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 923 5/6*
+Wordle 924 3/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 923 5/6*
 
 <br> 
 
-Answer: `SIEVE`
+Answer: `BLOCK`
 <pre>
 T A R E S
-H O U S E
-S I N C E
-S I E G E
-S I E V E
+W H I C H
+B L O C K
 </pre>
 </details>
 
