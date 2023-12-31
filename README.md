@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 924 3/6*
+Wordle 925 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩⬛ <br>
+🟨🟨⬛🟨⬛ <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 924 3/6*
 
 <br> 
 
-Answer: `BLOCK`
+Answer: `MEANT`
 <pre>
 T A R E S
-W H I C H
-B L O C K
+D E A T H
+M E A N T
 </pre>
 </details>
 
