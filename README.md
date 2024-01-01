@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 925 3/6*
+Wordle 926 6/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟩🟩🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 925 3/6*
 
 <br> 
 
-Answer: `MEANT`
+Answer: `GRAPE`
 <pre>
 T A R E S
-D E A T H
-M E A N T
+L E A R N
+G R A D E
+G R A C E
+G R A V E
+G R A P E
 </pre>
 </details>
 
