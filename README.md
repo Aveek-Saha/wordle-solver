@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 926 6/6*
+Wordle 927 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 926 6/6*
 
 <br> 
 
-Answer: `GRAPE`
+Answer: `NOOSE`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-G R A C E
-G R A V E
-G R A P E
+H O U S E
+N O I S E
+N O O S E
 </pre>
 </details>
 
