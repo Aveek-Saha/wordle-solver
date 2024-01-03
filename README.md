@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 927 4/6*
+Wordle 928 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 927 4/6*
 
 <br> 
 
-Answer: `NOOSE`
+Answer: `HARDY`
 <pre>
 T A R E S
-H O U S E
-N O I S E
-N O O S E
+M A R C H
+H A R R Y
+H A R D Y
 </pre>
 </details>
 
