@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 928 4/6*
+Wordle 929 6/6*
 
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟩🟨 <br>
+🟩⬛⬛🟩⬛ <br>
+🟩🟨⬛🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 928 4/6*
 
 <br> 
 
-Answer: `HARDY`
+Answer: `SHIED`
 <pre>
 T A R E S
-M A R C H
-H A R R Y
-H A R D Y
+S E V E N
+S I Z E D
+S P I E D
+S K I E D
+S H I E D
 </pre>
 </details>
 
