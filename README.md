@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 929 6/6*
+Wordle 930 5/6*
 
-⬛⬛⬛🟩🟨 <br>
-🟩⬛⬛🟩⬛ <br>
-🟩🟨⬛🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 929 6/6*
 
 <br> 
 
-Answer: `SHIED`
+Answer: `DRAWL`
 <pre>
 T A R E S
-S E V E N
-S I Z E D
-S P I E D
-S K I E D
-S H I E D
+B O A R D
+D R A M A
+D R A W N
+D R A W L
 </pre>
 </details>
 
