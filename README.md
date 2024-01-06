@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 930 5/6*
+Wordle 931 3/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟨🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 930 5/6*
 
 <br> 
 
-Answer: `DRAWL`
+Answer: `DAISY`
 <pre>
 T A R E S
-B O A R D
-D R A M A
-D R A W N
-D R A W L
+B A S I C
+D A I S Y
 </pre>
 </details>
 
