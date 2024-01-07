@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 931 3/6*
+Wordle 932 4/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟨🟨⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 931 3/6*
 
 <br> 
 
-Answer: `DAISY`
+Answer: `PUTTY`
 <pre>
 T A R E S
-B A S I C
-D A I S Y
+U N T I L
+D U T C H
+P U T T Y
 </pre>
 </details>
 
