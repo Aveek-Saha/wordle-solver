@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 932 4/6*
+Wordle 933 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+🟨⬛🟩⬛🟨 <br>
+⬛⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 932 4/6*
 
 <br> 
 
-Answer: `PUTTY`
+Answer: `STRUT`
 <pre>
 T A R E S
-U N T I L
-D U T C H
-P U T T Y
+F I R S T
+S T R U T
 </pre>
 </details>
 
