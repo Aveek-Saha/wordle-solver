@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 934 3/6*
+Wordle 935 4/6*
 
-🟨⬛🟩⬛⬛ <br>
-🟨⬛🟩🟨⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩⬛🟨⬛⬛ <br>
+🟩⬛🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 934 3/6*
 
 <br> 
 
-Answer: `BURNT`
+Answer: `TULIP`
 <pre>
 T A R E S
-N O R T H
-B U R N T
+T H I N K
+T O P I C
+T U L I P
 </pre>
 </details>
 
