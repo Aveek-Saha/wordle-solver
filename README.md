@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 935 4/6*
+Wordle 936 5/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩⬛🟨⬛⬛ <br>
-🟩⬛🟨🟩⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 935 4/6*
 
 <br> 
 
-Answer: `TULIP`
+Answer: `CRICK`
 <pre>
 T A R E S
-T H I N K
-T O P I C
-T U L I P
+G R O U P
+D R I N K
+B R I C K
+C R I C K
 </pre>
 </details>
 
