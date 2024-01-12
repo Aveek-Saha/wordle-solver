@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 936 5/6*
+Wordle 937 5/6*
 
+⬛⬛⬛⬛⬛ <br>
 ⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟨🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 936 5/6*
 
 <br> 
 
-Answer: `CRICK`
+Answer: `IDYLL`
 <pre>
 T A R E S
-G R O U P
-D R I N K
-B R I C K
-C R I C K
+W H I C H
+L O G I N
+B I L L Y
+I D Y L L
 </pre>
 </details>
 
