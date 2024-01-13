@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 937 5/6*
+Wordle 938 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟨🟨🟩🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 937 5/6*
 
 <br> 
 
-Answer: `IDYLL`
+Answer: `VIXEN`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-B I L L Y
-I D Y L L
+V I D E O
+V I X E N
 </pre>
 </details>
 
