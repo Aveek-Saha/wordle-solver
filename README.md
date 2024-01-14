@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 938 3/6*
+Wordle 939 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟩🟩⬛🟩⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 938 3/6*
 
 <br> 
 
-Answer: `VIXEN`
+Answer: `FUROR`
 <pre>
 T A R E S
-V I D E O
-V I X E N
+W O R L D
+J U R O R
+F U R O R
 </pre>
 </details>
 
