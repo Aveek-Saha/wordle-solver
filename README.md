@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 939 4/6*
+Wordle 940 4/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 939 4/6*
 
 <br> 
 
-Answer: `FUROR`
+Answer: `GEEKY`
 <pre>
 T A R E S
-W O R L D
-J U R O R
-F U R O R
+B E I N G
+G E C K O
+G E E K Y
 </pre>
 </details>
 
