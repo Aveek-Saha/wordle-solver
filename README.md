@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 940 4/6*
+Wordle 941 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 940 4/6*
 
 <br> 
 
-Answer: `GEEKY`
+Answer: `COUGH`
 <pre>
 T A R E S
-B E I N G
-G E C K O
-G E E K Y
+W H I C H
+C O U G H
 </pre>
 </details>
 
