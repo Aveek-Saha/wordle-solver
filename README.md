@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 941 3/6*
+Wordle 942 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟨🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+🟨🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 941 3/6*
 
 <br> 
 
-Answer: `COUGH`
+Answer: `NAIVE`
 <pre>
 T A R E S
-W H I C H
-C O U G H
+V A L U E
+N A I V E
 </pre>
 </details>
 
