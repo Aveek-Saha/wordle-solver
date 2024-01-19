@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 943 3/6*
+Wordle 944 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟨⬛🟩 <br>
+🟨⬛🟨⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 943 3/6*
 
 <br> 
 
-Answer: `SHOAL`
+Answer: `STORK`
 <pre>
 T A R E S
-S M A L L
-S H O A L
+S T O R Y
+S T O R M
+S T O R K
 </pre>
 </details>
 
