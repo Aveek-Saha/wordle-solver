@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 945 4/6*
+Wordle 946 3/6*
 
-🟨🟩⬛🟨⬛ <br>
-🟨🟩⬛🟨🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨🟨⬛⬛⬛ <br>
+🟩⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 945 4/6*
 
 <br> 
 
-Answer: `BATHE`
+Answer: `AUNTY`
 <pre>
 T A R E S
-H A U T E
-L A T H E
-B A T H E
+A B O U T
+A U N T Y
 </pre>
 </details>
 
