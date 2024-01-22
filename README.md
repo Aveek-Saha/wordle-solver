@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 946 3/6*
+Wordle 947 3/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟩⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 946 3/6*
 
 <br> 
 
-Answer: `AUNTY`
+Answer: `CHECK`
 <pre>
 T A R E S
-A B O U T
-A U N T Y
+B E I N G
+C H E C K
 </pre>
 </details>
 
