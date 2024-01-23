@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 947 3/6*
+Wordle 948 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 947 3/6*
 
 <br> 
 
-Answer: `CHECK`
+Answer: `PRIME`
 <pre>
 T A R E S
-B E I N G
-C H E C K
+W H E R E
+P R I C E
+P R I M E
 </pre>
 </details>
 
