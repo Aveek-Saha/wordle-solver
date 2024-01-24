@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 948 4/6*
+Wordle 949 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛🟨🟨⬛🟩 <br>
+🟨⬛🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 948 4/6*
 
 <br> 
 
-Answer: `PRIME`
+Answer: `BRASS`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-P R I M E
+R O A D S
+G R A S S
+B R A S S
 </pre>
 </details>
 
