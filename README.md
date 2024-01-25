@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 949 4/6*
+Wordle 950 3/6*
 
-⬛🟨🟨⬛🟩 <br>
-🟨⬛🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+🟩🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 949 4/6*
 
 <br> 
 
-Answer: `BRASS`
+Answer: `OUTER`
 <pre>
 T A R E S
-R O A D S
-G R A S S
-B R A S S
+O T H E R
+O U T E R
 </pre>
 </details>
 
