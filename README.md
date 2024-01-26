@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 950 3/6*
+Wordle 951 5/6*
 
-🟨⬛🟨🟩⬛ <br>
-🟩🟨⬛🟩🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 950 3/6*
 
 <br> 
 
-Answer: `OUTER`
+Answer: `FURRY`
 <pre>
 T A R E S
-O T H E R
-O U T E R
+W O R L D
+C U R R Y
+H U R R Y
+F U R R Y
 </pre>
 </details>
 
