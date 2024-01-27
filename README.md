@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 951 5/6*
+Wordle 952 5/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 951 5/6*
 
 <br> 
 
-Answer: `FURRY`
+Answer: `RAZOR`
 <pre>
 T A R E S
-W O R L D
-C U R R Y
-H U R R Y
-F U R R Y
+M A J O R
+L A B O R
+F A V O R
+R A Z O R
 </pre>
 </details>
 
