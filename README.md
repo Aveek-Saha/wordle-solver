@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 952 5/6*
+Wordle 953 4/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 952 5/6*
 
 <br> 
 
-Answer: `RAZOR`
+Answer: `ELECT`
 <pre>
 T A R E S
-M A J O R
-L A B O R
-F A V O R
-R A Z O R
+W H I T E
+E V E N T
+E L E C T
 </pre>
 </details>
 
