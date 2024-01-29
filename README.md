@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 953 4/6*
+Wordle 954 4/6*
 
 🟨⬛⬛🟨⬛ <br>
-⬛⬛⬛🟨🟨 <br>
-🟩⬛🟩⬛🟩 <br>
+⬛⬛🟩🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 953 4/6*
 
 <br> 
 
-Answer: `ELECT`
+Answer: `EVICT`
 <pre>
 T A R E S
 W H I T E
-E V E N T
-E L E C T
+E D I C T
+E V I C T
 </pre>
 </details>
 
