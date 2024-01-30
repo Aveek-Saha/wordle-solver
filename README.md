@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 954 4/6*
+Wordle 955 5/6*
 
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
 🟨⬛⬛🟨⬛ <br>
-⬛⬛🟩🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 954 4/6*
 
 <br> 
 
-Answer: `EVICT`
+Answer: `IMPLY`
 <pre>
 T A R E S
-W H I T E
-E D I C T
-E V I C T
+W H I C H
+L O G I N
+B I L L Y
+I M P L Y
 </pre>
 </details>
 
