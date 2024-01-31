@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 955 5/6*
+Wordle 956 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟨⬛🟩🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 955 5/6*
 
 <br> 
 
-Answer: `IMPLY`
+Answer: `DEMUR`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-B I L L Y
-I M P L Y
+W H E R E
+R E P L Y
+D E C O R
+D E M U R
 </pre>
 </details>
 
