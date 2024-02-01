@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 956 5/6*
+Wordle 957 3/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+🟨🟨⬛⬛⬛ <br>
+🟨⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 956 5/6*
 
 <br> 
 
-Answer: `DEMUR`
+Answer: `QUOTA`
 <pre>
 T A R E S
-W H E R E
-R E P L Y
-D E C O R
-D E M U R
+A B O U T
+Q U O T A
 </pre>
 </details>
 
