@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 957 3/6*
+Wordle 958 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟨⬛🟩🟨🟨 <br>
+⬛🟩⬛🟩⬛ <br>
+🟨🟩⬛🟩⬛ <br>
+⬛🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 957 3/6*
 
 <br> 
 
-Answer: `QUOTA`
+Answer: `HAVEN`
 <pre>
 T A R E S
-A B O U T
-Q U O T A
+N A M E D
+P A N E L
+H A V E N
 </pre>
 </details>
 
