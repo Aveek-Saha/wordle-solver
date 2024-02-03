@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 958 4/6*
+Wordle 959 5/6*
 
-⬛🟩⬛🟩⬛ <br>
-🟨🟩⬛🟩⬛ <br>
-⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 958 4/6*
 
 <br> 
 
-Answer: `HAVEN`
+Answer: `CAVIL`
 <pre>
 T A R E S
-N A M E D
-P A N E L
-H A V E N
+J A P A N
+Y A H O O
+V A L I D
+C A V I L
 </pre>
 </details>
 
