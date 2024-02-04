@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 959 5/6*
+Wordle 960 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩🟨🟩⬛ <br>
+⬛🟨🟨🟨🟨 <br>
+🟩⬛🟨🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 959 5/6*
 
 <br> 
 
-Answer: `CAVIL`
+Answer: `SWEAR`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-V A L I D
-C A V I L
+S H A R E
+S P E A R
+S W E A R
 </pre>
 </details>
 
