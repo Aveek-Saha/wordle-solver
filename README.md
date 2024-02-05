@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 960 4/6*
+Wordle 961 3/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟩⬛🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 960 4/6*
 
 <br> 
 
-Answer: `SWEAR`
+Answer: `CRUMP`
 <pre>
 T A R E S
-S H A R E
-S P E A R
-S W E A R
+G R O U P
+C R U M P
 </pre>
 </details>
 
