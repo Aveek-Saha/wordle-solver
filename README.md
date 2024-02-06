@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 961 3/6*
+Wordle 962 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛🟨🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 961 3/6*
 
 <br> 
 
-Answer: `CRUMP`
+Answer: `DOUGH`
 <pre>
 T A R E S
-G R O U P
-C R U M P
+W H I C H
+D O U G H
 </pre>
 </details>
 
