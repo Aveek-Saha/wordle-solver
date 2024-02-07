@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 962 3/6*
+Wordle 963 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛🟩 <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 962 3/6*
 
 <br> 
 
-Answer: `DOUGH`
+Answer: `GAVEL`
 <pre>
 T A R E S
-W H I C H
-D O U G H
+N A M E D
+L A B E L
+H A Z E L
+G A V E L
 </pre>
 </details>
 
