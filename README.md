@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 964 4/6*
+Wordle 965 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 964 4/6*
 
 <br> 
 
-Answer: `WAGON`
+Answer: `SALON`
 <pre>
 T A R E S
-J A P A N
-C A N O N
-W A G O N
+B A S I C
+S A N D Y
+S A L O N
 </pre>
 </details>
 
