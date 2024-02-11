@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 966 4/6*
+Wordle 967 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛🟨🟨 <br>
-🟨🟨⬛⬛🟩 <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 966 4/6*
 
 <br> 
 
-Answer: `NUDGE`
+Answer: `HAREM`
 <pre>
 T A R E S
-B E I N G
-G N O M E
-N U D G E
+C A R E D
+W A R E Z
+H A R E M
 </pre>
 </details>
 
