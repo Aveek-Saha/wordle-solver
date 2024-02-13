@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 968 3/6*
+Wordle 969 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 968 3/6*
 
 <br> 
 
-Answer: `PITCH`
+Answer: `SWORN`
 <pre>
 T A R E S
-U N T I L
-P I T C H
+S W O R D
+S W O R N
 </pre>
 </details>
 
