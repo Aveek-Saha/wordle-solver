@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 969 3/6*
+Wordle 970 5/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛⬛🟩⬛ <br>
+⬛🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 969 3/6*
 
 <br> 
 
-Answer: `SWORN`
+Answer: `PUPIL`
 <pre>
 T A R E S
-S W O R D
-S W O R N
+W H I C H
+L O G I N
+F L U I D
+P U P I L
 </pre>
 </details>
 
