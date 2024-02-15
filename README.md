@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 970 5/6*
+Wordle 971 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟩⬛ <br>
-⬛🟨🟨🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 970 5/6*
 
 <br> 
 
-Answer: `PUPIL`
+Answer: `EXCEL`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-F L U I D
-P U P I L
+V I D E O
+Q U E E N
+E X C E L
 </pre>
 </details>
 
