@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 971 4/6*
+Wordle 972 5/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨⬛🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 971 4/6*
 
 <br> 
 
-Answer: `EXCEL`
+Answer: `STONY`
 <pre>
 T A R E S
-V I D E O
-Q U E E N
-E X C E L
+S O U T H
+S T O C K
+S T O O D
+S T O N Y
 </pre>
 </details>
 
