@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 973 4/6*
+Wordle 974 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 973 4/6*
 
 <br> 
 
-Answer: `CABIN`
+Answer: `UNZIP`
 <pre>
 T A R E S
-J A P A N
-C A N O N
-C A B I N
+W H I C H
+L O G I N
+U N Z I P
 </pre>
 </details>
 
