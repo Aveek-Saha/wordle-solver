@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 974 4/6*
+Wordle 975 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛⬛⬛🟩🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 974 4/6*
 
 <br> 
 
-Answer: `UNZIP`
+Answer: `QUEEN`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-U N Z I P
+V I D E O
+Q U E E N
 </pre>
 </details>
 
