@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 975 3/6*
+Wordle 976 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩⬛ <br>
+🟩⬛🟨⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 975 3/6*
 
 <br> 
 
-Answer: `QUEEN`
+Answer: `TROUT`
 <pre>
 T A R E S
-V I D E O
-Q U E E N
+T H I R D
+T R U C K
+T R O U T
 </pre>
 </details>
 
