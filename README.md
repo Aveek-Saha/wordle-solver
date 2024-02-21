@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 976 4/6*
+Wordle 977 5/6*
 
-🟩⬛🟨⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟩🟨⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 976 4/6*
 
 <br> 
 
-Answer: `TROUT`
+Answer: `POLYP`
 <pre>
 T A R E S
-T H I R D
-T R U C K
-T R O U T
+W H I C H
+F O U N D
+B O B B Y
+P O L Y P
 </pre>
 </details>
 
