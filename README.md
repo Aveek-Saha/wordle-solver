@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 977 5/6*
+Wordle 978 2/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
+🟨🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 977 5/6*
 
 <br> 
 
-Answer: `POLYP`
+Answer: `EARTH`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B O B B Y
-P O L Y P
+E A R T H
 </pre>
 </details>
 
