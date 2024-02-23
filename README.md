@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 978 2/6*
+Wordle 979 3/6*
 
-🟨🟩🟩🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 978 2/6*
 
 <br> 
 
-Answer: `EARTH`
+Answer: `STORM`
 <pre>
 T A R E S
-E A R T H
+S T O R Y
+S T O R M
 </pre>
 </details>
 
