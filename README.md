@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 979 3/6*
+Wordle 980 2/6*
 
-🟨⬛🟨⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+🟨⬛⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 979 3/6*
 
 <br> 
 
-Answer: `STORM`
+Answer: `UNTIL`
 <pre>
 T A R E S
-S T O R Y
-S T O R M
+U N T I L
 </pre>
 </details>
 
