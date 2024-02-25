@@ -4,9 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 980 2/6*
+Wordle 981 2/6*
 
-🟨⬛⬛⬛⬛ <br>
+🟩🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +14,10 @@ Wordle 980 2/6*
 
 <br> 
 
-Answer: `UNTIL`
+Answer: `TAPER`
 <pre>
 T A R E S
-U N T I L
+T A P E R
 </pre>
 </details>
 
