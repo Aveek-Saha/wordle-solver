@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 981 2/6*
+Wordle 982 4/6*
 
-🟩🟩🟨🟩⬛ <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟨⬛🟩🟩 <br>
+⬛🟨🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 981 2/6*
 
 <br> 
 
-Answer: `TAPER`
+Answer: `ENTER`
 <pre>
 T A R E S
-T A P E R
+O T H E R
+P E T E R
+E N T E R
 </pre>
 </details>
 
