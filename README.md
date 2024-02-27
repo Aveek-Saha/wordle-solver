@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 982 4/6*
+Wordle 983 3/6*
 
-🟨⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟩 <br>
-⬛🟨🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 982 4/6*
 
 <br> 
 
-Answer: `ENTER`
+Answer: `CHILD`
 <pre>
 T A R E S
-O T H E R
-P E T E R
-E N T E R
+W H I C H
+C H I L D
 </pre>
 </details>
 
