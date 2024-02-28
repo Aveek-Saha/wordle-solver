@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 983 3/6*
+Wordle 984 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛🟩🟩🟨⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟩⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 983 3/6*
 
 <br> 
 
-Answer: `CHILD`
+Answer: `ADOPT`
 <pre>
 T A R E S
-W H I C H
-C H I L D
+A B O U T
+A D O P T
 </pre>
 </details>
 
