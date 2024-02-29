@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 984 3/6*
+Wordle 985 4/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟩⬛🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 984 3/6*
 
 <br> 
 
-Answer: `ADOPT`
+Answer: `MINOR`
 <pre>
 T A R E S
-A B O U T
-A D O P T
+G R O U P
+C O L O R
+M I N O R
 </pre>
 </details>
 
