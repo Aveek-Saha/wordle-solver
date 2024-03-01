@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 985 4/6*
+Wordle 986 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 985 4/6*
 
 <br> 
 
-Answer: `MINOR`
+Answer: `FATTY`
 <pre>
 T A R E S
-G R O U P
-C O L O R
-M I N O R
+M A T C H
+F A T A L
+F A T T Y
 </pre>
 </details>
 
