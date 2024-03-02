@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 986 4/6*
+Wordle 987 3/6*
 
-🟨🟩⬛⬛⬛ <br>
+⬛⬛⬛⬛🟨 <br>
 ⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 986 4/6*
 
 <br> 
 
-Answer: `FATTY`
+Answer: `HUSKY`
 <pre>
 T A R E S
-M A T C H
-F A T A L
-F A T T Y
+M U S I C
+H U S K Y
 </pre>
 </details>
 
