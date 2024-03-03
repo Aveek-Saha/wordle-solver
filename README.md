@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 987 3/6*
+Wordle 988 6/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟩⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 987 3/6*
 
 <br> 
 
-Answer: `HUSKY`
+Answer: `BRAVE`
 <pre>
 T A R E S
-M U S I C
-H U S K Y
+L E A R N
+G R A D E
+F R A M E
+B R A K E
+B R A V E
 </pre>
 </details>
 
