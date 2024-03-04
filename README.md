@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 988 6/6*
+Wordle 989 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟨⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩🟨 <br>
+🟩🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 988 6/6*
 
 <br> 
 
-Answer: `BRAVE`
+Answer: `FILET`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-F R A M E
-B R A K E
-B R A V E
+H O T E L
+F L E E T
+F I L E T
 </pre>
 </details>
 
