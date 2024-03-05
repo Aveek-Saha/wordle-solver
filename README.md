@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 989 4/6*
+Wordle 990 5/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩🟨 <br>
-🟩🟨⬛🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨⬛⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 989 4/6*
 
 <br> 
 
-Answer: `FILET`
+Answer: `SLIME`
 <pre>
 T A R E S
-H O T E L
-F L E E T
-F I L E T
+H O U S E
+S I N C E
+S L I D E
+S L I M E
 </pre>
 </details>
 
