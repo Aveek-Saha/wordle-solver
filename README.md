@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 991 5/6*
+Wordle 992 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛🟨🟨🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟩🟨🟨🟨⬛ <br>
+🟩🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 991 5/6*
 
 <br> 
 
-Answer: `GLINT`
+Answer: `TREAD`
 <pre>
 T A R E S
-U N T I L
-F L I N T
-C L I N T
-G L I N T
+T R A D E
+T R E A D
 </pre>
 </details>
 
