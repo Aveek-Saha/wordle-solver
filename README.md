@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 993 4/6*
+Wordle 994 4/6*
 
-🟨🟨⬛🟨🟨 <br>
-🟩🟩🟨⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟩🟨🟨⬛ <br>
+🟩🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 993 4/6*
 
 <br> 
 
-Answer: `STEAL`
+Answer: `REGAL`
 <pre>
 T A R E S
-S T A T E
-S T E A M
-S T E A L
+L E A R N
+R E L A Y
+R E G A L
 </pre>
 </details>
 
