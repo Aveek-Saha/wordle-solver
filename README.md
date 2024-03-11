@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 995 3/6*
+Wordle 996 3/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟨🟨⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟩🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 995 3/6*
 
 <br> 
 
-Answer: `GUEST`
+Answer: `EVERY`
 <pre>
 T A R E S
-S T Y L E
-G U E S T
+W H E R E
+E V E R Y
 </pre>
 </details>
 
