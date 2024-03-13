@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 997 4/6*
+Wordle 998 2/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 997 4/6*
 
 <br> 
 
-Answer: `MURKY`
+Answer: `SHARE`
 <pre>
 T A R E S
-W O R L D
-C U R R Y
-M U R K Y
+S H A R E
 </pre>
 </details>
 
