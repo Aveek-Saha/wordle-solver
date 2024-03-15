@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 999 4/6*
+Wordle 1000 3/6*
 
-⬛⬛🟨🟨🟨 <br>
-🟩⬛🟩🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 999 4/6*
 
 <br> 
 
-Answer: `SPORE`
+Answer: `HOIST`
 <pre>
 T A R E S
-S C O R E
-S H O R E
-S P O R E
+S O U T H
+H O I S T
 </pre>
 </details>
 
