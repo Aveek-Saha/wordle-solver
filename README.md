@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1000 3/6*
+Wordle 1001 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨🟩⬛🟨🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1000 3/6*
 
 <br> 
 
-Answer: `HOIST`
+Answer: `BUXOM`
 <pre>
 T A R E S
-S O U T H
-H O I S T
+W H I C H
+F O U N D
+J U M B O
+B U X O M
 </pre>
 </details>
 
