@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1001 5/6*
+Wordle 1002 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟨🟨🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1001 5/6*
 
 <br> 
 
-Answer: `BUXOM`
+Answer: `INNER`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-J U M B O
-B U X O M
+U N D E R
+I N N E R
 </pre>
 </details>
 
