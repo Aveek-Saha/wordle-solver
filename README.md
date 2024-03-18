@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1002 3/6*
+Wordle 1003 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1002 3/6*
 
 <br> 
 
-Answer: `INNER`
+Answer: `OTTER`
 <pre>
 T A R E S
-U N D E R
-I N N E R
+O T H E R
+O T T E R
 </pre>
 </details>
 
