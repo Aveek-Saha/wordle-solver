@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1004 5/6*
+Wordle 1005 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+🟨⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1004 5/6*
 
 <br> 
 
-Answer: `DIMLY`
+Answer: `LEVEL`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-B I L L Y
-D I M L Y
+V I D E O
+L E V E L
 </pre>
 </details>
 
