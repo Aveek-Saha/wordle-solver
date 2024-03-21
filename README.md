@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1005 3/6*
+Wordle 1006 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟨⬛⬛🟩⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩🟨🟨⬛⬛ <br>
+🟩⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1005 3/6*
 
 <br> 
 
-Answer: `LEVEL`
+Answer: `SUMAC`
 <pre>
 T A R E S
-V I D E O
-L E V E L
+S M A L L
+S I G M A
+S U M A C
 </pre>
 </details>
 
