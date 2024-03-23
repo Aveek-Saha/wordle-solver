@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1007 4/6*
+Wordle 1008 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
-⬛🟩🟨🟨🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1007 4/6*
 
 <br> 
 
-Answer: `DONUT`
+Answer: `STILT`
 <pre>
 T A R E S
-U N T I L
-M O U N T
-D O N U T
+S O U T H
+S T I L L
+S T I L T
 </pre>
 </details>
 
