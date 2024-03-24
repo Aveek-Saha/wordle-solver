@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1008 4/6*
+Wordle 1009 3/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1008 4/6*
 
 <br> 
 
-Answer: `STILT`
+Answer: `ARENA`
 <pre>
 T A R E S
-S O U T H
-S T I L L
-S T I L T
+L E A R N
+A R E N A
 </pre>
 </details>
 
