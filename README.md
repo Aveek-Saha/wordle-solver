@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1009 3/6*
+Wordle 1010 3/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨🟨 <br>
+🟨⬛⬛🟩🟨 <br>
+🟩🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1009 3/6*
 
 <br> 
 
-Answer: `ARENA`
+Answer: `SHEET`
 <pre>
 T A R E S
-L E A R N
-A R E N A
+S T E E L
+S H E E T
 </pre>
 </details>
 
