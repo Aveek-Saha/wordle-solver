@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1010 3/6*
+Wordle 1011 4/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟩🟨🟩🟩⬛ <br>
+⬛⬛🟩⬛🟨 <br>
+🟩⬛🟩⬛⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1010 3/6*
 
 <br> 
 
-Answer: `SHEET`
+Answer: `SCRUB`
 <pre>
 T A R E S
-S T E E L
-S H E E T
+S O R R Y
+S H R U B
+S C R U B
 </pre>
 </details>
 
