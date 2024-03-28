@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1012 4/6*
+Wordle 1013 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+🟨⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1012 4/6*
 
 <br> 
 
-Answer: `FANCY`
+Answer: `SLIMY`
 <pre>
 T A R E S
-J A P A N
-N A N C Y
-F A N C Y
+M U S I C
+S L I M Y
 </pre>
 </details>
 
