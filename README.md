@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1013 3/6*
+Wordle 1014 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-🟨⬛🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1013 3/6*
 
 <br> 
 
-Answer: `SLIMY`
+Answer: `PEARL`
 <pre>
 T A R E S
-M U S I C
-S L I M Y
+L E A R N
+P E A R L
 </pre>
 </details>
 
