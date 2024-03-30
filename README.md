@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1014 3/6*
+Wordle 1015 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-🟨🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨🟨⬛ <br>
+🟩⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1014 3/6*
 
 <br> 
 
-Answer: `PEARL`
+Answer: `SILLY`
 <pre>
 T A R E S
-L E A R N
-P E A R L
+M U S I C
+S K I L L
+S I L L Y
 </pre>
 </details>
 
