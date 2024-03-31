@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1015 4/6*
+Wordle 1016 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨⬛ <br>
-🟩⬛🟨🟩🟨 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1015 4/6*
 
 <br> 
 
-Answer: `SILLY`
+Answer: `PORCH`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-S I L L Y
+W O R L D
+F O R U M
+P O R N O
+P O R C H
 </pre>
 </details>
 
