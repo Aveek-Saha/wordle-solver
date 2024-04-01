@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1016 5/6*
+Wordle 1017 5/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1016 5/6*
 
 <br> 
 
-Answer: `PORCH`
+Answer: `DINGO`
 <pre>
 T A R E S
-W O R L D
-F O R U M
-P O R N O
-P O R C H
+W H I C H
+L O G I N
+B I N G O
+D I N G O
 </pre>
 </details>
 
