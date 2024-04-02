@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1017 5/6*
+Wordle 1018 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟨🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟩🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1017 5/6*
 
 <br> 
 
-Answer: `DINGO`
+Answer: `SEPIA`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-B I N G O
-D I N G O
+S P A C E
+S E P I A
 </pre>
 </details>
 
