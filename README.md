@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1018 3/6*
+Wordle 1019 4/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩🟨🟨⬛🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩🟨⬛🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1018 3/6*
 
 <br> 
 
-Answer: `SEPIA`
+Answer: `AMBLE`
 <pre>
 T A R E S
-S P A C E
-S E P I A
+E M A I L
+A M P L E
+A M B L E
 </pre>
 </details>
 
