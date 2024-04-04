@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1019 4/6*
+Wordle 1020 5/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨🟩🟨⬛🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩⬛⬛ <br>
+🟩⬛🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1019 4/6*
 
 <br> 
 
-Answer: `AMBLE`
+Answer: `SHADY`
 <pre>
 T A R E S
-E M A I L
-A M P L E
-A M B L E
+S M A L L
+S P A I N
+S H A C K
+S H A D Y
 </pre>
 </details>
 
