@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1020 5/6*
+Wordle 1021 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩⬛⬛ <br>
-🟩⬛🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1020 5/6*
 
 <br> 
 
-Answer: `SHADY`
+Answer: `BREAD`
 <pre>
 T A R E S
-S M A L L
-S P A I N
-S H A C K
-S H A D Y
+L E A R N
+B R E A K
+B R E A D
 </pre>
 </details>
 
