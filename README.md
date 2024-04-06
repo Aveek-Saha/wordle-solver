@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1021 4/6*
+Wordle 1022 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1021 4/6*
 
 <br> 
 
-Answer: `BREAD`
+Answer: `FRIAR`
 <pre>
 T A R E S
-L E A R N
-B R E A K
-B R E A D
+B O A R D
+R I V A L
+F R I A R
 </pre>
 </details>
 
