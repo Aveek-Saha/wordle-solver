@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1022 4/6*
+Wordle 1023 4/6*
 
-⬛🟨🟨⬛⬛ <br>
 ⬛⬛🟨🟨⬛ <br>
-🟨🟨⬛🟩⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1022 4/6*
 
 <br> 
 
-Answer: `FRIAR`
+Answer: `REIGN`
 <pre>
 T A R E S
-B O A R D
-R I V A L
-F R I A R
+W H E R E
+R E P L Y
+R E I G N
 </pre>
 </details>
 
