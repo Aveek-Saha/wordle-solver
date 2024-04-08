@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1023 4/6*
+Wordle 1024 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟨🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1023 4/6*
 
 <br> 
 
-Answer: `REIGN`
+Answer: `DAIRY`
 <pre>
 T A R E S
-W H E R E
-R E P L Y
-R E I G N
+M A J O R
+R A P I D
+D A I R Y
 </pre>
 </details>
 
