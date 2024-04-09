@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1024 4/6*
+Wordle 1025 5/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟨🟩⬛🟨🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1024 4/6*
 
 <br> 
 
-Answer: `DAIRY`
+Answer: `QUILL`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-D A I R Y
+W H I C H
+U N I O N
+B U I L D
+Q U I L L
 </pre>
 </details>
 
