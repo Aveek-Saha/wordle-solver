@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1025 5/6*
+Wordle 1026 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛⬛🟨⬛🟩 <br>
+⬛🟨⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1025 5/6*
 
 <br> 
 
-Answer: `QUILL`
+Answer: `CROSS`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-B U I L D
-Q U I L L
+H O U R S
+C R O S S
 </pre>
 </details>
 
