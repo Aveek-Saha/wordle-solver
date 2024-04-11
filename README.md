@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1026 3/6*
+Wordle 1027 6/6*
 
-⬛⬛🟨⬛🟩 <br>
-⬛🟨⬛🟨🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 1026 3/6*
 
 <br> 
 
-Answer: `CROSS`
+Answer: `BROOD`
 <pre>
 T A R E S
-H O U R S
-C R O S S
+G R O U P
+B R O W N
+B R O O K
+B R O O M
+B R O O D
 </pre>
 </details>
 
