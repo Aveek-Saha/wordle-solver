@@ -4,13 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1027 6/6*
+Wordle 1028 6/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+🟩⬛🟨🟩⬛ <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +18,14 @@ Wordle 1027 6/6*
 
 <br> 
 
-Answer: `BROOD`
+Answer: `TUBER`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-B R O O K
-B R O O M
-B R O O D
+T O W E R
+T I G E R
+T Y L E R
+T U N E R
+T U B E R
 </pre>
 </details>
 
