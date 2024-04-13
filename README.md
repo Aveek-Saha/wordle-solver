@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1028 6/6*
+Wordle 1029 3/6*
 
-🟩⬛🟨🟩⬛ <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨🟨🟨🟨 <br>
+🟩🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1028 6/6*
 
 <br> 
 
-Answer: `TUBER`
+Answer: `SHEAR`
 <pre>
 T A R E S
-T O W E R
-T I G E R
-T Y L E R
-T U N E R
-T U B E R
+S H A R E
+S H E A R
 </pre>
 </details>
 
