@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1029 3/6*
+Wordle 1030 4/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟩🟩🟨🟨🟨 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨🟩⬛🟨⬛ <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1029 3/6*
 
 <br> 
 
-Answer: `SHEAR`
+Answer: `POSIT`
 <pre>
 T A R E S
-S H A R E
-S H E A R
+S O U T H
+B O O S T
+P O S I T
 </pre>
 </details>
 
