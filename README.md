@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1030 4/6*
+Wordle 1031 4/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨🟩⬛🟨⬛ <br>
-⬛🟩⬛🟨🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟩🟨⬛⬛ <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1030 4/6*
 
 <br> 
 
-Answer: `POSIT`
+Answer: `BLANK`
 <pre>
 T A R E S
-S O U T H
-B O O S T
-P O S I T
+A L B U M
+B L A C K
+B L A N K
 </pre>
 </details>
 
