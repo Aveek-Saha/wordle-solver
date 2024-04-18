@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1033 5/6*
+Wordle 1034 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩⬛🟩⬛⬛ <br>
-🟩⬛🟩⬛🟨 <br>
-🟩🟨🟩⬛🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1033 5/6*
 
 <br> 
 
-Answer: `SHANK`
+Answer: `PIGGY`
 <pre>
 T A R E S
-S M A L L
-S P A I N
-S N A C K
-S H A N K
+W H I C H
+L O G I N
+P I G G Y
 </pre>
 </details>
 
