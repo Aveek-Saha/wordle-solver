@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1034 4/6*
+Wordle 1035 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1034 4/6*
 
 <br> 
 
-Answer: `PIGGY`
+Answer: `FREAK`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-P I G G Y
+L E A R N
+B R E A K
+F R E A K
 </pre>
 </details>
 
