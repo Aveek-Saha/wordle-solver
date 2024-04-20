@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1035 4/6*
+Wordle 1036 2/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 1035 4/6*
 
 <br> 
 
-Answer: `FREAK`
+Answer: `WHICH`
 <pre>
 T A R E S
-L E A R N
-B R E A K
-F R E A K
+W H I C H
 </pre>
 </details>
 
