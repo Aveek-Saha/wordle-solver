@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1036 2/6*
+Wordle 1037 3/6*
 
-⬛⬛⬛⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1036 2/6*
 
 <br> 
 
-Answer: `WHICH`
+Answer: `AMONG`
 <pre>
 T A R E S
-W H I C H
+A L B U M
+A M O N G
 </pre>
 </details>
 
