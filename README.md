@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1038 5/6*
+Wordle 1039 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1038 5/6*
 
 <br> 
 
-Answer: `FECAL`
+Answer: `SHELL`
 <pre>
 T A R E S
-E M A I L
-L E G A L
-P E D A L
-F E C A L
+H O U S E
+S H E L L
 </pre>
 </details>
 
