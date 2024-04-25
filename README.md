@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1040 3/6*
+Wordle 1041 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟩⬛⬛🟨🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1040 3/6*
 
 <br> 
 
-Answer: `WOULD`
+Answer: `ALGAE`
 <pre>
 T A R E S
-W H I C H
-W O U L D
+E M A I L
+A P P L E
+A L O N E
+A L G A E
 </pre>
 </details>
 
