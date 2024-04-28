@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1043 4/6*
+Wordle 1044 4/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1043 4/6*
 
 <br> 
 
-Answer: `RABBI`
+Answer: `AGONY`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-R A B B I
+A L B U M
+A G A I N
+A G O N Y
 </pre>
 </details>
 
