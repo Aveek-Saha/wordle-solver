@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1044 4/6*
+Wordle 1045 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
-🟩🟩⬛⬛🟨 <br>
+⬛🟨⬛🟨🟨 <br>
+🟨⬛🟨⬛🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1044 4/6*
 
 <br> 
 
-Answer: `AGONY`
+Answer: `AMUSE`
 <pre>
 T A R E S
-A L B U M
-A G A I N
-A G O N Y
+S P A C E
+A B U S E
+A M U S E
 </pre>
 </details>
 
