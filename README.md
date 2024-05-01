@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1046 4/6*
+Wordle 1047 6/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟩⬛⬛ <br>
-🟨🟩🟩⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 1046 4/6*
 
 <br> 
 
-Answer: `BUSHY`
+Answer: `COPSE`
 <pre>
 T A R E S
-M U S I C
-H U S K Y
-B U S H Y
+H O U S E
+N O I S E
+L O O S E
+P O S S E
+C O P S E
 </pre>
 </details>
 
