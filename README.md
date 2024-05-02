@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1047 6/6*
+Wordle 1048 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-🟨🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 1047 6/6*
 
 <br> 
 
-Answer: `COPSE`
+Answer: `SWOON`
 <pre>
 T A R E S
-H O U S E
-N O I S E
-L O O S E
-P O S S E
-C O P S E
+M U S I C
+S H O W N
+S W O O N
 </pre>
 </details>
 
