@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1048 4/6*
+Wordle 1049 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩⬛🟩🟨🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1048 4/6*
 
 <br> 
 
-Answer: `SWOON`
+Answer: `KNIFE`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S W O O N
+B E I N G
+K N I F E
 </pre>
 </details>
 
