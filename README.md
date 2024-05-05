@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1050 5/6*
+Wordle 1051 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨🟨⬛⬛🟨 <br>
+🟨🟨🟨⬛⬛ <br>
+🟨🟨🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1050 5/6*
 
 <br> 
 
-Answer: `POUCH`
+Answer: `ASCOT`
 <pre>
 T A R E S
-W H I C H
-L U N C H
-C O U C H
-P O U C H
+S T A F F
+C O S T A
+A S C O T
 </pre>
 </details>
 
