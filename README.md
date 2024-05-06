@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1051 4/6*
+Wordle 1052 4/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟨🟨🟨⬛⬛ <br>
-🟨🟨🟨🟨🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1051 4/6*
 
 <br> 
 
-Answer: `ASCOT`
+Answer: `PLANE`
 <pre>
 T A R E S
-S T A F F
-C O S T A
-A S C O T
+E M A I L
+P L A C E
+P L A N E
 </pre>
 </details>
 
