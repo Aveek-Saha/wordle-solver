@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1052 4/6*
+Wordle 1053 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1052 4/6*
 
 <br> 
 
-Answer: `PLANE`
+Answer: `CROWN`
 <pre>
 T A R E S
-E M A I L
-P L A C E
-P L A N E
+G R O U P
+B R O W N
+C R O W N
 </pre>
 </details>
 
