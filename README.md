@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1053 4/6*
+Wordle 1054 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+🟨⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1053 4/6*
 
 <br> 
 
-Answer: `CROWN`
+Answer: `URBAN`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O W N
+B O A R D
+U R B A N
 </pre>
 </details>
 
