@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1054 3/6*
+Wordle 1055 5/6*
 
-⬛🟨🟨⬛⬛ <br>
-🟨⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟩 <br>
+🟩🟨🟨⬛🟩 <br>
+🟩⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1054 3/6*
 
 <br> 
 
-Answer: `URBAN`
+Answer: `SNIDE`
 <pre>
 T A R E S
-B O A R D
-U R B A N
+H O U S E
+S I N C E
+S P I N E
+S N I D E
 </pre>
 </details>
 
