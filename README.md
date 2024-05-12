@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1057 3/6*
+Wordle 1058 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
+🟨🟨⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1057 3/6*
 
 <br> 
 
-Answer: `ABIDE`
+Answer: `VIOLA`
 <pre>
 T A R E S
-E M A I L
-A B I D E
+A L B U M
+L O C A L
+V I O L A
 </pre>
 </details>
 
