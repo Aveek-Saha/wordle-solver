@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1058 4/6*
+Wordle 1059 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨⬛⬛⬛ <br>
-🟨🟨⬛🟨⬛ <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1058 4/6*
 
 <br> 
 
-Answer: `VIOLA`
+Answer: `RAJAH`
 <pre>
 T A R E S
-A L B U M
-L O C A L
-V I O L A
+M A J O R
+R A J A H
 </pre>
 </details>
 
