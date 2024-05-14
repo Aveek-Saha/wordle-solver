@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1059 3/6*
+Wordle 1060 3/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
+🟨🟨🟩⬛🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1059 3/6*
 
 <br> 
 
-Answer: `RAJAH`
+Answer: `STRAW`
 <pre>
 T A R E S
-M A J O R
-R A J A H
+S T R A P
+S T R A W
 </pre>
 </details>
 
