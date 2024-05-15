@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1060 3/6*
+Wordle 1061 6/6*
 
-🟨🟨🟩⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 1060 3/6*
 
 <br> 
 
-Answer: `STRAW`
+Answer: `DILLY`
 <pre>
 T A R E S
-S T R A P
-S T R A W
+W H I C H
+L O G I N
+B I L L Y
+F I L L Y
+D I L L Y
 </pre>
 </details>
 
