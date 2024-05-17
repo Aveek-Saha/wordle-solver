@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1062 3/6*
+Wordle 1063 3/6*
 
-⬛🟨🟨⬛🟨 <br>
-🟨⬛⬛🟨🟨 <br>
+⬛🟨⬛⬛🟩 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1062 3/6*
 
 <br> 
 
-Answer: `CRASH`
+Answer: `AMASS`
 <pre>
 T A R E S
-S O L A R
-C R A S H
+C L A S S
+A M A S S
 </pre>
 </details>
 
