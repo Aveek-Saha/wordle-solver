@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1063 3/6*
+Wordle 1064 2/6*
 
-⬛🟨⬛⬛🟩 <br>
-⬛⬛🟩🟩🟩 <br>
+🟩⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 1063 3/6*
 
 <br> 
 
-Answer: `AMASS`
+Answer: `THIRD`
 <pre>
 T A R E S
-C L A S S
-A M A S S
+T H I R D
 </pre>
 </details>
 
