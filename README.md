@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1064 2/6*
+Wordle 1065 3/6*
 
 🟩⬛🟨⬛⬛ <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1064 2/6*
 
 <br> 
 
-Answer: `THIRD`
+Answer: `TRICK`
 <pre>
 T A R E S
 T H I R D
+T R I C K
 </pre>
 </details>
 
