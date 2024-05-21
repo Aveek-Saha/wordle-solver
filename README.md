@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1066 5/6*
+Wordle 1067 4/6*
 
-🟩⬛🟨⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟨🟨⬛⬛ <br>
-🟩🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1066 5/6*
 
 <br> 
 
-Answer: `TUTOR`
+Answer: `WOODY`
 <pre>
 T A R E S
-T H I R D
-T R U C K
-T U M O R
-T U T O R
+W H I C H
+W O U L D
+W O O D Y
 </pre>
 </details>
 
