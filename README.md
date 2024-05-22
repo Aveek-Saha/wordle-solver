@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1067 4/6*
+Wordle 1068 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-🟩⬛⬛⬛⬛ <br>
-🟩🟩⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1067 4/6*
 
 <br> 
 
-Answer: `WOODY`
+Answer: `BLURB`
 <pre>
 T A R E S
-W H I C H
-W O U L D
-W O O D Y
+G R O U P
+R U B I N
+B L U R B
 </pre>
 </details>
 
