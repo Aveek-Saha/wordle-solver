@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1068 4/6*
+Wordle 1069 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨⬛🟨⬛ <br>
-🟨🟨🟨⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1068 4/6*
 
 <br> 
 
-Answer: `BLURB`
+Answer: `GRIEF`
 <pre>
 T A R E S
-G R O U P
-R U B I N
-B L U R B
+U N D E R
+G R E E K
+G R I E F
 </pre>
 </details>
 
