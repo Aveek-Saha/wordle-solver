@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1069 4/6*
+Wordle 1070 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-🟩🟩⬛🟩⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟩🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1069 4/6*
 
 <br> 
 
-Answer: `GRIEF`
+Answer: `DISCO`
 <pre>
 T A R E S
-U N D E R
-G R E E K
-G R I E F
+M U S I C
+C I S C O
+D I S C O
 </pre>
 </details>
 
