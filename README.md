@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1070 4/6*
+Wordle 1071 2/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟩🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 1070 4/6*
 
 <br> 
 
-Answer: `DISCO`
+Answer: `WHERE`
 <pre>
 T A R E S
-M U S I C
-C I S C O
-D I S C O
+W H E R E
 </pre>
 </details>
 
