@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1071 2/6*
+Wordle 1072 5/6*
 
-⬛⬛🟨🟨⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 1071 2/6*
 
 <br> 
 
-Answer: `WHERE`
+Answer: `SASSY`
 <pre>
 T A R E S
-W H E R E
+B A S I C
+M A S O N
+P A S H A
+S A S S Y
 </pre>
 </details>
 
