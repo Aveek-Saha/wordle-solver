@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1072 5/6*
+Wordle 1073 3/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1072 5/6*
 
 <br> 
 
-Answer: `SASSY`
+Answer: `BEACH`
 <pre>
 T A R E S
-B A S I C
-M A S O N
-P A S H A
-S A S S Y
+E M A I L
+B E A C H
 </pre>
 </details>
 
