@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1073 3/6*
+Wordle 1074 5/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩🟨⬛⬛ <br>
+🟩🟩⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1073 3/6*
 
 <br> 
 
-Answer: `BEACH`
+Answer: `SAUNA`
 <pre>
 T A R E S
-E M A I L
-B E A C H
+B A S I C
+S A N D Y
+S A L O N
+S A U N A
 </pre>
 </details>
 
