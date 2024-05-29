@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1074 5/6*
+Wordle 1075 4/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟨⬛⬛ <br>
-🟩🟩🟨⬛⬛ <br>
-🟩🟩⬛⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟩⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1074 5/6*
 
 <br> 
 
-Answer: `SAUNA`
+Answer: `COMIC`
 <pre>
 T A R E S
-B A S I C
-S A N D Y
-S A L O N
-S A U N A
+W H I C H
+C I V I L
+C O M I C
 </pre>
 </details>
 
