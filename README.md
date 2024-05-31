@@ -4,13 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1076 6/6*
+Wordle 1077 4/6*
 
-⬛⬛⬛🟩⬛ <br>
 ⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-🟩🟨⬛🟩🟩 <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +16,12 @@ Wordle 1076 6/6*
 
 <br> 
 
-Answer: `CLUED`
+Answer: `CREEP`
 <pre>
 T A R E S
-V I D E O
-E D G E D
-H Y P E D
-C U B E D
-C L U E D
+U N D E R
+G R E E K
+C R E E P
 </pre>
 </details>
 
