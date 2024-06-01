@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1077 4/6*
+Wordle 1078 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟩🟩🟩⬛ <br>
+🟨🟩⬛🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1077 4/6*
 
 <br> 
 
-Answer: `CREEP`
+Answer: `CASTE`
 <pre>
 T A R E S
-U N D E R
-G R E E K
-C R E E P
+W A S T E
+P A S T E
+C A S T E
 </pre>
 </details>
 
