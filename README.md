@@ -4,24 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1078 4/6*
+Wordle 1079 X/6*
 
-🟨🟩⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟩🟨⬛ <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `CASTE`
+Answer: `GRAZE`
 <pre>
 T A R E S
-W A S T E
-P A S T E
-C A S T E
+L E A R N
+G R A D E
+G R A C E
+G R A V E
+G R A P E
 </pre>
 </details>
 
