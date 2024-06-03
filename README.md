@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1079 X/6*
+Wordle 1080 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛🟩🟨⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `GRAZE`
+Answer: `SNUFF`
 <pre>
 T A R E S
-L E A R N
-G R A D E
-G R A C E
-G R A V E
-G R A P E
+M U S I C
+S O U N D
+S N U F F
 </pre>
 </details>
 
