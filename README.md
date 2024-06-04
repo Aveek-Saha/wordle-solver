@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1080 4/6*
+Wordle 1081 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛⬛ <br>
-🟩⬛🟩🟨⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟨🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1080 4/6*
 
 <br> 
 
-Answer: `SNUFF`
+Answer: `FROCK`
 <pre>
 T A R E S
-M U S I C
-S O U N D
-S N U F F
+G R O U P
+B R O W N
+C R O O K
+F R O C K
 </pre>
 </details>
 
