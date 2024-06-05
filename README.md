@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1081 5/6*
+Wordle 1082 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟨🟩🟩⬛🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛🟨🟨⬛🟨 <br>
+🟨🟩🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1081 5/6*
 
 <br> 
 
-Answer: `FROCK`
+Answer: `GONAD`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-C R O O K
-F R O C K
+A L B U M
+I N D I A
+D O G A N
+G O N A D
 </pre>
 </details>
 
