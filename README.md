@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1083 3/6*
+Wordle 1084 3/6*
 
 ⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛🟨⬛ <br>
+🟨🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1083 3/6*
 
 <br> 
 
-Answer: `DRUNK`
+Answer: `PRONG`
 <pre>
 T A R E S
 G R O U P
-D R U N K
+P R O N G
 </pre>
 </details>
 
