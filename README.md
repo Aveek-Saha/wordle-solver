@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1084 3/6*
+Wordle 1085 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟨🟩🟩⬛🟨 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1084 3/6*
 
 <br> 
 
-Answer: `PRONG`
+Answer: `LURID`
 <pre>
 T A R E S
-G R O U P
-P R O N G
+W O R L D
+L U R I D
 </pre>
 </details>
 
