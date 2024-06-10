@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1086 2/6*
+Wordle 1087 3/6*
 
-🟨⬛⬛🟩🟨 <br>
+⬛🟩⬛🟨⬛ <br>
+🟨🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1086 2/6*
 
 <br> 
 
-Answer: `STEEL`
+Answer: `HALVE`
 <pre>
 T A R E S
-S T E E L
+V A L U E
+H A L V E
 </pre>
 </details>
 
