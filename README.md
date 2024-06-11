@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1087 3/6*
+Wordle 1088 3/6*
 
-⬛🟩⬛🟨⬛ <br>
-🟨🟩🟩⬛🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+🟨⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1087 3/6*
 
 <br> 
 
-Answer: `HALVE`
+Answer: `BUYER`
 <pre>
 T A R E S
-V A L U E
-H A L V E
+U N D E R
+B U Y E R
 </pre>
 </details>
 
