@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1088 3/6*
+Wordle 1089 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-🟨⬛⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1088 3/6*
 
 <br> 
 
-Answer: `BUYER`
+Answer: `VINYL`
 <pre>
 T A R E S
-U N D E R
-B U Y E R
+W H I C H
+L O G I N
+V I N Y L
 </pre>
 </details>
 
