@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1089 4/6*
+Wordle 1090 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟨⬛⬛🟨🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1089 4/6*
 
 <br> 
 
-Answer: `VINYL`
+Answer: `UTILE`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-V I N Y L
+W H I T E
+U T I L E
 </pre>
 </details>
 
