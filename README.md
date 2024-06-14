@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1090 3/6*
+Wordle 1091 4/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟩🟨🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+🟩⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1090 3/6*
 
 <br> 
 
-Answer: `UTILE`
+Answer: `SMELL`
 <pre>
 T A R E S
-W H I T E
-U T I L E
+H O U S E
+S P E N D
+S M E L L
 </pre>
 </details>
 
