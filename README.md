@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1091 4/6*
+Wordle 1092 6/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟨 <br>
-🟩⬛🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+🟩🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 1091 4/6*
 
 <br> 
 
-Answer: `SMELL`
+Answer: `ADAGE`
 <pre>
 T A R E S
-H O U S E
-S P E N D
-S M E L L
+E M A I L
+B E A C H
+Q U A K E
+A G A V E
+A D A G E
 </pre>
 </details>
 
