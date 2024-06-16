@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1092 6/6*
+Wordle 1093 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩⬛🟩 <br>
-🟩🟨🟩⬛🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1092 6/6*
 
 <br> 
 
-Answer: `ADAGE`
+Answer: `WORRY`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-Q U A K E
-A G A V E
-A D A G E
+W O R L D
+W O R R Y
 </pre>
 </details>
 
