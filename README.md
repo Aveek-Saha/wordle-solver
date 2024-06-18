@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1094 2/6*
+Wordle 1095 3/6*
 
-🟩🟩⬛⬛🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1094 2/6*
 
 <br> 
 
-Answer: `TASTY`
+Answer: `LOCAL`
 <pre>
 T A R E S
-T A S T Y
+A L B U M
+L O C A L
 </pre>
 </details>
 
