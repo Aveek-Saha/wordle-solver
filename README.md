@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1096 2/6*
+Wordle 1097 3/6*
 
-🟩🟨🟨🟨⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1096 2/6*
 
 <br> 
 
-Answer: `TRADE`
+Answer: `FINCH`
 <pre>
 T A R E S
-T R A D E
+W H I C H
+F I N C H
 </pre>
 </details>
 
