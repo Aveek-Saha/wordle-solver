@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1097 3/6*
+Wordle 1098 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟩🟩 <br>
+⬛🟨⬛🟩🟨 <br>
+🟩🟩⬛🟩⬛ <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1097 3/6*
 
 <br> 
 
-Answer: `FINCH`
+Answer: `ASHEN`
 <pre>
 T A R E S
-W H I C H
-F I N C H
+A S K E D
+A S P E N
+A S H E N
 </pre>
 </details>
 
