@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1098 4/6*
+Wordle 1099 3/6*
 
-⬛🟨⬛🟩🟨 <br>
-🟩🟩⬛🟩⬛ <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟨⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1098 4/6*
 
 <br> 
 
-Answer: `ASHEN`
+Answer: `MODAL`
 <pre>
 T A R E S
-A S K E D
-A S P E N
-A S H E N
+A L B U M
+M O D A L
 </pre>
 </details>
 
