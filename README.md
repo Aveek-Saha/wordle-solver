@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1100 4/6*
+Wordle 1101 5/6*
 
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛🟨⬛⬛ <br>
+🟩🟨⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1100 4/6*
 
 <br> 
 
-Answer: `GAUNT`
+Answer: `CLOVE`
 <pre>
 T A R E S
-M A T C H
-P A I N T
-G A U N T
+B E I N G
+C H E C K
+C O U P E
+C L O V E
 </pre>
 </details>
 
