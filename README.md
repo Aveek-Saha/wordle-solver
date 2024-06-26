@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1102 4/6*
+Wordle 1103 3/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟨🟩🟨⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟨🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1102 4/6*
 
 <br> 
 
-Answer: `ENACT`
+Answer: `ADORN`
 <pre>
 T A R E S
-D E A T H
-E X A C T
-E N A C T
+B O A R D
+A D O R N
 </pre>
 </details>
 
