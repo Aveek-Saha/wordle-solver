@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1104 3/6*
+Wordle 1105 5/6*
 
-🟨🟨🟨⬛🟨 <br>
-🟨⬛🟩🟨🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1104 3/6*
 
 <br> 
 
-Answer: `ROAST`
+Answer: `SPECK`
 <pre>
 T A R E S
-S T A R T
-R O A S T
+H O U S E
+S P E N D
+S P E L L
+S P E C K
 </pre>
 </details>
 
