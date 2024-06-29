@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1105 5/6*
+Wordle 1106 4/6*
 
 ⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟨🟨 <br>
-🟩🟩🟩⬛⬛ <br>
+🟨⬛⬛🟨🟨 <br>
 🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +16,12 @@ Wordle 1105 5/6*
 
 <br> 
 
-Answer: `SPECK`
+Answer: `SHEIK`
 <pre>
 T A R E S
 H O U S E
-S P E N D
-S P E L L
-S P E C K
+S H E L L
+S H E I K
 </pre>
 </details>
 
