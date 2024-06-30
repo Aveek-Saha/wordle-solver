@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1106 4/6*
+Wordle 1107 3/6*
 
-⬛⬛⬛🟨🟨 <br>
-🟨⬛⬛🟨🟨 <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1106 4/6*
 
 <br> 
 
-Answer: `SHEIK`
+Answer: `MISSY`
 <pre>
 T A R E S
-H O U S E
-S H E L L
-S H E I K
+M U S I C
+M I S S Y
 </pre>
 </details>
 
