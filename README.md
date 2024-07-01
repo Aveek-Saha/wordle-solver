@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1107 3/6*
+Wordle 1108 3/6*
 
-⬛⬛⬛⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
+🟨⬛🟨⬛⬛ <br>
+🟨⬛🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1107 3/6*
 
 <br> 
 
-Answer: `MISSY`
+Answer: `GRUNT`
 <pre>
 T A R E S
-M U S I C
-M I S S Y
+R I G H T
+G R U N T
 </pre>
 </details>
 
