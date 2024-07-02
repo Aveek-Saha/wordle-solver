@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1108 3/6*
+Wordle 1109 4/6*
 
-🟨⬛🟨⬛⬛ <br>
-🟨⬛🟨⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1108 3/6*
 
 <br> 
 
-Answer: `GRUNT`
+Answer: `SNOOP`
 <pre>
 T A R E S
-R I G H T
-G R U N T
+M U S I C
+S H O W N
+S N O O P
 </pre>
 </details>
 
