@@ -4,11 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1109 4/6*
+Wordle 1110 2/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩⬛🟩⬛🟨 <br>
+🟨🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +14,10 @@ Wordle 1109 4/6*
 
 <br> 
 
-Answer: `SNOOP`
+Answer: `PARTY`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S N O O P
+P A R T Y
 </pre>
 </details>
 
