@@ -4,9 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1110 2/6*
+Wordle 1111 3/6*
 
-🟨🟩🟩⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +15,11 @@ Wordle 1110 2/6*
 
 <br> 
 
-Answer: `PARTY`
+Answer: `TOUCH`
 <pre>
 T A R E S
-P A R T Y
+T H I N K
+T O U C H
 </pre>
 </details>
 
