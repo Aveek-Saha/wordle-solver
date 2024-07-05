@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1111 3/6*
+Wordle 1112 4/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1111 3/6*
 
 <br> 
 
-Answer: `TOUCH`
+Answer: `MAFIA`
 <pre>
 T A R E S
-T H I N K
-T O U C H
+J A P A N
+G A M M A
+M A F I A
 </pre>
 </details>
 
