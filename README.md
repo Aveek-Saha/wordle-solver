@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1112 4/6*
+Wordle 1113 5/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-⬛🟩🟨⬛🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1112 4/6*
 
 <br> 
 
-Answer: `MAFIA`
+Answer: `EMCEE`
 <pre>
 T A R E S
-J A P A N
-G A M M A
-M A F I A
+V I D E O
+Q U E E N
+E X C E L
+E M C E E
 </pre>
 </details>
 
