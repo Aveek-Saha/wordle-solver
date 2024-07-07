@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1113 5/6*
+Wordle 1114 3/6*
 
-⬛⬛⬛🟩⬛ <br>
-⬛⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩⬛ <br>
-🟩⬛🟩🟩⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+🟨⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1113 5/6*
 
 <br> 
 
-Answer: `EMCEE`
+Answer: `ARRAY`
 <pre>
 T A R E S
-V I D E O
-Q U E E N
-E X C E L
-E M C E E
+R U R A L
+A R R A Y
 </pre>
 </details>
 
