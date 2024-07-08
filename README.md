@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1114 3/6*
+Wordle 1115 2/6*
 
-⬛🟨🟩⬛⬛ <br>
-🟨⬛🟩🟩⬛ <br>
+🟨⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 1114 3/6*
 
 <br> 
 
-Answer: `ARRAY`
+Answer: `SOUTH`
 <pre>
 T A R E S
-R U R A L
-A R R A Y
+S O U T H
 </pre>
 </details>
 
