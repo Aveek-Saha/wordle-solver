@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1115 2/6*
+Wordle 1116 5/6*
 
-🟨⬛⬛⬛🟨 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 1115 2/6*
 
 <br> 
 
-Answer: `SOUTH`
+Answer: `VAPID`
 <pre>
 T A R E S
-S O U T H
+J A P A N
+H A P P Y
+C A P I Z
+V A P I D
 </pre>
 </details>
 
