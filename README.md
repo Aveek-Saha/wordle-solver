@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1116 5/6*
+Wordle 1117 4/6*
 
+⬛⬛⬛🟨⬛ <br>
 ⬛🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1116 5/6*
 
 <br> 
 
-Answer: `VAPID`
+Answer: `JELLY`
 <pre>
 T A R E S
-J A P A N
-H A P P Y
-C A P I Z
-V A P I D
+B E I N G
+K E L L Y
+J E L L Y
 </pre>
 </details>
 
