@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1117 4/6*
+Wordle 1118 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟨🟨⬛⬛ <br>
+🟩⬛🟩⬛⬛ <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1117 4/6*
 
 <br> 
 
-Answer: `JELLY`
+Answer: `SKULK`
 <pre>
 T A R E S
-B E I N G
-K E L L Y
-J E L L Y
+M U S I C
+S O U N D
+S K U L L
+S K U L K
 </pre>
 </details>
 
