@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1119 4/6*
+Wordle 1120 4/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟨🟨🟨⬛⬛ <br>
-⬛⬛🟨🟨🟨 <br>
+🟩🟨⬛⬛⬛ <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1119 4/6*
 
 <br> 
 
-Answer: `ANGST`
+Answer: `TUBAL`
 <pre>
 T A R E S
-S T A F F
-C O S T A
-A N G S T
+T O T A L
+T I D A L
+T U B A L
 </pre>
 </details>
 
