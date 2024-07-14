@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1120 4/6*
+Wordle 1121 5/6*
 
-🟩🟨⬛⬛⬛ <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1120 4/6*
 
 <br> 
 
-Answer: `TUBAL`
+Answer: `LOWER`
 <pre>
 T A R E S
-T O T A L
-T I D A L
-T U B A L
+U N D E R
+R I V E R
+P O W E R
+L O W E R
 </pre>
 </details>
 
