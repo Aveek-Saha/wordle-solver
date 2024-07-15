@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1121 5/6*
+Wordle 1122 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+🟨⬛🟨🟨🟨 <br>
+🟨🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1121 5/6*
 
 <br> 
 
-Answer: `LOWER`
+Answer: `CREST`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-L O W E R
+S T O R E
+C R E S T
 </pre>
 </details>
 
