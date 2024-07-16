@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1122 3/6*
+Wordle 1123 3/6*
 
-🟨⬛🟨🟨🟨 <br>
 🟨🟨⬛🟨🟨 <br>
+🟩🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1122 3/6*
 
 <br> 
 
-Answer: `CREST`
+Answer: `SWEAT`
 <pre>
 T A R E S
-S T O R E
-C R E S T
+S T A T E
+S W E A T
 </pre>
 </details>
 
