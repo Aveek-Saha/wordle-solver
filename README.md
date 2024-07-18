@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1124 5/6*
+Wordle 1125 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟨🟨🟩⬛ <br>
+🟨⬛🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1124 5/6*
 
 <br> 
 
-Answer: `CYBER`
+Answer: `ADORE`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-C Y B E R
+L E A R N
+O P E R A
+A D O R E
 </pre>
 </details>
 
