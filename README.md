@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1125 4/6*
+Wordle 1126 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟨🟩⬛ <br>
-🟨⬛🟨🟩🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1125 4/6*
 
 <br> 
 
-Answer: `ADORE`
+Answer: `TARDY`
 <pre>
 T A R E S
-L E A R N
-O P E R A
-A D O R E
+T A R O T
+T A R G A
+T A R D Y
 </pre>
 </details>
 
