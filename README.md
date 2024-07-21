@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1127 4/6*
+Wordle 1128 3/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1127 4/6*
 
 <br> 
 
-Answer: `SWAMI`
+Answer: `NOTCH`
 <pre>
 T A R E S
-S M A L L
-S W A M P
-S W A M I
+U N T I L
+N O T C H
 </pre>
 </details>
 
