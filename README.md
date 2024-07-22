@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1128 3/6*
+Wordle 1129 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛🟨🟩⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1128 3/6*
 
 <br> 
 
-Answer: `NOTCH`
+Answer: `GROOM`
 <pre>
 T A R E S
-U N T I L
-N O T C H
+G R O U P
+G R O W N
+G R O O M
 </pre>
 </details>
 
