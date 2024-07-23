@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1129 4/6*
+Wordle 1130 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1129 4/6*
 
 <br> 
 
-Answer: `GROOM`
+Answer: `ROACH`
 <pre>
 T A R E S
-G R O U P
-G R O W N
-G R O O M
+B O A R D
+R O A C H
 </pre>
 </details>
 
