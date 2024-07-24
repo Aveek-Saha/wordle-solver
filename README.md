@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1130 3/6*
+Wordle 1131 X/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟩🟨⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `ROACH`
+Answer: `HITCH`
 <pre>
 T A R E S
-B O A R D
-R O A C H
+U N T I L
+P I T C H
+W I T C H
+M I T C H
+D I T C H
 </pre>
 </details>
 
