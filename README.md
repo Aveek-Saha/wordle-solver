@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1131 X/6*
+Wordle 1132 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `HITCH`
+Answer: `YOUNG`
 <pre>
 T A R E S
-U N T I L
-P I T C H
-W I T C H
-M I T C H
-D I T C H
+W H I C H
+F O U N D
+Y O U N G
 </pre>
 </details>
 
