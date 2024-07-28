@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1134 3/6*
+Wordle 1135 5/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟨⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1134 3/6*
 
 <br> 
 
-Answer: `READY`
+Answer: `FROND`
 <pre>
 T A R E S
-L E A R N
-R E A D Y
+G R O U P
+B R O W N
+I R O N Y
+F R O N D
 </pre>
 </details>
 
