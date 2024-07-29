@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1135 5/6*
+Wordle 1136 2/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
-⬛🟩🟩🟩⬛ <br>
+🟨🟨🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 1135 5/6*
 
 <br> 
 
-Answer: `FROND`
+Answer: `STRAP`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-I R O N Y
-F R O N D
+S T R A P
 </pre>
 </details>
 
