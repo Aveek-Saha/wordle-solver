@@ -4,9 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1136 2/6*
+Wordle 1137 5/6*
 
-🟨🟨🟩⬛🟨 <br>
+⬛⬛🟩🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +17,13 @@ Wordle 1136 2/6*
 
 <br> 
 
-Answer: `STRAP`
+Answer: `PUREE`
 <pre>
 T A R E S
-S T R A P
+H I R E D
+C O R E Y
+M U R E X
+P U R E E
 </pre>
 </details>
 
