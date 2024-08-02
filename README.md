@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1139 4/6*
+Wordle 1140 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-🟨🟩⬛⬛⬛ <br>
+⬛🟨🟨⬛🟨 <br>
+🟩⬛⬛🟨🟨 <br>
+🟩⬛🟩🟩⬛ <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1139 4/6*
 
 <br> 
 
-Answer: `VENUE`
+Answer: `SWARM`
 <pre>
 T A R E S
-B E I N G
-N E W L Y
-V E N U E
+S O L A R
+S H A R P
+S C A R Y
+S W A R M
 </pre>
 </details>
 
