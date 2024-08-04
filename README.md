@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1141 5/6*
+Wordle 1142 2/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛⬛🟩🟩 <br>
-⬛🟨⬛🟩🟩 <br>
+⬛⬛⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 1141 5/6*
 
 <br> 
 
-Answer: `OFFER`
+Answer: `SEVEN`
 <pre>
 T A R E S
-U N D E R
-R I V E R
-P O W E R
-O F F E R
+S E V E N
 </pre>
 </details>
 
