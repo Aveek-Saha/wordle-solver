@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1144 3/6*
+Wordle 1145 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟩🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1144 3/6*
 
 <br> 
 
-Answer: `DIARY`
+Answer: `DRYLY`
 <pre>
 T A R E S
-B O A R D
-D I A R Y
+G R O U P
+D R I N K
+D R Y L Y
 </pre>
 </details>
 
