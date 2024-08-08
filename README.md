@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1145 4/6*
+Wordle 1146 5/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1145 4/6*
 
 <br> 
 
-Answer: `DRYLY`
+Answer: `DRANK`
 <pre>
 T A R E S
-G R O U P
-D R I N K
-D R Y L Y
+B O A R D
+D R A M A
+D R A W N
+D R A N K
 </pre>
 </details>
 
