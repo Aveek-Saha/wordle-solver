@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1146 5/6*
+Wordle 1147 4/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟨🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛🟨 <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+🟨🟨🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1146 5/6*
 
 <br> 
 
-Answer: `DRANK`
+Answer: `ACRID`
 <pre>
 T A R E S
-B O A R D
-D R A M A
-D R A W N
-D R A N K
+R U R A L
+C I R C A
+A C R I D
 </pre>
 </details>
 
