@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1147 4/6*
+Wordle 1148 5/6*
 
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-🟨🟨🟩⬛🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1147 4/6*
 
 <br> 
 
-Answer: `ACRID`
+Answer: `HEADY`
 <pre>
 T A R E S
-R U R A L
-C I R C A
-A C R I D
+E M A I L
+B E A C H
+H E A V Y
+H E A D Y
 </pre>
 </details>
 
