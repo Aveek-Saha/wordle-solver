@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1148 5/6*
+Wordle 1149 3/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
-🟩🟩🟩⬛🟩 <br>
+🟩🟨⬛🟨⬛ <br>
+🟩🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1148 5/6*
 
 <br> 
 
-Answer: `HEADY`
+Answer: `THETA`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-H E A V Y
-H E A D Y
+T E A C H
+T H E T A
 </pre>
 </details>
 
