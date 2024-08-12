@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1149 3/6*
+Wordle 1150 5/6*
 
-🟩🟨⬛🟨⬛ <br>
-🟩🟨🟨⬛🟨 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨🟨🟨⬛⬛ <br>
+⬛🟨🟨🟨🟨 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1149 3/6*
 
 <br> 
 
-Answer: `THETA`
+Answer: `JUNTO`
 <pre>
 T A R E S
-T E A C H
-T H E T A
+U N T I L
+M O U N T
+P U N T O
+J U N T O
 </pre>
 </details>
 
