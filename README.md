@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1150 5/6*
+Wordle 1151 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
-⬛🟨🟨🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1150 5/6*
 
 <br> 
 
-Answer: `JUNTO`
+Answer: `PIXIE`
 <pre>
 T A R E S
-U N T I L
-M O U N T
-P U N T O
-J U N T O
+B E I N G
+F I E L D
+P I X I E
 </pre>
 </details>
 
