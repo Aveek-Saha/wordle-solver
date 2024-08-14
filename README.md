@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1151 4/6*
+Wordle 1152 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛🟨⬛⬛ <br>
+⬛🟨🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1151 4/6*
 
 <br> 
 
-Answer: `PIXIE`
+Answer: `QUOTH`
 <pre>
 T A R E S
-B E I N G
-F I E L D
-P I X I E
+U N T I L
+Y O U T H
+Q U O T H
 </pre>
 </details>
 
