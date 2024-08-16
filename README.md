@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1153 3/6*
+Wordle 1154 3/6*
 
-⬛⬛⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+🟨🟨⬛⬛🟨 <br>
+🟩🟨🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1153 3/6*
 
 <br> 
 
-Answer: `BONUS`
+Answer: `SHALT`
 <pre>
 T A R E S
-B O O K S
-B O N U S
+S T A F F
+S H A L T
 </pre>
 </details>
 
