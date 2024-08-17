@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1154 3/6*
+Wordle 1155 5/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩⬛🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1154 3/6*
 
 <br> 
 
-Answer: `SHALT`
+Answer: `PENNE`
 <pre>
 T A R E S
-S T A F F
-S H A L T
+B E I N G
+L E O N E
+J E U N E
+P E N N E
 </pre>
 </details>
 
