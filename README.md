@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1155 5/6*
+Wordle 1156 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨🟩🟨⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1155 5/6*
 
 <br> 
 
-Answer: `PENNE`
+Answer: `AMEND`
 <pre>
 T A R E S
-B E I N G
-L E O N E
-J E U N E
-P E N N E
+E M A I L
+O M E G A
+A M E N D
 </pre>
 </details>
 
