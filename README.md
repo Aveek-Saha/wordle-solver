@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1157 3/6*
+Wordle 1158 4/6*
 
-🟨🟩⬛⬛⬛ <br>
-🟨🟩🟩⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1157 3/6*
 
 <br> 
 
-Answer: `DATUM`
+Answer: `BUILD`
 <pre>
 T A R E S
-M A T C H
-D A T U M
+W H I C H
+U N I O N
+B U I L D
 </pre>
 </details>
 
