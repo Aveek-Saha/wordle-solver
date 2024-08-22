@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1159 4/6*
+Wordle 1160 4/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛⬛⬛ <br>
-🟨🟨⬛⬛🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1159 4/6*
 
 <br> 
 
-Answer: `PIANO`
+Answer: `SHELF`
 <pre>
 T A R E S
-A L B U M
-I N D I A
-P I A N O
+H O U S E
+S H E L L
+S H E L F
 </pre>
 </details>
 
