@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1160 4/6*
+Wordle 1161 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-🟨⬛⬛🟨🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1160 4/6*
 
 <br> 
 
-Answer: `SHELF`
+Answer: `LODGE`
 <pre>
 T A R E S
-H O U S E
-S H E L L
-S H E L F
+B E I N G
+J U D G E
+L O D G E
 </pre>
 </details>
 
