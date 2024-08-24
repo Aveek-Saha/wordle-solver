@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1161 4/6*
+Wordle 1162 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛🟨 <br>
-⬛⬛🟩🟩🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1161 4/6*
 
 <br> 
 
-Answer: `LODGE`
+Answer: `SUING`
 <pre>
 T A R E S
-B E I N G
-J U D G E
-L O D G E
+M U S I C
+S U I N G
 </pre>
 </details>
 
