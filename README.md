@@ -4,10 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1162 3/6*
+Wordle 1163 6/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟩🟨🟨⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +18,14 @@ Wordle 1162 3/6*
 
 <br> 
 
-Answer: `SUING`
+Answer: `REARM`
 <pre>
 T A R E S
-M U S I C
-S U I N G
+L E A R N
+H E A R D
+W E A R Y
+B E A R E
+R E A R M
 </pre>
 </details>
 
