@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1164 4/6*
+Wordle 1165 4/6*
 
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1164 4/6*
 
 <br> 
 
-Answer: `CORAL`
+Answer: `RAMEN`
 <pre>
 T A R E S
-R U R A L
-M O R A L
-C O R A L
+P A P E R
+R A V E N
+R A M E N
 </pre>
 </details>
 
