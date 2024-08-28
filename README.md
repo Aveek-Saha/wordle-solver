@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1165 4/6*
+Wordle 1166 3/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1165 4/6*
 
 <br> 
 
-Answer: `RAMEN`
+Answer: `WORTH`
 <pre>
 T A R E S
-P A P E R
-R A V E N
-R A M E N
+N O R T H
+W O R T H
 </pre>
 </details>
 
