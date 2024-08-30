@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1167 3/6*
+Wordle 1168 4/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟨🟨🟩🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1167 3/6*
 
 <br> 
 
-Answer: `PSALM`
+Answer: `INFER`
 <pre>
 T A R E S
-S M A L L
-P S A L M
+U N D E R
+I N N E R
+I N F E R
 </pre>
 </details>
 
