@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1169 4/6*
+Wordle 1170 3/6*
 
-🟨⬛🟨🟨⬛ <br>
-🟨🟨⬛🟨🟨 <br>
-⬛🟨🟨🟩🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1169 4/6*
 
 <br> 
 
-Answer: `OVERT`
+Answer: `MAYOR`
 <pre>
 T A R E S
-R O U T E
-M E T R O
-O V E R T
+M A J O R
+M A Y O R
 </pre>
 </details>
 
