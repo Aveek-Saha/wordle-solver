@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1171 4/6*
+Wordle 1172 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛🟨⬛🟩⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨🟩⬛🟨 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1171 4/6*
 
 <br> 
 
-Answer: `OVOID`
+Answer: `GLIDE`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-O V O I D
+B E I N G
+G U I D E
+G L I D E
 </pre>
 </details>
 
