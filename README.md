@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1172 4/6*
+Wordle 1173 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛🟨 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛🟨🟨 <br>
+🟨⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1172 4/6*
 
 <br> 
 
-Answer: `GLIDE`
+Answer: `USAGE`
 <pre>
 T A R E S
-B E I N G
-G U I D E
-G L I D E
+S P A C E
+U S A G E
 </pre>
 </details>
 
