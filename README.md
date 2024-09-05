@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1173 3/6*
+Wordle 1174 4/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟨⬛🟩⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1173 3/6*
 
 <br> 
 
-Answer: `USAGE`
+Answer: `POISE`
 <pre>
 T A R E S
-S P A C E
-U S A G E
+H O U S E
+N O I S E
+P O I S E
 </pre>
 </details>
 
