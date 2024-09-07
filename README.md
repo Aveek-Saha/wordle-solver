@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1175 4/6*
+Wordle 1176 3/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟨 <br>
-🟩🟩⬛⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1175 4/6*
 
 <br> 
 
-Answer: `RANDY`
+Answer: `CHUCK`
 <pre>
 T A R E S
-M A J O R
-R A P I D
-R A N D Y
+W H I C H
+C H U C K
 </pre>
 </details>
 
