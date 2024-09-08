@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1176 3/6*
+Wordle 1177 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛🟩⬛🟩⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1176 3/6*
 
 <br> 
 
-Answer: `CHUCK`
+Answer: `PRANK`
 <pre>
 T A R E S
-W H I C H
-C H U C K
+B O A R D
+F R A N K
+C R A N K
+P R A N K
 </pre>
 </details>
 
