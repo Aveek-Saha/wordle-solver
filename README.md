@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1177 5/6*
+Wordle 1178 5/6*
 
-⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛⬛🟨 <br>
 ⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1177 5/6*
 
 <br> 
 
-Answer: `PRANK`
+Answer: `FISHY`
 <pre>
 T A R E S
-B O A R D
-F R A N K
-C R A N K
-P R A N K
+M U S I C
+B I S O N
+S I S S Y
+F I S H Y
 </pre>
 </details>
 
