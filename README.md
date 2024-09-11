@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1179 4/6*
+Wordle 1180 3/6*
 
-🟩⬛⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
+🟨⬛🟨🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1179 4/6*
 
 <br> 
 
-Answer: `TOOTH`
+Answer: `ETHER`
 <pre>
 T A R E S
-T H I N K
-T O U C H
-T O O T H
+O T H E R
+E T H E R
 </pre>
 </details>
 
