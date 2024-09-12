@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1180 3/6*
+Wordle 1181 5/6*
 
-🟨⬛🟨🟩⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟩 <br>
+⬛🟩⬛⬛🟩 <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -15,11 +17,13 @@ Wordle 1180 3/6*
 
 <br> 
 
-Answer: `ETHER`
+Answer: `DROVE`
 <pre>
 T A R E S
-O T H E R
-E T H E R
+W H E R E
+P R I C E
+G R O V E
+D R O V E
 </pre>
 </details>
 
