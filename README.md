@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1181 5/6*
+Wordle 1182 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛🟨🟩🟩 <br>
+🟨⬛⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1181 5/6*
 
 <br> 
 
-Answer: `DROVE`
+Answer: `IDLER`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-G R O V E
-D R O V E
+U N D E R
+D O V E R
+I D L E R
 </pre>
 </details>
 
