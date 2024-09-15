@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1183 4/6*
+Wordle 1184 5/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
-🟩🟨🟩⬛🟨 <br>
+🟨⬛⬛⬛🟨 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1183 4/6*
 
 <br> 
 
-Answer: `SWATH`
+Answer: `STINT`
 <pre>
 T A R E S
-S T A F F
-S H A L T
-S W A T H
+S O U T H
+S T I L L
+S T I C K
+S T I N T
 </pre>
 </details>
 
