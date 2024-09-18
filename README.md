@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1186 4/6*
+Wordle 1187 3/6*
 
-🟨🟨⬛🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
-⬛🟩🟨🟩⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1186 4/6*
 
 <br> 
 
-Answer: `BEGAT`
+Answer: `APPLY`
 <pre>
 T A R E S
-D E A T H
-M E T A L
-B E G A T
+A L B U M
+A P P L Y
 </pre>
 </details>
 
