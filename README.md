@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1187 3/6*
+Wordle 1188 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1187 3/6*
 
 <br> 
 
-Answer: `APPLY`
+Answer: `SLANG`
 <pre>
 T A R E S
-A L B U M
-A P P L Y
+S M A L L
+S L A N G
 </pre>
 </details>
 
