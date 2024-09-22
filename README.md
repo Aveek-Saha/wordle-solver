@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1190 3/6*
+Wordle 1191 4/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1190 3/6*
 
 <br> 
 
-Answer: `RADAR`
+Answer: `CREDO`
 <pre>
 T A R E S
-M A J O R
-R A D A R
+W H E R E
+F L E U R
+C R E D O
 </pre>
 </details>
 
