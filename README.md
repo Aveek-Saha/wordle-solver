@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1192 3/6*
+Wordle 1193 3/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟨🟩🟩⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1192 3/6*
 
 <br> 
 
-Answer: `AWARE`
+Answer: `CANON`
 <pre>
 T A R E S
-L E A R N
-A W A R E
+J A P A N
+C A N O N
 </pre>
 </details>
 
