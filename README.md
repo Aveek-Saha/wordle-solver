@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1194 3/6*
+Wordle 1195 4/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛⬛🟨🟨 <br>
+🟩⬛🟨🟩⬛ <br>
+🟩⬛⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1194 3/6*
 
 <br> 
 
-Answer: `SHIFT`
+Answer: `TIMER`
 <pre>
 T A R E S
-S O U T H
-S H I F T
+T O W E R
+T I G E R
+T I M E R
 </pre>
 </details>
 
