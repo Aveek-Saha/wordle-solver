@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1196 3/6*
+Wordle 1197 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨🟨 <br>
+⬛⬛🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1196 3/6*
 
 <br> 
 
-Answer: `BYLAW`
+Answer: `SERUM`
 <pre>
 T A R E S
-A L B U M
-B Y L A W
+H O R S E
+S E R U M
 </pre>
 </details>
 
