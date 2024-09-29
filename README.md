@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1197 3/6*
+Wordle 1198 2/6*
 
-⬛⬛🟩🟨🟨 <br>
-⬛⬛🟩🟨🟨 <br>
+🟩⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 1197 3/6*
 
 <br> 
 
-Answer: `SERUM`
+Answer: `THREE`
 <pre>
 T A R E S
-H O R S E
-S E R U M
+T H R E E
 </pre>
 </details>
 
