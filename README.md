@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1199 5/6*
+Wordle 1200 5/6*
 
-🟨🟨⬛🟨🟨 <br>
-🟩🟩🟨⬛🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -17,13 +17,13 @@ Wordle 1199 5/6*
 
 <br> 
 
-Answer: `STEAK`
+Answer: `ILIAC`
 <pre>
 T A R E S
-S T A T E
-S T E A M
-S T E A L
-S T E A K
+A L B U M
+P L A I N
+I L I A D
+I L I A C
 </pre>
 </details>
 
