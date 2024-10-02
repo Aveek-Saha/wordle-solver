@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1200 5/6*
+Wordle 1201 5/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟨🟨⬛ <br>
-🟩🟩🟩🟩⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1200 5/6*
 
 <br> 
 
-Answer: `ILIAC`
+Answer: `SHIRK`
 <pre>
 T A R E S
-A L B U M
-P L A I N
-I L I A D
-I L I A C
+S W O R D
+S L U R P
+S M I R K
+S H I R K
 </pre>
 </details>
 
