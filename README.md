@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1201 5/6*
+Wordle 1202 3/6*
 
-⬛⬛🟨⬛🟨 <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+🟨🟨🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1201 5/6*
 
 <br> 
 
-Answer: `SHIRK`
+Answer: `BLUNT`
 <pre>
 T A R E S
-S W O R D
-S L U R P
-S M I R K
-S H I R K
+U N T I L
+B L U N T
 </pre>
 </details>
 
