@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1202 3/6*
+Wordle 1203 4/6*
 
-🟨⬛⬛⬛⬛ <br>
-🟨🟨🟨⬛🟨 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1202 3/6*
 
 <br> 
 
-Answer: `BLUNT`
+Answer: `PUPPY`
 <pre>
 T A R E S
-U N T I L
-B L U N T
+W H I C H
+F O U N D
+P U P P Y
 </pre>
 </details>
 
