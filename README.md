@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1203 4/6*
+Wordle 1204 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1203 4/6*
 
 <br> 
 
-Answer: `PUPPY`
+Answer: `PENAL`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P U P P Y
+E M A I L
+L E G A L
+P E D A L
+P E N A L
 </pre>
 </details>
 
