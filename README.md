@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1204 5/6*
+Wordle 1205 5/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟩 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨🟩⬛🟨⬛ <br>
 ⬛🟩⬛🟩🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1204 5/6*
 
 <br> 
 
-Answer: `PENAL`
+Answer: `JOIST`
 <pre>
 T A R E S
-E M A I L
-L E G A L
-P E D A L
-P E N A L
+S O U T H
+B O O S T
+M O I S T
+J O I S T
 </pre>
 </details>
 
