@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1205 5/6*
+Wordle 1206 4/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟨🟩⬛🟨⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1205 5/6*
 
 <br> 
 
-Answer: `JOIST`
+Answer: `BUNNY`
 <pre>
 T A R E S
-S O U T H
-B O O S T
-M O I S T
-J O I S T
+W H I C H
+F O U N D
+B U N N Y
 </pre>
 </details>
 
