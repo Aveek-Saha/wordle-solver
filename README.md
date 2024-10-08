@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1206 4/6*
+Wordle 1207 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟩⬛ <br>
+⬛🟨⬛🟨🟨 <br>
+🟩🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1206 4/6*
 
 <br> 
 
-Answer: `BUNNY`
+Answer: `SHAPE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-B U N N Y
+S P A C E
+S H A P E
 </pre>
 </details>
 
