@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1207 3/6*
+Wordle 1208 5/6*
 
-⬛🟨⬛🟨🟨 <br>
-🟩🟨🟩⬛🟩 <br>
+🟨⬛⬛🟩⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1207 3/6*
 
 <br> 
 
-Answer: `SHAPE`
+Answer: `BEGET`
 <pre>
 T A R E S
-S P A C E
-S H A P E
+H O T E L
+Q U I E T
+G E N E T
+B E G E T
 </pre>
 </details>
 
