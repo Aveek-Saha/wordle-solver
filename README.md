@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1208 5/6*
+Wordle 1209 4/6*
 
-🟨⬛⬛🟩⬛ <br>
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-🟨🟩⬛🟩🟩 <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛⬛🟩⬛ <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1208 5/6*
 
 <br> 
 
-Answer: `BEGET`
+Answer: `WHEEL`
 <pre>
 T A R E S
-H O T E L
-Q U I E T
-G E N E T
-B E G E T
+V I D E O
+Q U E E N
+W H E E L
 </pre>
 </details>
 
