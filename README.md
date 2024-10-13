@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1211 6/6*
+Wordle 1212 3/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩⬛🟩🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+🟨⬛⬛🟨🟨 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1211 6/6*
 
 <br> 
 
-Answer: `STUNT`
+Answer: `STOLE`
 <pre>
 T A R E S
-S O U T H
-S T U D Y
-S T U F F
-S T U C K
-S T U N T
+S T Y L E
+S T O L E
 </pre>
 </details>
 
