@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1212 3/6*
+Wordle 1213 4/6*
 
-🟨⬛⬛🟨🟨 <br>
-🟩🟩⬛🟩🟩 <br>
+🟩🟨⬛⬛⬛ <br>
+🟩🟩⬛🟩⬛ <br>
+🟩🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1212 3/6*
 
 <br> 
 
-Answer: `STOLE`
+Answer: `TOPAZ`
 <pre>
 T A R E S
-S T Y L E
-S T O L E
+T O T A L
+T O D A Y
+T O P A Z
 </pre>
 </details>
 
