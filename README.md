@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1213 4/6*
+Wordle 1214 3/6*
 
-🟩🟨⬛⬛⬛ <br>
-🟩🟩⬛🟩⬛ <br>
-🟩🟩⬛🟩⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1213 4/6*
 
 <br> 
 
-Answer: `TOPAZ`
+Answer: `CHORE`
 <pre>
 T A R E S
-T O T A L
-T O D A Y
-T O P A Z
+W H E R E
+C H O R E
 </pre>
 </details>
 
