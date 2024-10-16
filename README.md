@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1214 3/6*
+Wordle 1215 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1214 3/6*
 
 <br> 
 
-Answer: `CHORE`
+Answer: `FLUKE`
 <pre>
 T A R E S
-W H E R E
-C H O R E
+B E I N G
+C H E C K
+F L U K E
 </pre>
 </details>
 
