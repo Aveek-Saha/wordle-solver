@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1215 4/6*
+Wordle 1216 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟨⬛🟨 <br>
+🟨🟨⬛⬛⬛ <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩⬛🟩 <br>
+🟩⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1215 4/6*
 
 <br> 
 
-Answer: `FLUKE`
+Answer: `AFOOT`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-F L U K E
+A B O U T
+A D O P T
+A L O F T
+A F O O T
 </pre>
 </details>
 
