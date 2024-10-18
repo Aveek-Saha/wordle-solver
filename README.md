@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1216 5/6*
+Wordle 1217 3/6*
 
 🟨🟨⬛⬛⬛ <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩⬛🟩 <br>
-🟩⬛🟩🟨🟩 <br>
+🟨🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1216 5/6*
 
 <br> 
 
-Answer: `AFOOT`
+Answer: `BLOAT`
 <pre>
 T A R E S
 A B O U T
-A D O P T
-A L O F T
-A F O O T
+B L O A T
 </pre>
 </details>
 
