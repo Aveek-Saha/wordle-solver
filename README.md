@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1217 3/6*
+Wordle 1218 X/6*
 
-🟨🟨⬛⬛⬛ <br>
-🟨🟨🟩⬛🟩 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BLOAT`
+Answer: `BULLY`
 <pre>
 T A R E S
-A B O U T
-B L O A T
+W H I C H
+F O U N D
+P U P P Y
+M U M M Y
+B U G G Y
 </pre>
 </details>
 
