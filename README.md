@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1218 X/6*
+Wordle 1219 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BULLY`
+Answer: `DENSE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P U P P Y
-M U M M Y
-B U G G Y
+H O U S E
+S E N S E
+D E N S E
 </pre>
 </details>
 
