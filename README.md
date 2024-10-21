@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1219 4/6*
+Wordle 1220 3/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛⬛⬛🟩🟩 <br>
+⬛🟩🟨🟩⬛ <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -16,12 +15,11 @@ Wordle 1219 4/6*
 
 <br> 
 
-Answer: `DENSE`
+Answer: `CAPER`
 <pre>
 T A R E S
-H O U S E
-S E N S E
-D E N S E
+P A P E R
+C A P E R
 </pre>
 </details>
 
