@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1220 3/6*
+Wordle 1221 5/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨🟩🟨 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1220 3/6*
 
 <br> 
 
-Answer: `CAPER`
+Answer: `SNEER`
 <pre>
 T A R E S
-P A P E R
-C A P E R
+S U P E R
+S K I E R
+S H E E R
+S N E E R
 </pre>
 </details>
 
