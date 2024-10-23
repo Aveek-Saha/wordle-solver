@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1221 5/6*
+Wordle 1222 5/6*
 
-⬛⬛🟨🟩🟨 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1221 5/6*
 
 <br> 
 
-Answer: `SNEER`
+Answer: `BOXER`
 <pre>
 T A R E S
-S U P E R
-S K I E R
-S H E E R
-S N E E R
+U N D E R
+R I V E R
+P O W E R
+B O X E R
 </pre>
 </details>
 
