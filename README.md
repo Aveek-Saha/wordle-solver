@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1223 4/6*
+Wordle 1224 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨🟨 <br>
+🟨🟨⬛⬛🟩 <br>
+🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1223 4/6*
 
 <br> 
 
-Answer: `JUMBO`
+Answer: `LUNGE`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-J U M B O
+B E I N G
+G N O M E
+N U D G E
+L U N G E
 </pre>
 </details>
 
