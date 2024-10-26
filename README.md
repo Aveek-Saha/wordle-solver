@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1224 5/6*
+Wordle 1225 2/6*
 
-⬛⬛⬛🟨⬛ <br>
 ⬛🟨⬛🟨🟨 <br>
-🟨🟨⬛⬛🟩 <br>
-🟨🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 1224 5/6*
 
 <br> 
 
-Answer: `LUNGE`
+Answer: `SPACE`
 <pre>
 T A R E S
-B E I N G
-G N O M E
-N U D G E
-L U N G E
+S P A C E
 </pre>
 </details>
 
