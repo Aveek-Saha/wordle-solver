@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1225 2/6*
+Wordle 1226 4/6*
 
-⬛🟨⬛🟨🟨 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟨⬛⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 1225 2/6*
 
 <br> 
 
-Answer: `SPACE`
+Answer: `AVAIL`
 <pre>
 T A R E S
-S P A C E
+A L B U M
+A P P L Y
+A V A I L
 </pre>
 </details>
 
