@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1226 4/6*
+Wordle 1227 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟩🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1226 4/6*
 
 <br> 
 
-Answer: `AVAIL`
+Answer: `SHORT`
 <pre>
 T A R E S
-A L B U M
-A P P L Y
-A V A I L
+S T O R Y
+S H O R T
 </pre>
 </details>
 
