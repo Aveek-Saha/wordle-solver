@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1227 3/6*
+Wordle 1228 3/6*
 
-🟨⬛🟨⬛🟨 <br>
-🟩🟨🟩🟩⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟩⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1227 3/6*
 
 <br> 
 
-Answer: `SHORT`
+Answer: `SLURP`
 <pre>
 T A R E S
-S T O R Y
-S H O R T
+S W O R D
+S L U R P
 </pre>
 </details>
 
