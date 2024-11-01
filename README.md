@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1230 4/6*
+Wordle 1231 4/6*
 
-🟨⬛🟨⬛⬛ <br>
-🟨🟨⬛⬛🟩 <br>
-⬛🟨🟩⬛🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛⬛⬛ <br>
+🟨⬛⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1230 4/6*
 
 <br> 
 
-Answer: `FLIRT`
+Answer: `PIZZA`
 <pre>
 T A R E S
-R I G H T
-P R I N T
-F L I R T
+A L B U M
+I N D I A
+P I Z Z A
 </pre>
 </details>
 
