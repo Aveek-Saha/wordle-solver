@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1232 4/6*
+Wordle 1233 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟩🟩 <br>
-⬛⬛🟩🟩🟩 <br>
+🟩⬛⬛🟨⬛ <br>
+🟩⬛⬛⬛🟨 <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1232 4/6*
 
 <br> 
 
-Answer: `CONCH`
+Answer: `TEMPO`
 <pre>
 T A R E S
-W H I C H
-L U N C H
-C O N C H
+T I T L E
+T E D D Y
+T E M P O
 </pre>
 </details>
 
