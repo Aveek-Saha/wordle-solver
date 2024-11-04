@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1233 4/6*
+Wordle 1234 3/6*
 
-🟩⬛⬛🟨⬛ <br>
-🟩⬛⬛⬛🟨 <br>
-🟩🟩⬛⬛⬛ <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1233 4/6*
 
 <br> 
 
-Answer: `TEMPO`
+Answer: `DROOP`
 <pre>
 T A R E S
-T I T L E
-T E D D Y
-T E M P O
+G R O U P
+D R O O P
 </pre>
 </details>
 
