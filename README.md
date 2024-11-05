@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1234 3/6*
+Wordle 1235 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
+🟨🟨⬛🟨⬛ <br>
+⬛🟨🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1234 3/6*
 
 <br> 
 
-Answer: `DROOP`
+Answer: `PLATE`
 <pre>
 T A R E S
-G R O U P
-D R O O P
+D E A T H
+P L A T E
 </pre>
 </details>
 
