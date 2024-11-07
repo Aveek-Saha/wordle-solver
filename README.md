@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1236 3/6*
+Wordle 1237 4/6*
 
-⬛⬛⬛🟨⬛ <br>
-🟩🟨🟨⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1236 3/6*
 
 <br> 
 
-Answer: `BIBLE`
+Answer: `PLUNK`
 <pre>
 T A R E S
-B E I N G
-B I B L E
+W H I C H
+F O U N D
+P L U N K
 </pre>
 </details>
 
