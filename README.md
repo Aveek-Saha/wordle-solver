@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1237 4/6*
+Wordle 1238 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟨⬛🟩⬛ <br>
+🟩⬛🟨🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1237 4/6*
 
 <br> 
 
-Answer: `PLUNK`
+Answer: `AFOUL`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-P L U N K
+A L B U M
+A W F U L
+A F O U L
 </pre>
 </details>
 
