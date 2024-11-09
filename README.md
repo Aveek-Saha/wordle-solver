@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1238 4/6*
+Wordle 1239 6/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛🟩⬛ <br>
-🟩⬛🟨🟩🟩 <br>
+⬛🟩⬛⬛🟨 <br>
+⬛🟩🟨⬛⬛ <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
+🟩🟩⬛⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 1238 4/6*
 
 <br> 
 
-Answer: `AFOUL`
+Answer: `SAVOY`
 <pre>
 T A R E S
-A L B U M
-A W F U L
-A F O U L
+B A S I C
+S A N D Y
+S A L L Y
+S A M M Y
+S A V O Y
 </pre>
 </details>
 
