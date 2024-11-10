@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1239 6/6*
+Wordle 1240 3/6*
 
-⬛🟩⬛⬛🟨 <br>
-⬛🟩🟨⬛⬛ <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
-🟩🟩⬛⬛🟩 <br>
+🟨⬛⬛🟩🟨 <br>
+🟩🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1239 6/6*
 
 <br> 
 
-Answer: `SAVOY`
+Answer: `STEEP`
 <pre>
 T A R E S
-B A S I C
-S A N D Y
-S A L L Y
-S A M M Y
-S A V O Y
+S T E E L
+S T E E P
 </pre>
 </details>
 
