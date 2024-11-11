@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1240 3/6*
+Wordle 1241 4/6*
 
-🟨⬛⬛🟩🟨 <br>
-🟩🟩🟩🟩⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨🟨🟨 <br>
+🟩🟨🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1240 3/6*
 
 <br> 
 
-Answer: `STEEP`
+Answer: `AGILE`
 <pre>
 T A R E S
-S T E E L
-S T E E P
+E M A I L
+A L I V E
+A G I L E
 </pre>
 </details>
 
