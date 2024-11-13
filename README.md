@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1242 4/6*
+Wordle 1243 5/6*
 
-🟨🟨⬛🟨🟨 <br>
-🟩🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1242 4/6*
 
 <br> 
 
-Answer: `STAKE`
+Answer: `DWELL`
 <pre>
 T A R E S
-S T A T E
-S T A G E
-S T A K E
+B E I N G
+C H E C K
+Q U E U E
+D W E L L
 </pre>
 </details>
 
