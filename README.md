@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1243 5/6*
+Wordle 1244 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟨🟩⬛⬛ <br>
+⬛⬛🟩🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1243 5/6*
 
 <br> 
 
-Answer: `DWELL`
+Answer: `KNAVE`
 <pre>
 T A R E S
-B E I N G
-C H E C K
-Q U E U E
-D W E L L
+E M A I L
+B E A C H
+Q U A K E
+K N A V E
 </pre>
 </details>
 
