@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1245 4/6*
+Wordle 1246 4/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨🟨🟨 <br>
+🟨⬛🟨🟨🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1245 4/6*
 
 <br> 
 
-Answer: `BEARD`
+Answer: `AROSE`
 <pre>
 T A R E S
-L E A R N
-H E A R D
-B E A R D
+S H A R E
+A R I S E
+A R O S E
 </pre>
 </details>
 
