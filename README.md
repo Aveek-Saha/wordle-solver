@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1246 4/6*
+Wordle 1247 3/6*
 
-⬛🟨🟨🟨🟨 <br>
-🟨⬛🟨🟨🟩 <br>
-🟩🟩⬛🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1246 4/6*
 
 <br> 
 
-Answer: `AROSE`
+Answer: `MOTIF`
 <pre>
 T A R E S
-S H A R E
-A R I S E
-A R O S E
+U N T I L
+M O T I F
 </pre>
 </details>
 
