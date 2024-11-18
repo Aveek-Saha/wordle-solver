@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1247 3/6*
+Wordle 1248 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1247 3/6*
 
 <br> 
 
-Answer: `MOTIF`
+Answer: `SMASH`
 <pre>
 T A R E S
-U N T I L
-M O T I F
+S M A L L
+S M A S H
 </pre>
 </details>
 
