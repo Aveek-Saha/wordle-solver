@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1248 3/6*
+Wordle 1249 5/6*
 
-⬛🟨⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -15,11 +17,13 @@ Wordle 1248 3/6*
 
 <br> 
 
-Answer: `SMASH`
+Answer: `BROIL`
 <pre>
 T A R E S
-S M A L L
-S M A S H
+G R O U P
+B R O W N
+B R O O K
+B R O I L
 </pre>
 </details>
 
