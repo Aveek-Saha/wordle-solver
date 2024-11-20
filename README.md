@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1249 5/6*
+Wordle 1250 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟨🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1249 5/6*
 
 <br> 
 
-Answer: `BROIL`
+Answer: `GLARE`
 <pre>
 T A R E S
-G R O U P
-B R O W N
-B R O O K
-B R O I L
+L E A R N
+F L A R E
+G L A R E
 </pre>
 </details>
 
