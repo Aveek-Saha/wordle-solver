@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1250 4/6*
+Wordle 1251 3/6*
 
-⬛🟨🟨🟨⬛ <br>
-🟨🟨🟩🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨🟨 <br>
+🟨🟨⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1250 4/6*
 
 <br> 
 
-Answer: `GLARE`
+Answer: `SHOVE`
 <pre>
 T A R E S
-L E A R N
-F L A R E
-G L A R E
+H O U S E
+S H O V E
 </pre>
 </details>
 
