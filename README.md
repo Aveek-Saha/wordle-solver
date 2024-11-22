@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1251 3/6*
+Wordle 1252 X/6*
 
-⬛⬛⬛🟨🟨 <br>
-🟨🟨⬛🟨🟩 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+🟨🟩🟨⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `SHOVE`
+Answer: `BAGGY`
 <pre>
 T A R E S
-H O U S E
-S H O V E
+J A P A N
+Y A H O O
+D A I L Y
+W A C K Y
+G A B B Y
 </pre>
 </details>
 
