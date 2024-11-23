@@ -4,21 +4,21 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1252 X/6*
+Wordle 1253 X/6*
 
 ⬛🟩⬛⬛⬛ <br>
 ⬛🟩⬛⬛⬛ <br>
 🟨🟩⬛⬛⬛ <br>
 ⬛🟩⬛⬛🟩 <br>
 ⬛🟩⬛⬛🟩 <br>
-🟨🟩🟨⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BAGGY`
+Answer: `MAMMY`
 <pre>
 T A R E S
 J A P A N
