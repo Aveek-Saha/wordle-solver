@@ -4,28 +4,22 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1253 X/6*
+Wordle 1254 3/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
+⬛🟨⬛⬛🟨 <br>
+🟩🟨🟩⬛⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `MAMMY`
+Answer: `SWAMP`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-D A I L Y
-W A C K Y
-G A B B Y
+S M A L L
+S W A M P
 </pre>
 </details>
 
