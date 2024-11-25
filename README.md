@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1254 3/6*
+Wordle 1255 3/6*
 
-⬛🟨⬛⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1254 3/6*
 
 <br> 
 
-Answer: `SWAMP`
+Answer: `ALONG`
 <pre>
 T A R E S
-S M A L L
-S W A M P
+A L B U M
+A L O N G
 </pre>
 </details>
 
