@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1256 3/6*
+Wordle 1257 X/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟨🟨⬛🟨⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `RUGBY`
+Answer: `WAGER`
 <pre>
 T A R E S
-G R O U P
-R U G B Y
+P A P E R
+L A Y E R
+B A K E R
+R A C E R
+E A G E R
 </pre>
 </details>
 
