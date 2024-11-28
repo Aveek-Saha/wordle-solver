@@ -4,28 +4,24 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1257 X/6*
+Wordle 1258 4/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟩⬛🟩🟨 <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `WAGER`
+Answer: `QUACK`
 <pre>
 T A R E S
-P A P E R
-L A Y E R
-B A K E R
-R A C E R
-E A G E R
+A L B U M
+Y U C C A
+Q U A C K
 </pre>
 </details>
 
