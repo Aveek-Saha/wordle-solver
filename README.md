@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1258 4/6*
+Wordle 1259 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨⬛⬛🟨⬛ <br>
-⬛🟩⬛🟩🟨 <br>
+🟨🟨⬛⬛🟨 <br>
+🟩🟨🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1258 4/6*
 
 <br> 
 
-Answer: `QUACK`
+Answer: `SQUAT`
 <pre>
 T A R E S
-A L B U M
-Y U C C A
-Q U A C K
+S T A F F
+S Q U A T
 </pre>
 </details>
 
