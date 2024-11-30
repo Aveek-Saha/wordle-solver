@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1259 3/6*
+Wordle 1260 5/6*
 
-🟨🟨⬛⬛🟨 <br>
-🟩🟨🟨⬛⬛ <br>
+⬛🟨⬛⬛🟨 <br>
+🟩⬛🟩⬛⬛ <br>
+🟩⬛🟩⬛🟨 <br>
+🟩🟩🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1259 3/6*
 
 <br> 
 
-Answer: `SQUAT`
+Answer: `SNAKY`
 <pre>
 T A R E S
-S T A F F
-S Q U A T
+S M A L L
+S P A I N
+S N A C K
+S N A K Y
 </pre>
 </details>
 
