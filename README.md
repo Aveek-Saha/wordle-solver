@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1261 3/6*
+Wordle 1262 4/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟨🟨🟨 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1261 3/6*
 
 <br> 
 
-Answer: `DEBIT`
+Answer: `MANGE`
 <pre>
 T A R E S
-W H I T E
-D E B I T
+V A L U E
+D A N C E
+M A N G E
 </pre>
 </details>
 
