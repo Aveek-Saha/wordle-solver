@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1262 4/6*
+Wordle 1263 3/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+🟨🟨⬛🟨🟨 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1262 4/6*
 
 <br> 
 
-Answer: `MANGE`
+Answer: `SKATE`
 <pre>
 T A R E S
-V A L U E
-D A N C E
-M A N G E
+S T A T E
+S K A T E
 </pre>
 </details>
 
