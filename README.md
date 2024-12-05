@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1264 4/6*
+Wordle 1265 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛🟨🟨🟨⬛ <br>
-⬛⬛🟨🟨🟨 <br>
+🟨⬛⬛⬛🟨 <br>
+🟨🟩🟩🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1264 4/6*
 
 <br> 
 
-Answer: `NINTH`
+Answer: `JOUST`
 <pre>
 T A R E S
-U N T I L
-P O I N T
-N I N T H
+S O U T H
+J O U S T
 </pre>
 </details>
 
