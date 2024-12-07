@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1266 4/6*
+Wordle 1267 4/6*
 
-🟩🟨🟨⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟨⬛🟨 <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛🟩🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1266 4/6*
 
 <br> 
 
-Answer: `TRAMP`
+Answer: `SPURN`
 <pre>
 T A R E S
-T R A C K
-T R A I N
-T R A M P
+S W O R D
+S L U R P
+S P U R N
 </pre>
 </details>
 
