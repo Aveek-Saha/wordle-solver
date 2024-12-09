@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1268 3/6*
+Wordle 1269 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨🟨🟨⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+🟨🟨⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1268 3/6*
 
 <br> 
 
-Answer: `MEDAL`
+Answer: `MICRO`
 <pre>
 T A R E S
-E M A I L
-M E D A L
+G R O U P
+C O L O R
+M I C R O
 </pre>
 </details>
 
