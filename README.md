@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1269 4/6*
+Wordle 1270 4/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-🟨🟨⬛⬛🟨 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1269 4/6*
 
 <br> 
 
-Answer: `MICRO`
+Answer: `REBEL`
 <pre>
 T A R E S
-G R O U P
-C O L O R
-M I C R O
+U N D E R
+G R E E K
+R E B E L
 </pre>
 </details>
 
