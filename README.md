@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1270 4/6*
+Wordle 1271 5/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟨🟨🟩⬛ <br>
+⬛🟨⬛⬛⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1270 4/6*
 
 <br> 
 
-Answer: `REBEL`
+Answer: `FLANK`
 <pre>
 T A R E S
-U N D E R
-G R E E K
-R E B E L
+A L B U M
+P L A I N
+G L A N D
+F L A N K
 </pre>
 </details>
 
