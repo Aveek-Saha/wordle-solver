@@ -4,12 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1271 5/6*
+Wordle 1272 2/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
-⬛🟩🟩🟩⬛ <br>
+⬛🟨🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +14,10 @@ Wordle 1271 5/6*
 
 <br> 
 
-Answer: `FLANK`
+Answer: `LEARN`
 <pre>
 T A R E S
-A L B U M
-P L A I N
-G L A N D
-F L A N K
+L E A R N
 </pre>
 </details>
 
