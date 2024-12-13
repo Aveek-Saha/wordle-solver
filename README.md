@@ -4,9 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1272 2/6*
+Wordle 1273 4/6*
 
-⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨⬛⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +16,12 @@ Wordle 1272 2/6*
 
 <br> 
 
-Answer: `LEARN`
+Answer: `NADIR`
 <pre>
 T A R E S
-L E A R N
+M A J O R
+R A D A R
+N A D I R
 </pre>
 </details>
 
