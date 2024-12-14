@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1273 4/6*
+Wordle 1274 5/6*
 
-⬛🟩🟨⬛⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩🟨⬛🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1273 4/6*
 
 <br> 
 
-Answer: `NADIR`
+Answer: `MAPLE`
 <pre>
 T A R E S
-M A J O R
-R A D A R
-N A D I R
+V A L U E
+C A B L E
+E A G L E
+M A P L E
 </pre>
 </details>
 
