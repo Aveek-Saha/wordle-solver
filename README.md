@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1274 5/6*
+Wordle 1275 5/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩🟨⬛🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1274 5/6*
 
 <br> 
 
-Answer: `MAPLE`
+Answer: `COMFY`
 <pre>
 T A R E S
-V A L U E
-C A B L E
-E A G L E
-M A P L E
+W H I C H
+C O U L D
+C O N G O
+C O M F Y
 </pre>
 </details>
 
