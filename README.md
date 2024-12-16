@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1275 5/6*
+Wordle 1276 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟨⬛ <br>
-🟩🟩⬛⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+🟨⬛🟨🟨⬛ <br>
+🟩⬛⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1275 5/6*
 
 <br> 
 
-Answer: `COMFY`
+Answer: `REMIT`
 <pre>
 T A R E S
-W H I C H
-C O U L D
-C O N G O
-C O M F Y
+R O U T E
+R E M I T
 </pre>
 </details>
 
