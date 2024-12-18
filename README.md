@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1277 3/6*
+Wordle 1278 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-🟩🟩⬛🟨⬛ <br>
+🟨⬛🟨🟩🟨 <br>
+🟨🟨🟨🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1277 3/6*
 
 <br> 
 
-Answer: `GRUFF`
+Answer: `ESTER`
 <pre>
 T A R E S
-G R O U P
-G R U F F
+R E S E T
+E S T E R
 </pre>
 </details>
 
