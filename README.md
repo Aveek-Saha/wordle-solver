@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1278 3/6*
+Wordle 1279 3/6*
 
-🟨⬛🟨🟩🟨 <br>
-🟨🟨🟨🟩🟨 <br>
+🟨🟨⬛🟨🟨 <br>
+🟨🟨🟩⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1278 3/6*
 
 <br> 
 
-Answer: `ESTER`
+Answer: `LEAST`
 <pre>
 T A R E S
-R E S E T
-E S T E R
+S T A T E
+L E A S T
 </pre>
 </details>
 
