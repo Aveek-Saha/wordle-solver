@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1280 4/6*
+Wordle 1281 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛⬛⬛ <br>
-⬛🟩🟨⬛⬛ <br>
+🟨⬛⬛🟨⬛ <br>
+⬛🟨⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1280 4/6*
 
 <br> 
 
-Answer: `MOGUL`
+Answer: `FETCH`
 <pre>
 T A R E S
-W H I C H
-F O U N D
-M O G U L
+W H I T E
+F E T C H
 </pre>
 </details>
 
