@@ -4,10 +4,9 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1281 3/6*
+Wordle 1282 2/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛🟨⬛🟨🟨 <br>
+⬛🟩⬛🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +14,10 @@ Wordle 1281 3/6*
 
 <br> 
 
-Answer: `FETCH`
+Answer: `CAUSE`
 <pre>
 T A R E S
-W H I T E
-F E T C H
+C A U S E
 </pre>
 </details>
 
