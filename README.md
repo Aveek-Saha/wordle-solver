@@ -4,9 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1282 2/6*
+Wordle 1283 6/6*
 
-⬛🟩⬛🟨🟨 <br>
+⬛🟩⬛🟩⬛ <br>
+🟨🟩⬛🟩⬛ <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -14,10 +18,14 @@ Wordle 1282 2/6*
 
 <br> 
 
-Answer: `CAUSE`
+Answer: `OAKEN`
 <pre>
 T A R E S
-C A U S E
+N A M E D
+P A N E L
+H A V E N
+Z A Z E N
+O A K E N
 </pre>
 </details>
 
