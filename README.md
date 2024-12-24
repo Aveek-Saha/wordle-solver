@@ -4,13 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1283 6/6*
+Wordle 1284 5/6*
 
-⬛🟩⬛🟩⬛ <br>
-🟨🟩⬛🟩⬛ <br>
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩🟨⬛⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +17,13 @@ Wordle 1283 6/6*
 
 <br> 
 
-Answer: `OAKEN`
+Answer: `AGLOW`
 <pre>
 T A R E S
-N A M E D
-P A N E L
-H A V E N
-Z A Z E N
-O A K E N
+A L B U M
+A P P L Y
+A V A I L
+A G L O W
 </pre>
 </details>
 
