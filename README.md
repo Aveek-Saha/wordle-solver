@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1284 5/6*
+Wordle 1285 3/6*
 
-⬛🟨⬛⬛⬛ <br>
-🟩🟨⬛⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
-🟩⬛⬛⬛🟨 <br>
+🟨🟨⬛🟨⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1284 5/6*
 
 <br> 
 
-Answer: `AGLOW`
+Answer: `MEATY`
 <pre>
 T A R E S
-A L B U M
-A P P L Y
-A V A I L
-A G L O W
+D E A T H
+M E A T Y
 </pre>
 </details>
 
