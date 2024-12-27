@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1286 5/6*
+Wordle 1287 4/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛⬛🟩 <br>
+⬛⬛⬛⬛🟨 <br>
+⬛⬛🟨⬛⬛ <br>
+🟩🟩⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1286 5/6*
 
 <br> 
 
-Answer: `GAFFE`
+Answer: `SHYLY`
 <pre>
 T A R E S
-V A L U E
-D A N C E
-M A Y B E
-G A F F E
+M U S I C
+S H O W N
+S H Y L Y
 </pre>
 </details>
 
