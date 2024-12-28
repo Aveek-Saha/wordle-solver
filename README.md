@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1287 4/6*
+Wordle 1288 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨⬛⬛ <br>
-🟩🟩⬛⬛⬛ <br>
+⬛🟩🟨🟩⬛ <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1287 4/6*
 
 <br> 
 
-Answer: `SHYLY`
+Answer: `RACER`
 <pre>
 T A R E S
-M U S I C
-S H O W N
-S H Y L Y
+P A P E R
+L A Y E R
+B A K E R
+R A C E R
 </pre>
 </details>
 
