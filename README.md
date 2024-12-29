@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1288 5/6*
+Wordle 1289 5/6*
 
-⬛🟩🟨🟩⬛ <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛🟨 <br>
+🟩🟩🟩⬛⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1288 5/6*
 
 <br> 
 
-Answer: `RACER`
+Answer: `PROWL`
 <pre>
 T A R E S
-P A P E R
-L A Y E R
-B A K E R
-R A C E R
+G R O U P
+P R O O F
+P R O X Y
+P R O W L
 </pre>
 </details>
 
