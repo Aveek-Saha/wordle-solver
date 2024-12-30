@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1289 5/6*
+Wordle 1290 3/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟩🟩⬛🟨 <br>
-🟩🟩🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1289 5/6*
 
 <br> 
 
-Answer: `PROWL`
+Answer: `THIEF`
 <pre>
 T A R E S
-G R O U P
-P R O O F
-P R O X Y
-P R O W L
+T O K E N
+T H I E F
 </pre>
 </details>
 
