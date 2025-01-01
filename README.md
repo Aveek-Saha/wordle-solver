@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1291 3/6*
+Wordle 1292 3/6*
 
-🟨⬛🟨🟨🟨 <br>
-🟩🟩⬛🟩🟨 <br>
+⬛⬛⬛🟨🟨 <br>
+⬛🟩⬛🟩🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1291 3/6*
 
 <br> 
 
-Answer: `STERN`
+Answer: `POESY`
 <pre>
 T A R E S
-S T O R E
-S T E R N
+H O U S E
+P O E S Y
 </pre>
 </details>
 
