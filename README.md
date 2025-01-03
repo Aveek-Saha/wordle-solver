@@ -4,11 +4,13 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1293 4/6*
+Wordle 1294 6/6*
 
-⬛⬛🟨⬛⬛ <br>
-⬛🟨🟨⬛⬛ <br>
-🟨🟩⬛⬛🟨 <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩⬛⬛🟩⬛ <br>
+🟩🟨⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +18,14 @@ Wordle 1293 4/6*
 
 <br> 
 
-Answer: `ROCKY`
+Answer: `TWEET`
 <pre>
 T A R E S
-G R O U P
-C O L O R
-R O C K Y
+T O K E N
+T H I E F
+T Y P E D
+T E L E X
+T W E E T
 </pre>
 </details>
 
