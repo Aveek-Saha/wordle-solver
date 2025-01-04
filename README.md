@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1294 6/6*
+Wordle 1295 3/6*
 
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩🟨⬛🟩⬛ <br>
+🟨🟩⬛⬛🟨 <br>
+🟨🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1294 6/6*
 
 <br> 
 
-Answer: `TWEET`
+Answer: `WAIST`
 <pre>
 T A R E S
-T O K E N
-T H I E F
-T Y P E D
-T E L E X
-T W E E T
+S A I N T
+W A I S T
 </pre>
 </details>
 
