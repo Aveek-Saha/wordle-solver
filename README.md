@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1295 3/6*
+Wordle 1296 4/6*
 
-🟨🟩⬛⬛🟨 <br>
-🟨🟩🟩⬛🟩 <br>
+⬛⬛🟨🟨🟨 <br>
+🟩⬛⬛🟩🟩 <br>
+🟩⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1295 3/6*
 
 <br> 
 
-Answer: `WAIST`
+Answer: `SPIRE`
 <pre>
 T A R E S
-S A I N T
-W A I S T
+S C O R E
+S H I R E
+S P I R E
 </pre>
 </details>
 
