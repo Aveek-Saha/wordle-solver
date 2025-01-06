@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1296 4/6*
+Wordle 1297 5/6*
 
-⬛⬛🟨🟨🟨 <br>
-🟩⬛⬛🟩🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛⬛🟨🟩 <br>
+🟨🟩⬛⬛🟩 <br>
+⬛🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1296 4/6*
 
 <br> 
 
-Answer: `SPIRE`
+Answer: `GROPE`
 <pre>
 T A R E S
-S C O R E
-S H I R E
-S P I R E
+W H E R E
+P R I C E
+D R U P E
+G R O P E
 </pre>
 </details>
 
