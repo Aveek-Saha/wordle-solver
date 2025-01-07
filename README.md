@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1297 5/6*
+Wordle 1298 4/6*
 
-⬛⬛🟨🟨⬛ <br>
-⬛⬛⬛🟨🟩 <br>
-🟨🟩⬛⬛🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩⬛⬛⬛ <br>
+⬛🟩🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1297 5/6*
 
 <br> 
 
-Answer: `GROPE`
+Answer: `HAVOC`
 <pre>
 T A R E S
-W H E R E
-P R I C E
-D R U P E
-G R O P E
+J A P A N
+Y A H O O
+H A V O C
 </pre>
 </details>
 
