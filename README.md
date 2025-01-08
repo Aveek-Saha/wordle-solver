@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1298 4/6*
+Wordle 1299 4/6*
 
-⬛🟩⬛⬛⬛ <br>
-⬛🟩⬛⬛⬛ <br>
-⬛🟩🟨🟩⬛ <br>
+🟨🟩⬛⬛🟨 <br>
+🟨🟩⬛⬛🟨 <br>
+🟩🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1298 4/6*
 
 <br> 
 
-Answer: `HAVOC`
+Answer: `PATSY`
 <pre>
 T A R E S
-J A P A N
-Y A H O O
-H A V O C
+S A I N T
+P A S T A
+P A T S Y
 </pre>
 </details>
 
