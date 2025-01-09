@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1299 4/6*
+Wordle 1300 4/6*
 
-🟨🟩⬛⬛🟨 <br>
-🟨🟩⬛⬛🟨 <br>
-🟩🟩🟨🟨⬛ <br>
+🟩⬛🟨⬛⬛ <br>
+🟩⬛⬛🟨⬛ <br>
+🟩🟩🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1299 4/6*
 
 <br> 
 
-Answer: `PATSY`
+Answer: `TRULY`
 <pre>
 T A R E S
-S A I N T
-P A S T A
-P A T S Y
+T H I R D
+T R U C K
+T R U L Y
 </pre>
 </details>
 
