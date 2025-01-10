@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1300 4/6*
+Wordle 1301 3/6*
 
-🟩⬛🟨⬛⬛ <br>
-🟩⬛⬛🟨⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1300 4/6*
 
 <br> 
 
-Answer: `TRULY`
+Answer: `FORTY`
 <pre>
 T A R E S
-T H I R D
-T R U C K
-T R U L Y
+N O R T H
+F O R T Y
 </pre>
 </details>
 
