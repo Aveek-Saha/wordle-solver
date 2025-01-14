@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1304 5/6*
+Wordle 1305 5/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛⬛🟨🟨⬛ <br>
-🟩⬛🟩⬛⬛ <br>
-🟩🟩🟩⬛⬛ <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1304 5/6*
 
 <br> 
 
-Answer: `SWISH`
+Answer: `GIVER`
 <pre>
 T A R E S
-M U S I C
-S K I L L
-S W I N G
-S W I S H
+U N D E R
+R I V E R
+L I V E R
+G I V E R
 </pre>
 </details>
 
