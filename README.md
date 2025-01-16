@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1306 4/6*
+Wordle 1307 4/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟨 <br>
+⬛⬛⬛🟩⬛ <br>
+🟨⬛⬛🟩⬛ <br>
 ⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
@@ -16,12 +16,12 @@ Wordle 1306 4/6*
 
 <br> 
 
-Answer: `PREEN`
+Answer: `BEVEL`
 <pre>
 T A R E S
-U N D E R
-G R E E N
-P R E E N
+V I D E O
+L E V E L
+B E V E L
 </pre>
 </details>
 
