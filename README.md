@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1307 4/6*
+Wordle 1308 4/6*
 
-⬛⬛⬛🟩⬛ <br>
-🟨⬛⬛🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨🟨⬛ <br>
+⬛⬛🟨🟨⬛ <br>
+🟨🟩⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1307 4/6*
 
 <br> 
 
-Answer: `BEVEL`
+Answer: `LEMUR`
 <pre>
 T A R E S
-V I D E O
-L E V E L
-B E V E L
+W H E R E
+R E P L Y
+L E M U R
 </pre>
 </details>
 
