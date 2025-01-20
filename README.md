@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1310 4/6*
+Wordle 1311 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟨⬛🟨🟩 <br>
-🟩⬛🟩🟩🟩 <br>
+⬛🟨⬛⬛⬛ <br>
+🟩⬛⬛⬛⬛ <br>
+🟩⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1310 4/6*
 
 <br> 
 
-Answer: `SLOPE`
+Answer: `ANNOY`
 <pre>
 T A R E S
-H O U S E
-S C O P E
-S L O P E
+A L B U M
+A G A I N
+A N N O Y
 </pre>
 </details>
 
