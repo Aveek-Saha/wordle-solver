@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1312 4/6*
+Wordle 1313 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨⬛⬛ <br>
-🟩🟨🟨🟨🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛🟨 <br>
+🟨⬛⬛🟨🟨 <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1312 4/6*
 
 <br> 
 
-Answer: `LINGO`
+Answer: `BLEAK`
 <pre>
 T A R E S
-W H I C H
-L O G I N
-L I N G O
+E M A I L
+A P P L E
+C L E A N
+B L E A K
 </pre>
 </details>
 
