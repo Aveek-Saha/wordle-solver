@@ -4,26 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1313 5/6*
+Wordle 1314 X/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟨⬛🟨 <br>
-🟨⬛⬛🟨🟨 <br>
-⬛🟩🟩🟩⬛ <br>
-🟩🟩🟩🟩🟩 <br>
+🟨⬛⬛⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `BLEAK`
+Answer: `DITTY`
 <pre>
 T A R E S
-E M A I L
-A P P L E
-C L E A N
-B L E A K
+U N T I L
+P I T C H
+K I T T Y
+W I T T Y
+B I T T Y
 </pre>
 </details>
 
