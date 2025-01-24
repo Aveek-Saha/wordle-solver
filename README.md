@@ -4,28 +4,22 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1314 X/6*
+Wordle 1315 3/6*
 
-🟨⬛⬛⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩🟩⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `DITTY`
+Answer: `CURLY`
 <pre>
 T A R E S
-U N T I L
-P I T C H
-K I T T Y
-W I T T Y
-B I T T Y
+W O R L D
+C U R L Y
 </pre>
 </details>
 
