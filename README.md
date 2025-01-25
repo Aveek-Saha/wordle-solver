@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1315 3/6*
+Wordle 1316 3/6*
 
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩🟩⬛ <br>
+⬛🟨🟨🟨⬛ <br>
+⬛🟩🟨🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1315 3/6*
 
 <br> 
 
-Answer: `CURLY`
+Answer: `CEDAR`
 <pre>
 T A R E S
-W O R L D
-C U R L Y
+L E A R N
+C E D A R
 </pre>
 </details>
 
