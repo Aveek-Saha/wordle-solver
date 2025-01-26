@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1316 3/6*
+Wordle 1317 5/6*
 
-⬛🟨🟨🟨⬛ <br>
-⬛🟩🟨🟨⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛⬛🟩⬛🟩 <br>
+⬛⬛🟩⬛🟩 <br>
+⬛⬛🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1316 3/6*
 
 <br> 
 
-Answer: `CEDAR`
+Answer: `DIRGE`
 <pre>
 T A R E S
-L E A R N
-C E D A R
+F O R C E
+N E R V E
+B U R K E
+D I R G E
 </pre>
 </details>
 
