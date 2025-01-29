@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1319 5/6*
+Wordle 1320 5/6*
 
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1319 5/6*
 
 <br> 
 
-Answer: `HORDE`
+Answer: `DROOL`
 <pre>
 T A R E S
-F O R C E
-B O R N E
-G O R G E
-H O R D E
+G R O U P
+B R O W N
+C R O O K
+D R O O L
 </pre>
 </details>
 
