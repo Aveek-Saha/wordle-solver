@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1321 5/6*
+Wordle 1322 4/6*
 
-⬛⬛⬛⬛🟨 <br>
-⬛🟨🟨⬛🟨 <br>
-🟩🟨🟩⬛⬛ <br>
-🟩⬛🟩🟩🟩 <br>
+🟨⬛🟨⬛⬛ <br>
+🟨⬛⬛⬛🟩 <br>
+🟩⬛⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1321 5/6*
 
 <br> 
 
-Answer: `SHUCK`
+Answer: `CRYPT`
 <pre>
 T A R E S
-M U S I C
-S C U L L
-S N U C K
-S H U C K
+R I G H T
+C O U R T
+C R Y P T
 </pre>
 </details>
 
