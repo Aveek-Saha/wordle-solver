@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1323 5/6*
+Wordle 1324 3/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟩⬛⬛🟩⬛ <br>
-🟩⬛🟩🟩⬛ <br>
+🟨⬛⬛⬛🟨 <br>
+🟩🟨⬛🟨⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1323 5/6*
 
 <br> 
 
-Answer: `CUMIN`
+Answer: `STOCK`
 <pre>
 T A R E S
-W H I C H
-C I V I L
-C O M I C
-C U M I N
+S O U T H
+S T O C K
 </pre>
 </details>
 
