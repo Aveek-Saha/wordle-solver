@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1324 3/6*
+Wordle 1325 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩🟨⬛🟨⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛⬛🟩🟨⬛ <br>
+⬛🟩🟩⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1324 3/6*
 
 <br> 
 
-Answer: `STOCK`
+Answer: `GRAVY`
 <pre>
 T A R E S
-S O U T H
-S T O C K
+B O A R D
+F R A N K
+C R A Z Y
+G R A V Y
 </pre>
 </details>
 
