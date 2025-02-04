@@ -4,12 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1325 5/6*
+Wordle 1326 5/6*
 
-⬛🟨🟨⬛⬛ <br>
-⬛⬛🟩🟨⬛ <br>
-⬛🟩🟩⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
+⬛⬛⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩⬛⬛🟩 <br>
+🟩🟩🟨⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +17,13 @@ Wordle 1325 5/6*
 
 <br> 
 
-Answer: `GRAVY`
+Answer: `LOCUS`
 <pre>
 T A R E S
-B O A R D
-F R A N K
-C R A Z Y
-G R A V Y
+B O O K S
+S O N G S
+L O U I S
+L O C U S
 </pre>
 </details>
 
