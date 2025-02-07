@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1328 3/6*
+Wordle 1329 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛⬛🟨🟩🟨 <br>
+🟨⬛⬛🟨⬛ <br>
+⬛⬛🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1328 3/6*
 
 <br> 
 
-Answer: `BREED`
+Answer: `QUITE`
 <pre>
 T A R E S
-U N D E R
-B R E E D
+W H I T E
+Q U I T E
 </pre>
 </details>
 
