@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1329 3/6*
+Wordle 1330 4/6*
 
-🟨⬛⬛🟨⬛ <br>
-⬛⬛🟩🟩🟩 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛⬛ <br>
+⬛🟨🟩🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1329 3/6*
 
 <br> 
 
-Answer: `QUITE`
+Answer: `CHAFE`
 <pre>
 T A R E S
-W H I T E
-Q U I T E
+E M A I L
+B E A C H
+C H A F E
 </pre>
 </details>
 
