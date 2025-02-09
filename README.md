@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1330 4/6*
+Wordle 1331 4/6*
 
-⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛⬛ <br>
-⬛🟨🟩🟨🟨 <br>
+⬛🟩⬛🟨⬛ <br>
+⬛🟩⬛⬛🟩 <br>
+⬛🟩⬛🟨🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1330 4/6*
 
 <br> 
 
-Answer: `CHAFE`
+Answer: `CACHE`
 <pre>
 T A R E S
-E M A I L
-B E A C H
-C H A F E
+V A L U E
+D A N C E
+C A C H E
 </pre>
 </details>
 
