@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1331 4/6*
+Wordle 1332 4/6*
 
-⬛🟩⬛🟨⬛ <br>
-⬛🟩⬛⬛🟩 <br>
-⬛🟩⬛🟨🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
+⬛⬛🟩⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1331 4/6*
 
 <br> 
 
-Answer: `CACHE`
+Answer: `BLIMP`
 <pre>
 T A R E S
-V A L U E
-D A N C E
-C A C H E
+W H I C H
+U N I O N
+B L I M P
 </pre>
 </details>
 
