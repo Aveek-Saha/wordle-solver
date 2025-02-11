@@ -4,11 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1332 4/6*
+Wordle 1333 5/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
-⬛⬛🟩⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩🟩🟨🟨 <br>
+🟨🟩🟩🟩⬛ <br>
+⬛🟩🟩🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +17,13 @@ Wordle 1332 4/6*
 
 <br> 
 
-Answer: `BLIMP`
+Answer: `DEIGN`
 <pre>
 T A R E S
-W H I C H
-U N I O N
-B L I M P
+B E I N G
+N E I G H
+F E I G N
+D E I G N
 </pre>
 </details>
 
