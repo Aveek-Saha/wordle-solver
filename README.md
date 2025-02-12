@@ -4,12 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1333 5/6*
+Wordle 1334 3/6*
 
 ⬛⬛⬛🟨⬛ <br>
-⬛🟩🟩🟨🟨 <br>
-🟨🟩🟩🟩⬛ <br>
-⬛🟩🟩🟩🟩 <br>
+⬛🟨🟨🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +15,11 @@ Wordle 1333 5/6*
 
 <br> 
 
-Answer: `DEIGN`
+Answer: `FIEND`
 <pre>
 T A R E S
 B E I N G
-N E I G H
-F E I G N
-D E I G N
+F I E N D
 </pre>
 </details>
 
