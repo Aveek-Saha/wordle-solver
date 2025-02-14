@@ -4,11 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1335 4/6*
+Wordle 1336 4/6*
 
-⬛⬛⬛⬛⬛ <br>
-⬛⬛🟨🟨⬛ <br>
-🟨⬛⬛🟩🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟨⬛⬛ <br>
+🟨⬛⬛⬛🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +16,12 @@ Wordle 1335 4/6*
 
 <br> 
 
-Answer: `LOGIC`
+Answer: `CHEAP`
 <pre>
 T A R E S
-W H I C H
-C I V I L
-L O G I C
+E M A I L
+A B O V E
+C H E A P
 </pre>
 </details>
 
