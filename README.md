@@ -4,13 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1337 6/6*
+Wordle 1338 3/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟨🟩⬛⬛ <br>
-⬛⬛🟩🟨🟩 <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩⬛🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+🟨🟨⬛⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -18,14 +15,11 @@ Wordle 1337 6/6*
 
 <br> 
 
-Answer: `ELIDE`
+Answer: `RIGID`
 <pre>
 T A R E S
-B E I N G
-W H I L E
-O L I V E
-C L I M E
-E L I D E
+G R O U P
+R I G I D
 </pre>
 </details>
 
