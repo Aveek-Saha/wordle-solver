@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1339 3/6*
+Wordle 1340 3/6*
 
-⬛🟩⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛🟨🟨🟨⬛ <br>
+🟨🟩🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1339 3/6*
 
 <br> 
 
-Answer: `FALSE`
+Answer: `RENAL`
 <pre>
 T A R E S
-C A U S E
-F A L S E
+L E A R N
+R E N A L
 </pre>
 </details>
 
