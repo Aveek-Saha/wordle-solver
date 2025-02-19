@@ -4,22 +4,28 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1340 3/6*
+Wordle 1341 X/6*
 
-⬛🟨🟨🟨⬛ <br>
-🟨🟩🟨🟨🟨 <br>
-🟩🟩🟩🟩🟩 <br>
+⬛⬛⬛🟨⬛ <br>
+⬛🟩⬛🟨⬛ <br>
+🟨🟩⬛⬛⬛ <br>
+⬛🟩🟩⬛🟩 <br>
+⬛🟩🟩🟩🟩 <br>
+⬛🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `RENAL`
+Answer: `PENCE`
 <pre>
 T A R E S
-L E A R N
-R E N A L
+B E I N G
+N E W L Y
+V E N U E
+H E N C E
+F E N C E
 </pre>
 </details>
 
