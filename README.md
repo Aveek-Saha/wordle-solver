@@ -4,28 +4,26 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1341 X/6*
+Wordle 1342 5/6*
 
-⬛⬛⬛🟨⬛ <br>
-⬛🟩⬛🟨⬛ <br>
-🟨🟩⬛⬛⬛ <br>
-⬛🟩🟩⬛🟩 <br>
-⬛🟩🟩🟩🟩 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛🟨⬛⬛ <br>
+⬛🟨🟨⬛⬛ <br>
+⬛🟩⬛⬛🟨 <br>
+🟩🟩⬛⬛⬛ <br>
+🟩🟩🟩🟩🟩 <br>
 
 <details>
 <summary>Solution [Spoilers]</summary>
 
 <br> 
 
-Answer: `PENCE`
+Answer: `ROWDY`
 <pre>
 T A R E S
-B E I N G
-N E W L Y
-V E N U E
-H E N C E
-F E N C E
+G R O U P
+C O L O R
+R O B I N
+R O W D Y
 </pre>
 </details>
 
