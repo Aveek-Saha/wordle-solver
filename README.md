@@ -4,10 +4,12 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1343 3/6*
+Wordle 1344 5/6*
 
-🟨⬛⬛⬛🟨 <br>
-🟩🟨⬛🟨🟨 <br>
+⬛🟨⬛🟨⬛ <br>
+🟨⬛🟩⬛🟨 <br>
+⬛🟩🟩⬛🟩 <br>
+🟩🟩🟩⬛🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +17,13 @@ Wordle 1343 3/6*
 
 <br> 
 
-Answer: `SHOOT`
+Answer: `BLAZE`
 <pre>
 T A R E S
-S O U T H
-S H O O T
+E M A I L
+P L A C E
+B L A D E
+B L A Z E
 </pre>
 </details>
 
