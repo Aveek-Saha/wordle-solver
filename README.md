@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1344 5/6*
+Wordle 1345 4/6*
 
+⬛⬛⬛🟨⬛ <br>
 ⬛🟨⬛🟨⬛ <br>
-🟨⬛🟩⬛🟨 <br>
-⬛🟩🟩⬛🟩 <br>
-🟩🟩🟩⬛🟩 <br>
+🟩🟩⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1344 5/6*
 
 <br> 
 
-Answer: `BLAZE`
+Answer: `ENVOY`
 <pre>
 T A R E S
-E M A I L
-P L A C E
-B L A D E
-B L A Z E
+B E I N G
+E N J O Y
+E N V O Y
 </pre>
 </details>
 
