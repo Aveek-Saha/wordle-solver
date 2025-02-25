@@ -4,12 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1346 5/6*
+Wordle 1347 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
-⬛🟩⬛🟩🟩 <br>
+⬛⬛🟨🟩⬛ <br>
+⬛⬛⬛🟩🟨 <br>
+⬛🟩⬛🟩⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -17,13 +16,12 @@ Wordle 1346 5/6*
 
 <br> 
 
-Answer: `POSSE`
+Answer: `BRIEF`
 <pre>
 T A R E S
-H O U S E
-N O I S E
-L O O S E
-P O S S E
+U N D E R
+G R E E K
+B R I E F
 </pre>
 </details>
 
