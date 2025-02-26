@@ -4,11 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1347 4/6*
+Wordle 1348 3/6*
 
 ⬛⬛🟨🟩⬛ <br>
-⬛⬛⬛🟩🟨 <br>
-⬛🟩⬛🟩⬛ <br>
+⬛🟨⬛🟩🟩 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -16,12 +15,11 @@ Wordle 1347 4/6*
 
 <br> 
 
-Answer: `BRIEF`
+Answer: `NEVER`
 <pre>
 T A R E S
 U N D E R
-G R E E K
-B R I E F
+N E V E R
 </pre>
 </details>
 
