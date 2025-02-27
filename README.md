@@ -4,10 +4,10 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1348 3/6*
+Wordle 1349 3/6*
 
-⬛⬛🟨🟩⬛ <br>
-⬛🟨⬛🟩🟩 <br>
+🟨🟨🟨⬛⬛ <br>
+🟩⬛🟨🟨🟨 <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +15,11 @@ Wordle 1348 3/6*
 
 <br> 
 
-Answer: `NEVER`
+Answer: `ABORT`
 <pre>
 T A R E S
-U N D E R
-N E V E R
+A C T O R
+A B O R T
 </pre>
 </details>
 
