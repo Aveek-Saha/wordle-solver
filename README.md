@@ -1,29 +1,10 @@
 # Wordle Solver
 
-A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/index.html) in hard mode. The daily Wordle solved below by the bot is updated and tweeted on [@SolverWordle](https://twitter.com/SolverWordle) automatically every day at 00:00 UTC.
+A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/index.html) in hard mode. ~~The daily Wordle solved below by the bot is updated and tweeted on [@SolverWordle](https://twitter.com/SolverWordle) automatically every day at 00:00 UTC.~~ 
 
-## Today's Wordle
+## Update
 
-Wordle 1351 4/6*
-
-⬛⬛⬛⬛⬛ <br>
-⬛⬛⬛🟨⬛ <br>
-🟨⬛🟨⬛⬛ <br>
-🟩🟩🟩🟩🟩 <br>
-
-<details>
-<summary>Solution [Spoilers]</summary>
-
-<br> 
-
-Answer: `MUCKY`
-<pre>
-T A R E S
-W H I C H
-C O U L D
-M U C K Y
-</pre>
-</details>
+Because of the changes in Twitter's API the bot can no longer post the daily Wordle answer. I am also disabling the daily solution update to this page. Feel free to fork the repo and enable this on your fork by uncommenting the chron schedule.
 
 # Rules
 
