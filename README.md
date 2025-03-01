@@ -4,10 +4,11 @@ A solver for the [official Wordle game](https://www.nytimes.com/games/wordle/ind
 
 ## Today's Wordle
 
-Wordle 1350 3/6*
+Wordle 1351 4/6*
 
-⬛⬛⬛🟨🟨 <br>
-⬛🟩🟩🟩🟩 <br>
+⬛⬛⬛⬛⬛ <br>
+⬛⬛⬛🟨⬛ <br>
+🟨⬛🟨⬛⬛ <br>
 🟩🟩🟩🟩🟩 <br>
 
 <details>
@@ -15,11 +16,12 @@ Wordle 1350 3/6*
 
 <br> 
 
-Answer: `MOUSE`
+Answer: `MUCKY`
 <pre>
 T A R E S
-H O U S E
-M O U S E
+W H I C H
+C O U L D
+M U C K Y
 </pre>
 </details>
 
